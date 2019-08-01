@@ -1,0 +1,10 @@
+
+Log Entry : 7:20:34 AM Wednesday, 22 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 7:20:36 AM Wednesday, 22 May 2019
+  :
+  :DESITALI - DES-TALISAY Data Preparing ..
+-------------------------------

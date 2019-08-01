@@ -1,0 +1,735 @@
+
+Log Entry : 3:41:58 PM Monday, 13 May 2019
+  :
+  :Data Start Reading
+-------------------------------
+
+Log Entry : 3:42:00 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-01-A
+-------------------------------
+
+Log Entry : 3:42:03 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-01-A
+-------------------------------
+
+Log Entry : 3:42:04 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,600.30
+-------------------------------
+
+Log Entry : 3:42:09 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-01-A
+-------------------------------
+
+Log Entry : 3:42:09 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-01-A
+-------------------------------
+
+Log Entry : 3:42:09 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (1 / 24) : DESMOROY - DES-MARKETING OROQUIETA YAMAHA_2018  : Data Progress ( 4.17 % ) 
+-------------------------------
+
+Log Entry : 3:42:12 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-01-B
+-------------------------------
+
+Log Entry : 3:42:15 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-01-B
+-------------------------------
+
+Log Entry : 3:42:15 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 3,861.50
+-------------------------------
+
+Log Entry : 3:42:20 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-01-B
+-------------------------------
+
+Log Entry : 3:42:20 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-01-B
+-------------------------------
+
+Log Entry : 3:42:20 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (2 / 24) : DESMOROY - DES-MARKETING OROQUIETA YAMAHA_2018  : Data Progress ( 8.33 % ) 
+-------------------------------
+
+Log Entry : 3:42:22 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-02-A
+-------------------------------
+
+Log Entry : 3:42:25 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-02-A
+-------------------------------
+
+Log Entry : 3:42:26 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,600.30
+-------------------------------
+
+Log Entry : 3:42:31 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-02-A
+-------------------------------
+
+Log Entry : 3:42:31 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-02-A
+-------------------------------
+
+Log Entry : 3:42:31 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (3 / 24) : DESMOROY - DES-MARKETING OROQUIETA YAMAHA_2018  : Data Progress ( 12.5 % ) 
+-------------------------------
+
+Log Entry : 3:42:33 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-02-B
+-------------------------------
+
+Log Entry : 3:42:36 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-02-B
+-------------------------------
+
+Log Entry : 3:42:37 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 3,870.42
+-------------------------------
+
+Log Entry : 3:42:42 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-02-B
+-------------------------------
+
+Log Entry : 3:42:42 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-02-B
+-------------------------------
+
+Log Entry : 3:42:42 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (4 / 24) : DESMOROY - DES-MARKETING OROQUIETA YAMAHA_2018  : Data Progress ( 16.67 % ) 
+-------------------------------
+
+Log Entry : 3:42:44 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-03-A
+-------------------------------
+
+Log Entry : 3:42:47 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-03-A
+-------------------------------
+
+Log Entry : 3:42:48 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,600.30
+-------------------------------
+
+Log Entry : 3:42:53 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-03-A
+-------------------------------
+
+Log Entry : 3:42:53 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-03-A
+-------------------------------
+
+Log Entry : 3:42:53 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (5 / 24) : DESMOROY - DES-MARKETING OROQUIETA YAMAHA_2018  : Data Progress ( 20.83 % ) 
+-------------------------------
+
+Log Entry : 3:42:55 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-03-B
+-------------------------------
+
+Log Entry : 3:42:58 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-03-B
+-------------------------------
+
+Log Entry : 3:42:58 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 3,861.50
+-------------------------------
+
+Log Entry : 3:43:04 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-03-B
+-------------------------------
+
+Log Entry : 3:43:04 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-03-B
+-------------------------------
+
+Log Entry : 3:43:04 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (6 / 24) : DESMOROY - DES-MARKETING OROQUIETA YAMAHA_2018  : Data Progress ( 25 % ) 
+-------------------------------
+
+Log Entry : 3:43:06 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-04-A
+-------------------------------
+
+Log Entry : 3:43:09 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-04-A
+-------------------------------
+
+Log Entry : 3:43:09 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,602.30
+-------------------------------
+
+Log Entry : 3:43:15 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-04-A
+-------------------------------
+
+Log Entry : 3:43:15 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-04-A
+-------------------------------
+
+Log Entry : 3:43:15 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (7 / 24) : DESMOROY - DES-MARKETING OROQUIETA YAMAHA_2018  : Data Progress ( 29.17 % ) 
+-------------------------------
+
+Log Entry : 3:43:17 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-04-B
+-------------------------------
+
+Log Entry : 3:43:20 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-04-B
+-------------------------------
+
+Log Entry : 3:43:20 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 3,861.50
+-------------------------------
+
+Log Entry : 3:43:25 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-04-B
+-------------------------------
+
+Log Entry : 3:43:26 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-04-B
+-------------------------------
+
+Log Entry : 3:43:26 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (8 / 24) : DESMOROY - DES-MARKETING OROQUIETA YAMAHA_2018  : Data Progress ( 33.33 % ) 
+-------------------------------
+
+Log Entry : 3:43:28 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-05-A
+-------------------------------
+
+Log Entry : 3:43:31 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-05-A
+-------------------------------
+
+Log Entry : 3:43:31 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,602.30
+-------------------------------
+
+Log Entry : 3:43:36 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-05-A
+-------------------------------
+
+Log Entry : 3:43:37 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-05-A
+-------------------------------
+
+Log Entry : 3:43:37 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (9 / 24) : DESMOROY - DES-MARKETING OROQUIETA YAMAHA_2018  : Data Progress ( 37.5 % ) 
+-------------------------------
+
+Log Entry : 3:43:39 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-05-B
+-------------------------------
+
+Log Entry : 3:43:42 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-05-B
+-------------------------------
+
+Log Entry : 3:43:42 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,111.50
+-------------------------------
+
+Log Entry : 3:43:47 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-05-B
+-------------------------------
+
+Log Entry : 3:43:47 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-05-B
+-------------------------------
+
+Log Entry : 3:43:47 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (10 / 24) : DESMOROY - DES-MARKETING OROQUIETA YAMAHA_2018  : Data Progress ( 41.67 % ) 
+-------------------------------
+
+Log Entry : 3:43:49 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-06-A
+-------------------------------
+
+Log Entry : 3:43:52 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-06-A
+-------------------------------
+
+Log Entry : 3:43:53 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,036.30
+-------------------------------
+
+Log Entry : 3:43:58 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-06-A
+-------------------------------
+
+Log Entry : 3:43:58 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-06-A
+-------------------------------
+
+Log Entry : 3:43:58 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (11 / 24) : DESMOROY - DES-MARKETING OROQUIETA YAMAHA_2018  : Data Progress ( 45.83 % ) 
+-------------------------------
+
+Log Entry : 3:44:00 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-06-B
+-------------------------------
+
+Log Entry : 3:44:03 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-06-B
+-------------------------------
+
+Log Entry : 3:44:04 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,295.50
+-------------------------------
+
+Log Entry : 3:44:09 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-06-B
+-------------------------------
+
+Log Entry : 3:44:09 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-06-B
+-------------------------------
+
+Log Entry : 3:44:09 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (12 / 24) : DESMOROY - DES-MARKETING OROQUIETA YAMAHA_2018  : Data Progress ( 50 % ) 
+-------------------------------
+
+Log Entry : 3:44:11 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-07-A
+-------------------------------
+
+Log Entry : 3:44:14 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-07-A
+-------------------------------
+
+Log Entry : 3:44:15 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 10,022.10
+-------------------------------
+
+Log Entry : 3:44:20 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-07-A
+-------------------------------
+
+Log Entry : 3:44:20 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-07-A
+-------------------------------
+
+Log Entry : 3:44:20 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (13 / 24) : DESMOROY - DES-MARKETING OROQUIETA YAMAHA_2018  : Data Progress ( 54.17 % ) 
+-------------------------------
+
+Log Entry : 3:44:22 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-07-B
+-------------------------------
+
+Log Entry : 3:44:25 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-07-B
+-------------------------------
+
+Log Entry : 3:44:26 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,570.50
+-------------------------------
+
+Log Entry : 3:44:31 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-07-B
+-------------------------------
+
+Log Entry : 3:44:31 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-07-B
+-------------------------------
+
+Log Entry : 3:44:31 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (14 / 24) : DESMOROY - DES-MARKETING OROQUIETA YAMAHA_2018  : Data Progress ( 58.33 % ) 
+-------------------------------
+
+Log Entry : 3:44:33 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-08-A
+-------------------------------
+
+Log Entry : 3:44:36 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-08-A
+-------------------------------
+
+Log Entry : 3:44:37 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 11,197.10
+-------------------------------
+
+Log Entry : 3:44:42 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-08-A
+-------------------------------
+
+Log Entry : 3:44:42 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-08-A
+-------------------------------
+
+Log Entry : 3:44:42 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (15 / 24) : DESMOROY - DES-MARKETING OROQUIETA YAMAHA_2018  : Data Progress ( 62.5 % ) 
+-------------------------------
+
+Log Entry : 3:44:44 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-08-B
+-------------------------------
+
+Log Entry : 3:44:47 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-08-B
+-------------------------------
+
+Log Entry : 3:44:48 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,449.96
+-------------------------------
+
+Log Entry : 3:44:53 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-08-B
+-------------------------------
+
+Log Entry : 3:44:53 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-08-B
+-------------------------------
+
+Log Entry : 3:44:53 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (16 / 24) : DESMOROY - DES-MARKETING OROQUIETA YAMAHA_2018  : Data Progress ( 66.67 % ) 
+-------------------------------
+
+Log Entry : 3:44:55 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-09-A
+-------------------------------
+
+Log Entry : 3:44:58 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-09-A
+-------------------------------
+
+Log Entry : 3:44:58 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 13,406.10
+-------------------------------
+
+Log Entry : 3:45:04 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-09-A
+-------------------------------
+
+Log Entry : 3:45:04 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-09-A
+-------------------------------
+
+Log Entry : 3:45:04 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (17 / 24) : DESMOROY - DES-MARKETING OROQUIETA YAMAHA_2018  : Data Progress ( 70.83 % ) 
+-------------------------------
+
+Log Entry : 3:45:06 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-09-B
+-------------------------------
+
+Log Entry : 3:45:09 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-09-B
+-------------------------------
+
+Log Entry : 3:45:09 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,583.00
+-------------------------------
+
+Log Entry : 3:45:14 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-09-B
+-------------------------------
+
+Log Entry : 3:45:15 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-09-B
+-------------------------------
+
+Log Entry : 3:45:15 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (18 / 24) : DESMOROY - DES-MARKETING OROQUIETA YAMAHA_2018  : Data Progress ( 75 % ) 
+-------------------------------
+
+Log Entry : 3:45:17 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-10-A
+-------------------------------
+
+Log Entry : 3:45:20 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-10-A
+-------------------------------
+
+Log Entry : 3:45:20 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 13,406.10
+-------------------------------
+
+Log Entry : 3:45:25 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-10-A
+-------------------------------
+
+Log Entry : 3:45:26 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-10-A
+-------------------------------
+
+Log Entry : 3:45:26 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (19 / 24) : DESMOROY - DES-MARKETING OROQUIETA YAMAHA_2018  : Data Progress ( 79.17 % ) 
+-------------------------------
+
+Log Entry : 3:45:28 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-10-B
+-------------------------------
+
+Log Entry : 3:45:31 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-10-B
+-------------------------------
+
+Log Entry : 3:45:31 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 10,616.00
+-------------------------------
+
+Log Entry : 3:45:36 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-10-B
+-------------------------------
+
+Log Entry : 3:45:37 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-10-B
+-------------------------------
+
+Log Entry : 3:45:37 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (20 / 24) : DESMOROY - DES-MARKETING OROQUIETA YAMAHA_2018  : Data Progress ( 83.33 % ) 
+-------------------------------
+
+Log Entry : 3:45:39 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-11-A
+-------------------------------
+
+Log Entry : 3:45:42 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-11-A
+-------------------------------
+
+Log Entry : 3:45:42 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 14,522.70
+-------------------------------
+
+Log Entry : 3:45:47 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-11-A
+-------------------------------
+
+Log Entry : 3:45:48 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-11-A
+-------------------------------
+
+Log Entry : 3:45:48 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (21 / 24) : DESMOROY - DES-MARKETING OROQUIETA YAMAHA_2018  : Data Progress ( 87.5 % ) 
+-------------------------------
+
+Log Entry : 3:45:50 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-11-B
+-------------------------------
+
+Log Entry : 3:45:53 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-11-B
+-------------------------------
+
+Log Entry : 3:45:53 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,499.50
+-------------------------------
+
+Log Entry : 3:45:58 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-11-B
+-------------------------------
+
+Log Entry : 3:45:59 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-11-B
+-------------------------------
+
+Log Entry : 3:45:59 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (22 / 24) : DESMOROY - DES-MARKETING OROQUIETA YAMAHA_2018  : Data Progress ( 91.67 % ) 
+-------------------------------
+
+Log Entry : 3:46:01 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-12-A
+-------------------------------
+
+Log Entry : 3:46:04 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-12-A
+-------------------------------
+
+Log Entry : 3:46:04 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 15,031.70
+-------------------------------
+
+Log Entry : 3:46:09 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-12-A
+-------------------------------
+
+Log Entry : 3:46:10 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-12-A
+-------------------------------
+
+Log Entry : 3:46:10 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (23 / 24) : DESMOROY - DES-MARKETING OROQUIETA YAMAHA_2018  : Data Progress ( 95.83 % ) 
+-------------------------------
+
+Log Entry : 3:46:12 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-12-B
+-------------------------------
+
+Log Entry : 3:46:15 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-12-B
+-------------------------------
+
+Log Entry : 3:46:15 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,846.50
+-------------------------------
+
+Log Entry : 3:46:20 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-12-B
+-------------------------------
+
+Log Entry : 3:46:21 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMOROY - DES-MARKETING OROQUIETA YAMAHA 2018 2018-12-B
+-------------------------------
+
+Log Entry : 3:46:21 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (24 / 24) : DESMOROY - DES-MARKETING OROQUIETA YAMAHA_2018  : Data Progress ( 100 % ) 
+-------------------------------
+
+Log Entry : 3:46:21 PM Monday, 13 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 3:46:23 PM Monday, 13 May 2019
+  :
+  :DESMOROY - DES-MARKETING OROQUIETA YAMAHA Data Preparing ..
+-------------------------------

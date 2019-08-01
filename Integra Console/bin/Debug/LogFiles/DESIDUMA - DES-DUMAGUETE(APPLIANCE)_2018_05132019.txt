@@ -1,0 +1,735 @@
+
+Log Entry : 2:22:52 PM Monday, 13 May 2019
+  :
+  :Data Start Reading
+-------------------------------
+
+Log Entry : 2:22:54 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:22:57 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:22:58 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 32,399.89
+-------------------------------
+
+Log Entry : 2:23:03 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:23:03 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:23:03 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (1 / 24) : DESIDUMA - DES-DUMAGUETE(APPLIANCE)_2018  : Data Progress ( 4.17 % ) 
+-------------------------------
+
+Log Entry : 2:23:05 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:23:08 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:23:09 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 23,491.19
+-------------------------------
+
+Log Entry : 2:23:14 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:23:14 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:23:14 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (2 / 24) : DESIDUMA - DES-DUMAGUETE(APPLIANCE)_2018  : Data Progress ( 8.33 % ) 
+-------------------------------
+
+Log Entry : 2:23:16 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:23:19 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:23:19 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 28,184.41
+-------------------------------
+
+Log Entry : 2:23:25 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:23:25 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:23:25 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (3 / 24) : DESIDUMA - DES-DUMAGUETE(APPLIANCE)_2018  : Data Progress ( 12.5 % ) 
+-------------------------------
+
+Log Entry : 2:23:27 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:23:30 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:23:30 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 18,886.82
+-------------------------------
+
+Log Entry : 2:23:36 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:23:36 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:23:36 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (4 / 24) : DESIDUMA - DES-DUMAGUETE(APPLIANCE)_2018  : Data Progress ( 16.67 % ) 
+-------------------------------
+
+Log Entry : 2:23:38 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:23:41 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:23:41 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 28,727.65
+-------------------------------
+
+Log Entry : 2:23:47 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:23:47 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:23:47 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (5 / 24) : DESIDUMA - DES-DUMAGUETE(APPLIANCE)_2018  : Data Progress ( 20.83 % ) 
+-------------------------------
+
+Log Entry : 2:23:49 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:23:52 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:23:52 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 20,154.32
+-------------------------------
+
+Log Entry : 2:23:58 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:23:58 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:23:58 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (6 / 24) : DESIDUMA - DES-DUMAGUETE(APPLIANCE)_2018  : Data Progress ( 25 % ) 
+-------------------------------
+
+Log Entry : 2:24:00 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:24:03 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:24:03 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 28,353.26
+-------------------------------
+
+Log Entry : 2:24:09 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:24:09 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:24:09 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (7 / 24) : DESIDUMA - DES-DUMAGUETE(APPLIANCE)_2018  : Data Progress ( 29.17 % ) 
+-------------------------------
+
+Log Entry : 2:24:11 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:24:14 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:24:14 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 19,171.63
+-------------------------------
+
+Log Entry : 2:24:19 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:24:20 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:24:20 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (8 / 24) : DESIDUMA - DES-DUMAGUETE(APPLIANCE)_2018  : Data Progress ( 33.33 % ) 
+-------------------------------
+
+Log Entry : 2:24:22 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:24:25 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:24:25 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 27,910.11
+-------------------------------
+
+Log Entry : 2:24:30 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:24:31 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:24:31 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (9 / 24) : DESIDUMA - DES-DUMAGUETE(APPLIANCE)_2018  : Data Progress ( 37.5 % ) 
+-------------------------------
+
+Log Entry : 2:24:33 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:24:36 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:24:36 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 19,215.41
+-------------------------------
+
+Log Entry : 2:24:41 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:24:42 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:24:42 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (10 / 24) : DESIDUMA - DES-DUMAGUETE(APPLIANCE)_2018  : Data Progress ( 41.67 % ) 
+-------------------------------
+
+Log Entry : 2:24:44 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:24:47 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:24:47 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 29,196.91
+-------------------------------
+
+Log Entry : 2:24:52 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:24:53 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:24:53 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (11 / 24) : DESIDUMA - DES-DUMAGUETE(APPLIANCE)_2018  : Data Progress ( 45.83 % ) 
+-------------------------------
+
+Log Entry : 2:24:55 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:24:58 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:24:58 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 18,282.91
+-------------------------------
+
+Log Entry : 2:25:03 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:25:03 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:25:03 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (12 / 24) : DESIDUMA - DES-DUMAGUETE(APPLIANCE)_2018  : Data Progress ( 50 % ) 
+-------------------------------
+
+Log Entry : 2:25:06 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:25:09 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:25:09 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 28,176.75
+-------------------------------
+
+Log Entry : 2:25:14 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:25:14 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:25:14 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (13 / 24) : DESIDUMA - DES-DUMAGUETE(APPLIANCE)_2018  : Data Progress ( 54.17 % ) 
+-------------------------------
+
+Log Entry : 2:25:16 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:25:19 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:25:20 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 18,508.25
+-------------------------------
+
+Log Entry : 2:25:25 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:25:25 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:25:25 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (14 / 24) : DESIDUMA - DES-DUMAGUETE(APPLIANCE)_2018  : Data Progress ( 58.33 % ) 
+-------------------------------
+
+Log Entry : 2:25:27 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:25:30 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:25:31 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 29,348.25
+-------------------------------
+
+Log Entry : 2:25:36 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:25:36 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:25:36 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (15 / 24) : DESIDUMA - DES-DUMAGUETE(APPLIANCE)_2018  : Data Progress ( 62.5 % ) 
+-------------------------------
+
+Log Entry : 2:25:38 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:25:41 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:25:42 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 20,535.99
+-------------------------------
+
+Log Entry : 2:25:47 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:25:47 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:25:47 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (16 / 24) : DESIDUMA - DES-DUMAGUETE(APPLIANCE)_2018  : Data Progress ( 66.67 % ) 
+-------------------------------
+
+Log Entry : 2:25:49 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:25:52 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:25:53 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 31,490.25
+-------------------------------
+
+Log Entry : 2:25:58 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:25:58 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:25:58 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (17 / 24) : DESIDUMA - DES-DUMAGUETE(APPLIANCE)_2018  : Data Progress ( 70.83 % ) 
+-------------------------------
+
+Log Entry : 2:26:00 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:26:03 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:26:04 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 21,884.60
+-------------------------------
+
+Log Entry : 2:26:09 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:26:09 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:26:09 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (18 / 24) : DESIDUMA - DES-DUMAGUETE(APPLIANCE)_2018  : Data Progress ( 75 % ) 
+-------------------------------
+
+Log Entry : 2:26:11 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:26:14 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:26:14 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 31,817.25
+-------------------------------
+
+Log Entry : 2:26:20 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:26:20 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:26:20 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (19 / 24) : DESIDUMA - DES-DUMAGUETE(APPLIANCE)_2018  : Data Progress ( 79.17 % ) 
+-------------------------------
+
+Log Entry : 2:26:22 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:26:25 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:26:25 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 22,440.60
+-------------------------------
+
+Log Entry : 2:26:30 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:26:31 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:26:31 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (20 / 24) : DESIDUMA - DES-DUMAGUETE(APPLIANCE)_2018  : Data Progress ( 83.33 % ) 
+-------------------------------
+
+Log Entry : 2:26:33 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:26:36 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:26:36 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 32,184.63
+-------------------------------
+
+Log Entry : 2:26:41 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:26:42 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:26:42 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (21 / 24) : DESIDUMA - DES-DUMAGUETE(APPLIANCE)_2018  : Data Progress ( 87.5 % ) 
+-------------------------------
+
+Log Entry : 2:26:44 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:26:47 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:26:47 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 23,269.10
+-------------------------------
+
+Log Entry : 2:26:52 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:26:52 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:26:52 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (22 / 24) : DESIDUMA - DES-DUMAGUETE(APPLIANCE)_2018  : Data Progress ( 91.67 % ) 
+-------------------------------
+
+Log Entry : 2:26:54 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:26:57 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:26:58 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 32,278.25
+-------------------------------
+
+Log Entry : 2:27:03 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:27:03 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:27:03 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (23 / 24) : DESIDUMA - DES-DUMAGUETE(APPLIANCE)_2018  : Data Progress ( 95.83 % ) 
+-------------------------------
+
+Log Entry : 2:27:05 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:27:08 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:27:09 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 22,672.10
+-------------------------------
+
+Log Entry : 2:27:14 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:27:14 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDUMA - DES-DUMAGUETE(APPLIANCE) 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:27:14 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (24 / 24) : DESIDUMA - DES-DUMAGUETE(APPLIANCE)_2018  : Data Progress ( 100 % ) 
+-------------------------------
+
+Log Entry : 2:27:14 PM Monday, 13 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 2:27:16 PM Monday, 13 May 2019
+  :
+  :DESIDUMA - DES-DUMAGUETE(APPLIANCE) Data Preparing ..
+-------------------------------

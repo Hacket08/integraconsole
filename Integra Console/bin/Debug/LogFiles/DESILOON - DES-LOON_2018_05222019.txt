@@ -1,0 +1,10 @@
+
+Log Entry : 6:59:02 AM Wednesday, 22 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 6:59:04 AM Wednesday, 22 May 2019
+  :
+  :DESILOON - DES-LOON Data Preparing ..
+-------------------------------

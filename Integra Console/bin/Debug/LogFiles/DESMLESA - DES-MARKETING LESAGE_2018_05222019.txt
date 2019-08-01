@@ -1,0 +1,10 @@
+
+Log Entry : 7:08:37 AM Wednesday, 22 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 7:08:39 AM Wednesday, 22 May 2019
+  :
+  :DESMLESA - DES-MARKETING LESAGE Data Preparing ..
+-------------------------------

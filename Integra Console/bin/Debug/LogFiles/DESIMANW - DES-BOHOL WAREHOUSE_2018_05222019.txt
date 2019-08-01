@@ -1,0 +1,710 @@
+
+Log Entry : 6:59:12 AM Wednesday, 22 May 2019
+  :
+  :Data Start Reading
+-------------------------------
+
+Log Entry : 6:59:14 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (1 / 24) : DESIMANW - DES-BOHOL WAREHOUSE_2018  : Data Progress ( 4.17 % ) 
+-------------------------------
+
+Log Entry : 6:59:16 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-01-B
+-------------------------------
+
+Log Entry : 6:59:18 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-01-B
+-------------------------------
+
+Log Entry : 6:59:19 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,452.00
+-------------------------------
+
+Log Entry : 6:59:22 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-01-B
+-------------------------------
+
+Log Entry : 6:59:27 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-01-B
+-------------------------------
+
+Log Entry : 6:59:27 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (2 / 24) : DESIMANW - DES-BOHOL WAREHOUSE_2018  : Data Progress ( 8.33 % ) 
+-------------------------------
+
+Log Entry : 6:59:29 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-02-A
+-------------------------------
+
+Log Entry : 6:59:32 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-02-A
+-------------------------------
+
+Log Entry : 6:59:32 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 12,165.16
+-------------------------------
+
+Log Entry : 6:59:36 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-02-A
+-------------------------------
+
+Log Entry : 6:59:41 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-02-A
+-------------------------------
+
+Log Entry : 6:59:41 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (3 / 24) : DESIMANW - DES-BOHOL WAREHOUSE_2018  : Data Progress ( 12.5 % ) 
+-------------------------------
+
+Log Entry : 6:59:43 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-02-B
+-------------------------------
+
+Log Entry : 6:59:45 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-02-B
+-------------------------------
+
+Log Entry : 6:59:46 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,714.00
+-------------------------------
+
+Log Entry : 6:59:49 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-02-B
+-------------------------------
+
+Log Entry : 6:59:54 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-02-B
+-------------------------------
+
+Log Entry : 6:59:54 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (4 / 24) : DESIMANW - DES-BOHOL WAREHOUSE_2018  : Data Progress ( 16.67 % ) 
+-------------------------------
+
+Log Entry : 6:59:56 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-03-A
+-------------------------------
+
+Log Entry : 6:59:58 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-03-A
+-------------------------------
+
+Log Entry : 6:59:59 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 12,727.60
+-------------------------------
+
+Log Entry : 7:00:02 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-03-A
+-------------------------------
+
+Log Entry : 7:00:08 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-03-A
+-------------------------------
+
+Log Entry : 7:00:08 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (5 / 24) : DESIMANW - DES-BOHOL WAREHOUSE_2018  : Data Progress ( 20.83 % ) 
+-------------------------------
+
+Log Entry : 7:00:10 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-03-B
+-------------------------------
+
+Log Entry : 7:00:12 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-03-B
+-------------------------------
+
+Log Entry : 7:00:13 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,487.50
+-------------------------------
+
+Log Entry : 7:00:16 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-03-B
+-------------------------------
+
+Log Entry : 7:00:21 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-03-B
+-------------------------------
+
+Log Entry : 7:00:21 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (6 / 24) : DESIMANW - DES-BOHOL WAREHOUSE_2018  : Data Progress ( 25 % ) 
+-------------------------------
+
+Log Entry : 7:00:23 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-04-A
+-------------------------------
+
+Log Entry : 7:00:26 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-04-A
+-------------------------------
+
+Log Entry : 7:00:26 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 11,252.30
+-------------------------------
+
+Log Entry : 7:00:30 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-04-A
+-------------------------------
+
+Log Entry : 7:00:35 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-04-A
+-------------------------------
+
+Log Entry : 7:00:35 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (7 / 24) : DESIMANW - DES-BOHOL WAREHOUSE_2018  : Data Progress ( 29.17 % ) 
+-------------------------------
+
+Log Entry : 7:00:37 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-04-B
+-------------------------------
+
+Log Entry : 7:00:39 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-04-B
+-------------------------------
+
+Log Entry : 7:00:40 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,715.00
+-------------------------------
+
+Log Entry : 7:00:43 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-04-B
+-------------------------------
+
+Log Entry : 7:00:49 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-04-B
+-------------------------------
+
+Log Entry : 7:00:49 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (8 / 24) : DESIMANW - DES-BOHOL WAREHOUSE_2018  : Data Progress ( 33.33 % ) 
+-------------------------------
+
+Log Entry : 7:00:51 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-05-A
+-------------------------------
+
+Log Entry : 7:00:53 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-05-A
+-------------------------------
+
+Log Entry : 7:00:53 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 10,105.30
+-------------------------------
+
+Log Entry : 7:00:57 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-05-A
+-------------------------------
+
+Log Entry : 7:01:02 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-05-A
+-------------------------------
+
+Log Entry : 7:01:02 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (9 / 24) : DESIMANW - DES-BOHOL WAREHOUSE_2018  : Data Progress ( 37.5 % ) 
+-------------------------------
+
+Log Entry : 7:01:04 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-05-B
+-------------------------------
+
+Log Entry : 7:01:06 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-05-B
+-------------------------------
+
+Log Entry : 7:01:07 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,881.00
+-------------------------------
+
+Log Entry : 7:01:10 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-05-B
+-------------------------------
+
+Log Entry : 7:01:15 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-05-B
+-------------------------------
+
+Log Entry : 7:01:15 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (10 / 24) : DESIMANW - DES-BOHOL WAREHOUSE_2018  : Data Progress ( 41.67 % ) 
+-------------------------------
+
+Log Entry : 7:01:18 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-06-A
+-------------------------------
+
+Log Entry : 7:01:20 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-06-A
+-------------------------------
+
+Log Entry : 7:01:20 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 11,324.30
+-------------------------------
+
+Log Entry : 7:01:24 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-06-A
+-------------------------------
+
+Log Entry : 7:01:29 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-06-A
+-------------------------------
+
+Log Entry : 7:01:29 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (11 / 24) : DESIMANW - DES-BOHOL WAREHOUSE_2018  : Data Progress ( 45.83 % ) 
+-------------------------------
+
+Log Entry : 7:01:31 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-06-B
+-------------------------------
+
+Log Entry : 7:01:33 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-06-B
+-------------------------------
+
+Log Entry : 7:01:34 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,098.00
+-------------------------------
+
+Log Entry : 7:01:37 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-06-B
+-------------------------------
+
+Log Entry : 7:01:42 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-06-B
+-------------------------------
+
+Log Entry : 7:01:42 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (12 / 24) : DESIMANW - DES-BOHOL WAREHOUSE_2018  : Data Progress ( 50 % ) 
+-------------------------------
+
+Log Entry : 7:01:44 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-07-A
+-------------------------------
+
+Log Entry : 7:01:46 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-07-A
+-------------------------------
+
+Log Entry : 7:01:47 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 11,717.30
+-------------------------------
+
+Log Entry : 7:01:50 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-07-A
+-------------------------------
+
+Log Entry : 7:01:55 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-07-A
+-------------------------------
+
+Log Entry : 7:01:56 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (13 / 24) : DESIMANW - DES-BOHOL WAREHOUSE_2018  : Data Progress ( 54.17 % ) 
+-------------------------------
+
+Log Entry : 7:01:58 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-07-B
+-------------------------------
+
+Log Entry : 7:02:00 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-07-B
+-------------------------------
+
+Log Entry : 7:02:00 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,491.00
+-------------------------------
+
+Log Entry : 7:02:04 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-07-B
+-------------------------------
+
+Log Entry : 7:02:09 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-07-B
+-------------------------------
+
+Log Entry : 7:02:09 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (14 / 24) : DESIMANW - DES-BOHOL WAREHOUSE_2018  : Data Progress ( 58.33 % ) 
+-------------------------------
+
+Log Entry : 7:02:11 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-08-A
+-------------------------------
+
+Log Entry : 7:02:13 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-08-A
+-------------------------------
+
+Log Entry : 7:02:14 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 11,929.80
+-------------------------------
+
+Log Entry : 7:02:17 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-08-A
+-------------------------------
+
+Log Entry : 7:02:23 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-08-A
+-------------------------------
+
+Log Entry : 7:02:23 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (15 / 24) : DESIMANW - DES-BOHOL WAREHOUSE_2018  : Data Progress ( 62.5 % ) 
+-------------------------------
+
+Log Entry : 7:02:25 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-08-B
+-------------------------------
+
+Log Entry : 7:02:27 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-08-B
+-------------------------------
+
+Log Entry : 7:02:27 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,496.36
+-------------------------------
+
+Log Entry : 7:02:31 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-08-B
+-------------------------------
+
+Log Entry : 7:02:36 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-08-B
+-------------------------------
+
+Log Entry : 7:02:36 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (16 / 24) : DESIMANW - DES-BOHOL WAREHOUSE_2018  : Data Progress ( 66.67 % ) 
+-------------------------------
+
+Log Entry : 7:02:38 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-09-A
+-------------------------------
+
+Log Entry : 7:02:40 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-09-A
+-------------------------------
+
+Log Entry : 7:02:41 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 12,128.80
+-------------------------------
+
+Log Entry : 7:02:44 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-09-A
+-------------------------------
+
+Log Entry : 7:02:49 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-09-A
+-------------------------------
+
+Log Entry : 7:02:49 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (17 / 24) : DESIMANW - DES-BOHOL WAREHOUSE_2018  : Data Progress ( 70.83 % ) 
+-------------------------------
+
+Log Entry : 7:02:51 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-09-B
+-------------------------------
+
+Log Entry : 7:02:53 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-09-B
+-------------------------------
+
+Log Entry : 7:02:54 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,565.86
+-------------------------------
+
+Log Entry : 7:02:57 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-09-B
+-------------------------------
+
+Log Entry : 7:03:03 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-09-B
+-------------------------------
+
+Log Entry : 7:03:03 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (18 / 24) : DESIMANW - DES-BOHOL WAREHOUSE_2018  : Data Progress ( 75 % ) 
+-------------------------------
+
+Log Entry : 7:03:05 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-10-A
+-------------------------------
+
+Log Entry : 7:03:07 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-10-A
+-------------------------------
+
+Log Entry : 7:03:08 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 13,001.30
+-------------------------------
+
+Log Entry : 7:03:11 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-10-A
+-------------------------------
+
+Log Entry : 7:03:16 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-10-A
+-------------------------------
+
+Log Entry : 7:03:16 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (19 / 24) : DESIMANW - DES-BOHOL WAREHOUSE_2018  : Data Progress ( 79.17 % ) 
+-------------------------------
+
+Log Entry : 7:03:18 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-10-B
+-------------------------------
+
+Log Entry : 7:03:20 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-10-B
+-------------------------------
+
+Log Entry : 7:03:21 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,076.36
+-------------------------------
+
+Log Entry : 7:03:24 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-10-B
+-------------------------------
+
+Log Entry : 7:03:30 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-10-B
+-------------------------------
+
+Log Entry : 7:03:30 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (20 / 24) : DESIMANW - DES-BOHOL WAREHOUSE_2018  : Data Progress ( 83.33 % ) 
+-------------------------------
+
+Log Entry : 7:03:32 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-11-A
+-------------------------------
+
+Log Entry : 7:03:34 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-11-A
+-------------------------------
+
+Log Entry : 7:03:35 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 12,511.80
+-------------------------------
+
+Log Entry : 7:03:38 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-11-A
+-------------------------------
+
+Log Entry : 7:03:43 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-11-A
+-------------------------------
+
+Log Entry : 7:03:43 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (21 / 24) : DESIMANW - DES-BOHOL WAREHOUSE_2018  : Data Progress ( 87.5 % ) 
+-------------------------------
+
+Log Entry : 7:03:45 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-11-B
+-------------------------------
+
+Log Entry : 7:03:47 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-11-B
+-------------------------------
+
+Log Entry : 7:03:48 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,076.36
+-------------------------------
+
+Log Entry : 7:03:51 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-11-B
+-------------------------------
+
+Log Entry : 7:03:56 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-11-B
+-------------------------------
+
+Log Entry : 7:03:56 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (22 / 24) : DESIMANW - DES-BOHOL WAREHOUSE_2018  : Data Progress ( 91.67 % ) 
+-------------------------------
+
+Log Entry : 7:03:58 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 7:04:01 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 7:04:01 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 13,269.80
+-------------------------------
+
+Log Entry : 7:04:05 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 7:04:10 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 7:04:10 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (23 / 24) : DESIMANW - DES-BOHOL WAREHOUSE_2018  : Data Progress ( 95.83 % ) 
+-------------------------------
+
+Log Entry : 7:04:12 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 7:04:14 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 7:04:15 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,468.86
+-------------------------------
+
+Log Entry : 7:04:18 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 7:04:23 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIMANW - DES-BOHOL WAREHOUSE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 7:04:23 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (24 / 24) : DESIMANW - DES-BOHOL WAREHOUSE_2018  : Data Progress ( 100 % ) 
+-------------------------------
+
+Log Entry : 7:04:23 AM Wednesday, 22 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 7:04:25 AM Wednesday, 22 May 2019
+  :
+  :DESIMANW - DES-BOHOL WAREHOUSE Data Preparing ..
+-------------------------------

@@ -1,0 +1,10 @@
+
+Log Entry : 7:26:24 AM Wednesday, 22 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 7:26:26 AM Wednesday, 22 May 2019
+  :
+  :DESMBALM - DES-MARKETING BALAMBAN Data Preparing ..
+-------------------------------

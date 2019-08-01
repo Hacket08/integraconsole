@@ -1,0 +1,520 @@
+
+Log Entry : 7:05:34 AM Wednesday, 22 May 2019
+  :
+  :Data Start Reading
+-------------------------------
+
+Log Entry : 7:05:36 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (1 / 24) : DESMHOFC - DES-MARKETING HEAD OFFICE_2018  : Data Progress ( 4.17 % ) 
+-------------------------------
+
+Log Entry : 7:05:38 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-01-B
+-------------------------------
+
+Log Entry : 7:05:40 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-01-B
+-------------------------------
+
+Log Entry : 7:05:41 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 137.50
+-------------------------------
+
+Log Entry : 7:05:44 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-01-B
+-------------------------------
+
+Log Entry : 7:05:49 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-01-B
+-------------------------------
+
+Log Entry : 7:05:49 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (2 / 24) : DESMHOFC - DES-MARKETING HEAD OFFICE_2018  : Data Progress ( 8.33 % ) 
+-------------------------------
+
+Log Entry : 7:05:52 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-02-A
+-------------------------------
+
+Log Entry : 7:05:54 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-02-A
+-------------------------------
+
+Log Entry : 7:05:54 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 482.80
+-------------------------------
+
+Log Entry : 7:05:57 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-02-A
+-------------------------------
+
+Log Entry : 7:06:03 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-02-A
+-------------------------------
+
+Log Entry : 7:06:03 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (3 / 24) : DESMHOFC - DES-MARKETING HEAD OFFICE_2018  : Data Progress ( 12.5 % ) 
+-------------------------------
+
+Log Entry : 7:06:05 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-02-B
+-------------------------------
+
+Log Entry : 7:06:07 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-02-B
+-------------------------------
+
+Log Entry : 7:06:07 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 137.50
+-------------------------------
+
+Log Entry : 7:06:11 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-02-B
+-------------------------------
+
+Log Entry : 7:06:16 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-02-B
+-------------------------------
+
+Log Entry : 7:06:16 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (4 / 24) : DESMHOFC - DES-MARKETING HEAD OFFICE_2018  : Data Progress ( 16.67 % ) 
+-------------------------------
+
+Log Entry : 7:06:18 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-03-A
+-------------------------------
+
+Log Entry : 7:06:20 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-03-A
+-------------------------------
+
+Log Entry : 7:06:21 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 482.80
+-------------------------------
+
+Log Entry : 7:06:24 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-03-A
+-------------------------------
+
+Log Entry : 7:06:29 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-03-A
+-------------------------------
+
+Log Entry : 7:06:29 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (5 / 24) : DESMHOFC - DES-MARKETING HEAD OFFICE_2018  : Data Progress ( 20.83 % ) 
+-------------------------------
+
+Log Entry : 7:06:31 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-03-B
+-------------------------------
+
+Log Entry : 7:06:33 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-03-B
+-------------------------------
+
+Log Entry : 7:06:34 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 7:06:34 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (6 / 24) : DESMHOFC - DES-MARKETING HEAD OFFICE_2018  : Data Progress ( 25 % ) 
+-------------------------------
+
+Log Entry : 7:06:36 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-04-A
+-------------------------------
+
+Log Entry : 7:06:38 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-04-A
+-------------------------------
+
+Log Entry : 7:06:38 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 7:06:39 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (7 / 24) : DESMHOFC - DES-MARKETING HEAD OFFICE_2018  : Data Progress ( 29.17 % ) 
+-------------------------------
+
+Log Entry : 7:06:41 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-04-B
+-------------------------------
+
+Log Entry : 7:06:43 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-04-B
+-------------------------------
+
+Log Entry : 7:06:43 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 7:06:43 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (8 / 24) : DESMHOFC - DES-MARKETING HEAD OFFICE_2018  : Data Progress ( 33.33 % ) 
+-------------------------------
+
+Log Entry : 7:06:45 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-05-A
+-------------------------------
+
+Log Entry : 7:06:47 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-05-A
+-------------------------------
+
+Log Entry : 7:06:48 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 7:06:48 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (9 / 24) : DESMHOFC - DES-MARKETING HEAD OFFICE_2018  : Data Progress ( 37.5 % ) 
+-------------------------------
+
+Log Entry : 7:06:50 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-05-B
+-------------------------------
+
+Log Entry : 7:06:52 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-05-B
+-------------------------------
+
+Log Entry : 7:06:52 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 7:06:52 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (10 / 24) : DESMHOFC - DES-MARKETING HEAD OFFICE_2018  : Data Progress ( 41.67 % ) 
+-------------------------------
+
+Log Entry : 7:06:54 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-06-A
+-------------------------------
+
+Log Entry : 7:06:56 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-06-A
+-------------------------------
+
+Log Entry : 7:06:57 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 7:06:57 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (11 / 24) : DESMHOFC - DES-MARKETING HEAD OFFICE_2018  : Data Progress ( 45.83 % ) 
+-------------------------------
+
+Log Entry : 7:06:59 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-06-B
+-------------------------------
+
+Log Entry : 7:07:01 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-06-B
+-------------------------------
+
+Log Entry : 7:07:01 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 7:07:01 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (12 / 24) : DESMHOFC - DES-MARKETING HEAD OFFICE_2018  : Data Progress ( 50 % ) 
+-------------------------------
+
+Log Entry : 7:07:03 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-07-A
+-------------------------------
+
+Log Entry : 7:07:05 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-07-A
+-------------------------------
+
+Log Entry : 7:07:06 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 7:07:06 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (13 / 24) : DESMHOFC - DES-MARKETING HEAD OFFICE_2018  : Data Progress ( 54.17 % ) 
+-------------------------------
+
+Log Entry : 7:07:08 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-07-B
+-------------------------------
+
+Log Entry : 7:07:10 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-07-B
+-------------------------------
+
+Log Entry : 7:07:10 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 7:07:10 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (14 / 24) : DESMHOFC - DES-MARKETING HEAD OFFICE_2018  : Data Progress ( 58.33 % ) 
+-------------------------------
+
+Log Entry : 7:07:12 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-08-A
+-------------------------------
+
+Log Entry : 7:07:14 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-08-A
+-------------------------------
+
+Log Entry : 7:07:15 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 7:07:15 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (15 / 24) : DESMHOFC - DES-MARKETING HEAD OFFICE_2018  : Data Progress ( 62.5 % ) 
+-------------------------------
+
+Log Entry : 7:07:17 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-08-B
+-------------------------------
+
+Log Entry : 7:07:19 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-08-B
+-------------------------------
+
+Log Entry : 7:07:20 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 7:07:20 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (16 / 24) : DESMHOFC - DES-MARKETING HEAD OFFICE_2018  : Data Progress ( 66.67 % ) 
+-------------------------------
+
+Log Entry : 7:07:22 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-09-A
+-------------------------------
+
+Log Entry : 7:07:24 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-09-A
+-------------------------------
+
+Log Entry : 7:07:24 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 7:07:24 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (17 / 24) : DESMHOFC - DES-MARKETING HEAD OFFICE_2018  : Data Progress ( 70.83 % ) 
+-------------------------------
+
+Log Entry : 7:07:26 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-09-B
+-------------------------------
+
+Log Entry : 7:07:28 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-09-B
+-------------------------------
+
+Log Entry : 7:07:29 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 7:07:29 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (18 / 24) : DESMHOFC - DES-MARKETING HEAD OFFICE_2018  : Data Progress ( 75 % ) 
+-------------------------------
+
+Log Entry : 7:07:31 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-10-A
+-------------------------------
+
+Log Entry : 7:07:33 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-10-A
+-------------------------------
+
+Log Entry : 7:07:33 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 7:07:33 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (19 / 24) : DESMHOFC - DES-MARKETING HEAD OFFICE_2018  : Data Progress ( 79.17 % ) 
+-------------------------------
+
+Log Entry : 7:07:35 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-10-B
+-------------------------------
+
+Log Entry : 7:07:37 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-10-B
+-------------------------------
+
+Log Entry : 7:07:38 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 7:07:38 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (20 / 24) : DESMHOFC - DES-MARKETING HEAD OFFICE_2018  : Data Progress ( 83.33 % ) 
+-------------------------------
+
+Log Entry : 7:07:40 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-11-A
+-------------------------------
+
+Log Entry : 7:07:42 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-11-A
+-------------------------------
+
+Log Entry : 7:07:42 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 7:07:42 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (21 / 24) : DESMHOFC - DES-MARKETING HEAD OFFICE_2018  : Data Progress ( 87.5 % ) 
+-------------------------------
+
+Log Entry : 7:07:44 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-11-B
+-------------------------------
+
+Log Entry : 7:07:46 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-11-B
+-------------------------------
+
+Log Entry : 7:07:47 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 7:07:47 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (22 / 24) : DESMHOFC - DES-MARKETING HEAD OFFICE_2018  : Data Progress ( 91.67 % ) 
+-------------------------------
+
+Log Entry : 7:07:49 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 7:07:51 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 7:07:52 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 7:07:52 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (23 / 24) : DESMHOFC - DES-MARKETING HEAD OFFICE_2018  : Data Progress ( 95.83 % ) 
+-------------------------------
+
+Log Entry : 7:07:54 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 7:07:56 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESMHOFC - DES-MARKETING HEAD OFFICE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 7:07:56 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 7:07:56 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (24 / 24) : DESMHOFC - DES-MARKETING HEAD OFFICE_2018  : Data Progress ( 100 % ) 
+-------------------------------
+
+Log Entry : 7:07:56 AM Wednesday, 22 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 7:07:58 AM Wednesday, 22 May 2019
+  :
+  :DESMHOFC - DES-MARKETING HEAD OFFICE Data Preparing ..
+-------------------------------

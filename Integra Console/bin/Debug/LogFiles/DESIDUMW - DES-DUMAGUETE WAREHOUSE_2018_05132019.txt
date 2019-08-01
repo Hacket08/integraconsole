@@ -1,0 +1,10 @@
+
+Log Entry : 2:34:19 PM Monday, 13 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 2:34:21 PM Monday, 13 May 2019
+  :
+  :DESIDUMW - DES-DUMAGUETE WAREHOUSE Data Preparing ..
+-------------------------------

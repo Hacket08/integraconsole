@@ -1,0 +1,515 @@
+
+Log Entry : 2:20:21 PM Monday, 13 May 2019
+  :
+  :Data Start Reading
+-------------------------------
+
+Log Entry : 2:20:23 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:20:26 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:20:26 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:20:26 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (1 / 24) : DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE_2018  : Data Progress ( 4.17 % ) 
+-------------------------------
+
+Log Entry : 2:20:28 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:20:31 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:20:31 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:20:31 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (2 / 24) : DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE_2018  : Data Progress ( 8.33 % ) 
+-------------------------------
+
+Log Entry : 2:20:33 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:20:36 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:20:37 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:20:37 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (3 / 24) : DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE_2018  : Data Progress ( 12.5 % ) 
+-------------------------------
+
+Log Entry : 2:20:39 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:20:42 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:20:42 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:20:42 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (4 / 24) : DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE_2018  : Data Progress ( 16.67 % ) 
+-------------------------------
+
+Log Entry : 2:20:44 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:20:47 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:20:48 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:20:48 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (5 / 24) : DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE_2018  : Data Progress ( 20.83 % ) 
+-------------------------------
+
+Log Entry : 2:20:50 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:20:53 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:20:53 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:20:53 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (6 / 24) : DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE_2018  : Data Progress ( 25 % ) 
+-------------------------------
+
+Log Entry : 2:20:55 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:20:58 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:20:59 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:20:59 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (7 / 24) : DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE_2018  : Data Progress ( 29.17 % ) 
+-------------------------------
+
+Log Entry : 2:21:01 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:21:04 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:21:04 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:21:04 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (8 / 24) : DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE_2018  : Data Progress ( 33.33 % ) 
+-------------------------------
+
+Log Entry : 2:21:06 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:21:09 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:21:10 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:21:10 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (9 / 24) : DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE_2018  : Data Progress ( 37.5 % ) 
+-------------------------------
+
+Log Entry : 2:21:12 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:21:15 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:21:15 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:21:15 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (10 / 24) : DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE_2018  : Data Progress ( 41.67 % ) 
+-------------------------------
+
+Log Entry : 2:21:17 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:21:20 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:21:20 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:21:20 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (11 / 24) : DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE_2018  : Data Progress ( 45.83 % ) 
+-------------------------------
+
+Log Entry : 2:21:22 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:21:25 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:21:26 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:21:26 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (12 / 24) : DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE_2018  : Data Progress ( 50 % ) 
+-------------------------------
+
+Log Entry : 2:21:28 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:21:31 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:21:31 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:21:31 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (13 / 24) : DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE_2018  : Data Progress ( 54.17 % ) 
+-------------------------------
+
+Log Entry : 2:21:33 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:21:36 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:21:37 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:21:37 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (14 / 24) : DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE_2018  : Data Progress ( 58.33 % ) 
+-------------------------------
+
+Log Entry : 2:21:39 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:21:42 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:21:42 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:21:42 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (15 / 24) : DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE_2018  : Data Progress ( 62.5 % ) 
+-------------------------------
+
+Log Entry : 2:21:44 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:21:47 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:21:48 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:21:48 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (16 / 24) : DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE_2018  : Data Progress ( 66.67 % ) 
+-------------------------------
+
+Log Entry : 2:21:50 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:21:53 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:21:53 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:21:53 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (17 / 24) : DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE_2018  : Data Progress ( 70.83 % ) 
+-------------------------------
+
+Log Entry : 2:21:55 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:21:58 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:21:58 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:21:58 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (18 / 24) : DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE_2018  : Data Progress ( 75 % ) 
+-------------------------------
+
+Log Entry : 2:22:00 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:22:03 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:22:04 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:22:04 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (19 / 24) : DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE_2018  : Data Progress ( 79.17 % ) 
+-------------------------------
+
+Log Entry : 2:22:06 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:22:09 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:22:09 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:22:09 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (20 / 24) : DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE_2018  : Data Progress ( 83.33 % ) 
+-------------------------------
+
+Log Entry : 2:22:11 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:22:14 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:22:15 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:22:15 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (21 / 24) : DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE_2018  : Data Progress ( 87.5 % ) 
+-------------------------------
+
+Log Entry : 2:22:17 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:22:20 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:22:20 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:22:20 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (22 / 24) : DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE_2018  : Data Progress ( 91.67 % ) 
+-------------------------------
+
+Log Entry : 2:22:22 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:22:25 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:22:26 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 454.70
+-------------------------------
+
+Log Entry : 2:22:31 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:22:31 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:22:31 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (23 / 24) : DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE_2018  : Data Progress ( 95.83 % ) 
+-------------------------------
+
+Log Entry : 2:22:33 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:22:36 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:22:36 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 275.00
+-------------------------------
+
+Log Entry : 2:22:42 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:22:42 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:22:42 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (24 / 24) : DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE_2018  : Data Progress ( 100 % ) 
+-------------------------------
+
+Log Entry : 2:22:42 PM Monday, 13 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 2:22:44 PM Monday, 13 May 2019
+  :
+  :DESIDIPO - DES-DIPOLOG MULTIBRAND MC & APPLIANCE Data Preparing ..
+-------------------------------

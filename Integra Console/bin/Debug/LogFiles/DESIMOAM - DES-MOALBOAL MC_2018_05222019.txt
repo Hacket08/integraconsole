@@ -1,0 +1,10 @@
+
+Log Entry : 7:20:14 AM Wednesday, 22 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 7:20:16 AM Wednesday, 22 May 2019
+  :
+  :DESIMOAM - DES-MOALBOAL MC Data Preparing ..
+-------------------------------

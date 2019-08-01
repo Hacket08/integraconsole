@@ -1,0 +1,735 @@
+
+Log Entry : 3:19:20 PM Monday, 13 May 2019
+  :
+  :Data Start Reading
+-------------------------------
+
+Log Entry : 3:19:22 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIPM - DES-SIPALAY MC 2018 2018-01-A
+-------------------------------
+
+Log Entry : 3:19:25 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIPM - DES-SIPALAY MC 2018 2018-01-A
+-------------------------------
+
+Log Entry : 3:19:25 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,998.87
+-------------------------------
+
+Log Entry : 3:19:30 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-01-A
+-------------------------------
+
+Log Entry : 3:19:31 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-01-A
+-------------------------------
+
+Log Entry : 3:19:31 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (1 / 24) : DESISIPM - DES-SIPALAY MC_2018  : Data Progress ( 4.17 % ) 
+-------------------------------
+
+Log Entry : 3:19:33 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIPM - DES-SIPALAY MC 2018 2018-01-B
+-------------------------------
+
+Log Entry : 3:19:36 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIPM - DES-SIPALAY MC 2018 2018-01-B
+-------------------------------
+
+Log Entry : 3:19:36 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,263.17
+-------------------------------
+
+Log Entry : 3:19:41 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-01-B
+-------------------------------
+
+Log Entry : 3:19:42 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-01-B
+-------------------------------
+
+Log Entry : 3:19:42 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (2 / 24) : DESISIPM - DES-SIPALAY MC_2018  : Data Progress ( 8.33 % ) 
+-------------------------------
+
+Log Entry : 3:19:44 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIPM - DES-SIPALAY MC 2018 2018-02-A
+-------------------------------
+
+Log Entry : 3:19:47 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIPM - DES-SIPALAY MC 2018 2018-02-A
+-------------------------------
+
+Log Entry : 3:19:47 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,295.41
+-------------------------------
+
+Log Entry : 3:19:52 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-02-A
+-------------------------------
+
+Log Entry : 3:19:53 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-02-A
+-------------------------------
+
+Log Entry : 3:19:53 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (3 / 24) : DESISIPM - DES-SIPALAY MC_2018  : Data Progress ( 12.5 % ) 
+-------------------------------
+
+Log Entry : 3:19:55 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIPM - DES-SIPALAY MC 2018 2018-02-B
+-------------------------------
+
+Log Entry : 3:19:58 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIPM - DES-SIPALAY MC 2018 2018-02-B
+-------------------------------
+
+Log Entry : 3:19:58 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,869.91
+-------------------------------
+
+Log Entry : 3:20:03 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-02-B
+-------------------------------
+
+Log Entry : 3:20:03 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-02-B
+-------------------------------
+
+Log Entry : 3:20:03 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (4 / 24) : DESISIPM - DES-SIPALAY MC_2018  : Data Progress ( 16.67 % ) 
+-------------------------------
+
+Log Entry : 3:20:05 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIPM - DES-SIPALAY MC 2018 2018-03-A
+-------------------------------
+
+Log Entry : 3:20:08 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIPM - DES-SIPALAY MC 2018 2018-03-A
+-------------------------------
+
+Log Entry : 3:20:09 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,298.50
+-------------------------------
+
+Log Entry : 3:20:14 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-03-A
+-------------------------------
+
+Log Entry : 3:20:14 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-03-A
+-------------------------------
+
+Log Entry : 3:20:14 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (5 / 24) : DESISIPM - DES-SIPALAY MC_2018  : Data Progress ( 20.83 % ) 
+-------------------------------
+
+Log Entry : 3:20:16 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIPM - DES-SIPALAY MC 2018 2018-03-B
+-------------------------------
+
+Log Entry : 3:20:19 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIPM - DES-SIPALAY MC 2018 2018-03-B
+-------------------------------
+
+Log Entry : 3:20:20 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,212.91
+-------------------------------
+
+Log Entry : 3:20:25 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-03-B
+-------------------------------
+
+Log Entry : 3:20:25 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-03-B
+-------------------------------
+
+Log Entry : 3:20:25 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (6 / 24) : DESISIPM - DES-SIPALAY MC_2018  : Data Progress ( 25 % ) 
+-------------------------------
+
+Log Entry : 3:20:27 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIPM - DES-SIPALAY MC 2018 2018-04-A
+-------------------------------
+
+Log Entry : 3:20:30 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIPM - DES-SIPALAY MC 2018 2018-04-A
+-------------------------------
+
+Log Entry : 3:20:31 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,085.13
+-------------------------------
+
+Log Entry : 3:20:36 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-04-A
+-------------------------------
+
+Log Entry : 3:20:36 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-04-A
+-------------------------------
+
+Log Entry : 3:20:36 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (7 / 24) : DESISIPM - DES-SIPALAY MC_2018  : Data Progress ( 29.17 % ) 
+-------------------------------
+
+Log Entry : 3:20:38 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIPM - DES-SIPALAY MC 2018 2018-04-B
+-------------------------------
+
+Log Entry : 3:20:41 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIPM - DES-SIPALAY MC 2018 2018-04-B
+-------------------------------
+
+Log Entry : 3:20:41 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,028.33
+-------------------------------
+
+Log Entry : 3:20:47 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-04-B
+-------------------------------
+
+Log Entry : 3:20:47 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-04-B
+-------------------------------
+
+Log Entry : 3:20:47 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (8 / 24) : DESISIPM - DES-SIPALAY MC_2018  : Data Progress ( 33.33 % ) 
+-------------------------------
+
+Log Entry : 3:20:49 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIPM - DES-SIPALAY MC 2018 2018-05-A
+-------------------------------
+
+Log Entry : 3:20:52 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIPM - DES-SIPALAY MC 2018 2018-05-A
+-------------------------------
+
+Log Entry : 3:20:52 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,110.63
+-------------------------------
+
+Log Entry : 3:20:57 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-05-A
+-------------------------------
+
+Log Entry : 3:20:58 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-05-A
+-------------------------------
+
+Log Entry : 3:20:58 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (9 / 24) : DESISIPM - DES-SIPALAY MC_2018  : Data Progress ( 37.5 % ) 
+-------------------------------
+
+Log Entry : 3:21:00 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIPM - DES-SIPALAY MC 2018 2018-05-B
+-------------------------------
+
+Log Entry : 3:21:03 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIPM - DES-SIPALAY MC 2018 2018-05-B
+-------------------------------
+
+Log Entry : 3:21:03 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,550.33
+-------------------------------
+
+Log Entry : 3:21:08 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-05-B
+-------------------------------
+
+Log Entry : 3:21:08 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-05-B
+-------------------------------
+
+Log Entry : 3:21:08 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (10 / 24) : DESISIPM - DES-SIPALAY MC_2018  : Data Progress ( 41.67 % ) 
+-------------------------------
+
+Log Entry : 3:21:10 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIPM - DES-SIPALAY MC 2018 2018-06-A
+-------------------------------
+
+Log Entry : 3:21:13 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIPM - DES-SIPALAY MC 2018 2018-06-A
+-------------------------------
+
+Log Entry : 3:21:14 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,526.75
+-------------------------------
+
+Log Entry : 3:21:19 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-06-A
+-------------------------------
+
+Log Entry : 3:21:19 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-06-A
+-------------------------------
+
+Log Entry : 3:21:19 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (11 / 24) : DESISIPM - DES-SIPALAY MC_2018  : Data Progress ( 45.83 % ) 
+-------------------------------
+
+Log Entry : 3:21:21 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIPM - DES-SIPALAY MC 2018 2018-06-B
+-------------------------------
+
+Log Entry : 3:21:24 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIPM - DES-SIPALAY MC 2018 2018-06-B
+-------------------------------
+
+Log Entry : 3:21:25 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,814.25
+-------------------------------
+
+Log Entry : 3:21:30 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-06-B
+-------------------------------
+
+Log Entry : 3:21:31 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-06-B
+-------------------------------
+
+Log Entry : 3:21:31 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (12 / 24) : DESISIPM - DES-SIPALAY MC_2018  : Data Progress ( 50 % ) 
+-------------------------------
+
+Log Entry : 3:21:33 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIPM - DES-SIPALAY MC 2018 2018-07-A
+-------------------------------
+
+Log Entry : 3:21:36 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIPM - DES-SIPALAY MC 2018 2018-07-A
+-------------------------------
+
+Log Entry : 3:21:36 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,355.75
+-------------------------------
+
+Log Entry : 3:21:41 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-07-A
+-------------------------------
+
+Log Entry : 3:21:42 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-07-A
+-------------------------------
+
+Log Entry : 3:21:42 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (13 / 24) : DESISIPM - DES-SIPALAY MC_2018  : Data Progress ( 54.17 % ) 
+-------------------------------
+
+Log Entry : 3:21:44 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIPM - DES-SIPALAY MC 2018 2018-07-B
+-------------------------------
+
+Log Entry : 3:21:47 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIPM - DES-SIPALAY MC 2018 2018-07-B
+-------------------------------
+
+Log Entry : 3:21:47 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,576.25
+-------------------------------
+
+Log Entry : 3:21:52 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-07-B
+-------------------------------
+
+Log Entry : 3:21:53 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-07-B
+-------------------------------
+
+Log Entry : 3:21:53 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (14 / 24) : DESISIPM - DES-SIPALAY MC_2018  : Data Progress ( 58.33 % ) 
+-------------------------------
+
+Log Entry : 3:21:55 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIPM - DES-SIPALAY MC 2018 2018-08-A
+-------------------------------
+
+Log Entry : 3:21:58 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIPM - DES-SIPALAY MC 2018 2018-08-A
+-------------------------------
+
+Log Entry : 3:21:58 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,136.07
+-------------------------------
+
+Log Entry : 3:22:03 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-08-A
+-------------------------------
+
+Log Entry : 3:22:03 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-08-A
+-------------------------------
+
+Log Entry : 3:22:03 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (15 / 24) : DESISIPM - DES-SIPALAY MC_2018  : Data Progress ( 62.5 % ) 
+-------------------------------
+
+Log Entry : 3:22:05 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIPM - DES-SIPALAY MC 2018 2018-08-B
+-------------------------------
+
+Log Entry : 3:22:08 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIPM - DES-SIPALAY MC 2018 2018-08-B
+-------------------------------
+
+Log Entry : 3:22:09 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,134.25
+-------------------------------
+
+Log Entry : 3:22:14 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-08-B
+-------------------------------
+
+Log Entry : 3:22:14 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-08-B
+-------------------------------
+
+Log Entry : 3:22:14 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (16 / 24) : DESISIPM - DES-SIPALAY MC_2018  : Data Progress ( 66.67 % ) 
+-------------------------------
+
+Log Entry : 3:22:16 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIPM - DES-SIPALAY MC 2018 2018-09-A
+-------------------------------
+
+Log Entry : 3:22:19 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIPM - DES-SIPALAY MC 2018 2018-09-A
+-------------------------------
+
+Log Entry : 3:22:20 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,844.45
+-------------------------------
+
+Log Entry : 3:22:25 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-09-A
+-------------------------------
+
+Log Entry : 3:22:25 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-09-A
+-------------------------------
+
+Log Entry : 3:22:25 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (17 / 24) : DESISIPM - DES-SIPALAY MC_2018  : Data Progress ( 70.83 % ) 
+-------------------------------
+
+Log Entry : 3:22:27 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIPM - DES-SIPALAY MC 2018 2018-09-B
+-------------------------------
+
+Log Entry : 3:22:30 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIPM - DES-SIPALAY MC 2018 2018-09-B
+-------------------------------
+
+Log Entry : 3:22:31 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,134.25
+-------------------------------
+
+Log Entry : 3:22:36 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-09-B
+-------------------------------
+
+Log Entry : 3:22:36 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-09-B
+-------------------------------
+
+Log Entry : 3:22:36 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (18 / 24) : DESISIPM - DES-SIPALAY MC_2018  : Data Progress ( 75 % ) 
+-------------------------------
+
+Log Entry : 3:22:39 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIPM - DES-SIPALAY MC 2018 2018-10-A
+-------------------------------
+
+Log Entry : 3:22:42 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIPM - DES-SIPALAY MC 2018 2018-10-A
+-------------------------------
+
+Log Entry : 3:22:42 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,344.45
+-------------------------------
+
+Log Entry : 3:22:47 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-10-A
+-------------------------------
+
+Log Entry : 3:22:48 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-10-A
+-------------------------------
+
+Log Entry : 3:22:48 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (19 / 24) : DESISIPM - DES-SIPALAY MC_2018  : Data Progress ( 79.17 % ) 
+-------------------------------
+
+Log Entry : 3:22:50 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIPM - DES-SIPALAY MC 2018 2018-10-B
+-------------------------------
+
+Log Entry : 3:22:53 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIPM - DES-SIPALAY MC 2018 2018-10-B
+-------------------------------
+
+Log Entry : 3:22:53 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,920.75
+-------------------------------
+
+Log Entry : 3:22:58 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-10-B
+-------------------------------
+
+Log Entry : 3:22:59 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-10-B
+-------------------------------
+
+Log Entry : 3:22:59 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (20 / 24) : DESISIPM - DES-SIPALAY MC_2018  : Data Progress ( 83.33 % ) 
+-------------------------------
+
+Log Entry : 3:23:01 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIPM - DES-SIPALAY MC 2018 2018-11-A
+-------------------------------
+
+Log Entry : 3:23:04 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIPM - DES-SIPALAY MC 2018 2018-11-A
+-------------------------------
+
+Log Entry : 3:23:04 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,630.95
+-------------------------------
+
+Log Entry : 3:23:09 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-11-A
+-------------------------------
+
+Log Entry : 3:23:10 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-11-A
+-------------------------------
+
+Log Entry : 3:23:10 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (21 / 24) : DESISIPM - DES-SIPALAY MC_2018  : Data Progress ( 87.5 % ) 
+-------------------------------
+
+Log Entry : 3:23:12 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIPM - DES-SIPALAY MC 2018 2018-11-B
+-------------------------------
+
+Log Entry : 3:23:15 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIPM - DES-SIPALAY MC 2018 2018-11-B
+-------------------------------
+
+Log Entry : 3:23:15 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,920.75
+-------------------------------
+
+Log Entry : 3:23:20 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-11-B
+-------------------------------
+
+Log Entry : 3:23:21 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-11-B
+-------------------------------
+
+Log Entry : 3:23:21 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (22 / 24) : DESISIPM - DES-SIPALAY MC_2018  : Data Progress ( 91.67 % ) 
+-------------------------------
+
+Log Entry : 3:23:23 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIPM - DES-SIPALAY MC 2018 2018-12-A
+-------------------------------
+
+Log Entry : 3:23:26 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIPM - DES-SIPALAY MC 2018 2018-12-A
+-------------------------------
+
+Log Entry : 3:23:26 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 11,431.95
+-------------------------------
+
+Log Entry : 3:23:31 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-12-A
+-------------------------------
+
+Log Entry : 3:23:31 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-12-A
+-------------------------------
+
+Log Entry : 3:23:31 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (23 / 24) : DESISIPM - DES-SIPALAY MC_2018  : Data Progress ( 95.83 % ) 
+-------------------------------
+
+Log Entry : 3:23:33 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIPM - DES-SIPALAY MC 2018 2018-12-B
+-------------------------------
+
+Log Entry : 3:23:36 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIPM - DES-SIPALAY MC 2018 2018-12-B
+-------------------------------
+
+Log Entry : 3:23:37 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,099.25
+-------------------------------
+
+Log Entry : 3:23:42 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-12-B
+-------------------------------
+
+Log Entry : 3:23:42 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIPM - DES-SIPALAY MC 2018 2018-12-B
+-------------------------------
+
+Log Entry : 3:23:42 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (24 / 24) : DESISIPM - DES-SIPALAY MC_2018  : Data Progress ( 100 % ) 
+-------------------------------
+
+Log Entry : 3:23:42 PM Monday, 13 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 3:23:44 PM Monday, 13 May 2019
+  :
+  :DESISIPM - DES-SIPALAY MC Data Preparing ..
+-------------------------------

@@ -1,0 +1,10 @@
+
+Log Entry : 7:04:43 AM Wednesday, 22 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 7:04:46 AM Wednesday, 22 May 2019
+  :
+  :DESITUBI - DES-TUBIGON Data Preparing ..
+-------------------------------

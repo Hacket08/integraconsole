@@ -1,0 +1,735 @@
+
+Log Entry : 3:02:46 PM Monday, 13 May 2019
+  :
+  :Data Start Reading
+-------------------------------
+
+Log Entry : 3:02:48 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIMABM - DES-MABINAY 2018 2018-01-A
+-------------------------------
+
+Log Entry : 3:02:51 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIMABM - DES-MABINAY 2018 2018-01-A
+-------------------------------
+
+Log Entry : 3:02:52 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,800.18
+-------------------------------
+
+Log Entry : 3:02:57 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-01-A
+-------------------------------
+
+Log Entry : 3:02:57 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-01-A
+-------------------------------
+
+Log Entry : 3:02:57 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (1 / 24) : DESIMABM - DES-MABINAY_2018  : Data Progress ( 4.17 % ) 
+-------------------------------
+
+Log Entry : 3:02:59 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIMABM - DES-MABINAY 2018 2018-01-B
+-------------------------------
+
+Log Entry : 3:03:02 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIMABM - DES-MABINAY 2018 2018-01-B
+-------------------------------
+
+Log Entry : 3:03:03 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,288.18
+-------------------------------
+
+Log Entry : 3:03:08 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-01-B
+-------------------------------
+
+Log Entry : 3:03:08 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-01-B
+-------------------------------
+
+Log Entry : 3:03:08 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (2 / 24) : DESIMABM - DES-MABINAY_2018  : Data Progress ( 8.33 % ) 
+-------------------------------
+
+Log Entry : 3:03:10 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIMABM - DES-MABINAY 2018 2018-02-A
+-------------------------------
+
+Log Entry : 3:03:13 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIMABM - DES-MABINAY 2018 2018-02-A
+-------------------------------
+
+Log Entry : 3:03:14 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 10,635.78
+-------------------------------
+
+Log Entry : 3:03:19 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-02-A
+-------------------------------
+
+Log Entry : 3:03:19 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-02-A
+-------------------------------
+
+Log Entry : 3:03:19 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (3 / 24) : DESIMABM - DES-MABINAY_2018  : Data Progress ( 12.5 % ) 
+-------------------------------
+
+Log Entry : 3:03:21 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIMABM - DES-MABINAY 2018 2018-02-B
+-------------------------------
+
+Log Entry : 3:03:24 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIMABM - DES-MABINAY 2018 2018-02-B
+-------------------------------
+
+Log Entry : 3:03:25 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,881.18
+-------------------------------
+
+Log Entry : 3:03:30 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-02-B
+-------------------------------
+
+Log Entry : 3:03:35 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-02-B
+-------------------------------
+
+Log Entry : 3:03:35 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (4 / 24) : DESIMABM - DES-MABINAY_2018  : Data Progress ( 16.67 % ) 
+-------------------------------
+
+Log Entry : 3:03:37 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIMABM - DES-MABINAY 2018 2018-03-A
+-------------------------------
+
+Log Entry : 3:03:40 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIMABM - DES-MABINAY 2018 2018-03-A
+-------------------------------
+
+Log Entry : 3:03:40 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 10,481.28
+-------------------------------
+
+Log Entry : 3:03:46 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-03-A
+-------------------------------
+
+Log Entry : 3:03:46 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-03-A
+-------------------------------
+
+Log Entry : 3:03:46 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (5 / 24) : DESIMABM - DES-MABINAY_2018  : Data Progress ( 20.83 % ) 
+-------------------------------
+
+Log Entry : 3:03:48 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIMABM - DES-MABINAY 2018 2018-03-B
+-------------------------------
+
+Log Entry : 3:03:51 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIMABM - DES-MABINAY 2018 2018-03-B
+-------------------------------
+
+Log Entry : 3:03:51 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,726.68
+-------------------------------
+
+Log Entry : 3:03:56 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-03-B
+-------------------------------
+
+Log Entry : 3:03:57 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-03-B
+-------------------------------
+
+Log Entry : 3:03:57 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (6 / 24) : DESIMABM - DES-MABINAY_2018  : Data Progress ( 25 % ) 
+-------------------------------
+
+Log Entry : 3:03:59 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIMABM - DES-MABINAY 2018 2018-04-A
+-------------------------------
+
+Log Entry : 3:04:02 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIMABM - DES-MABINAY 2018 2018-04-A
+-------------------------------
+
+Log Entry : 3:04:02 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 10,004.48
+-------------------------------
+
+Log Entry : 3:04:07 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-04-A
+-------------------------------
+
+Log Entry : 3:04:08 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-04-A
+-------------------------------
+
+Log Entry : 3:04:08 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (7 / 24) : DESIMABM - DES-MABINAY_2018  : Data Progress ( 29.17 % ) 
+-------------------------------
+
+Log Entry : 3:04:10 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIMABM - DES-MABINAY 2018 2018-04-B
+-------------------------------
+
+Log Entry : 3:04:13 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIMABM - DES-MABINAY 2018 2018-04-B
+-------------------------------
+
+Log Entry : 3:04:13 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,337.18
+-------------------------------
+
+Log Entry : 3:04:18 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-04-B
+-------------------------------
+
+Log Entry : 3:04:18 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-04-B
+-------------------------------
+
+Log Entry : 3:04:18 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (8 / 24) : DESIMABM - DES-MABINAY_2018  : Data Progress ( 33.33 % ) 
+-------------------------------
+
+Log Entry : 3:04:20 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIMABM - DES-MABINAY 2018 2018-05-A
+-------------------------------
+
+Log Entry : 3:04:23 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIMABM - DES-MABINAY 2018 2018-05-A
+-------------------------------
+
+Log Entry : 3:04:24 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,104.48
+-------------------------------
+
+Log Entry : 3:04:29 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-05-A
+-------------------------------
+
+Log Entry : 3:04:29 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-05-A
+-------------------------------
+
+Log Entry : 3:04:29 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (9 / 24) : DESIMABM - DES-MABINAY_2018  : Data Progress ( 37.5 % ) 
+-------------------------------
+
+Log Entry : 3:04:31 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIMABM - DES-MABINAY 2018 2018-05-B
+-------------------------------
+
+Log Entry : 3:04:34 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIMABM - DES-MABINAY 2018 2018-05-B
+-------------------------------
+
+Log Entry : 3:04:35 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 3,643.68
+-------------------------------
+
+Log Entry : 3:04:40 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-05-B
+-------------------------------
+
+Log Entry : 3:04:40 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-05-B
+-------------------------------
+
+Log Entry : 3:04:40 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (10 / 24) : DESIMABM - DES-MABINAY_2018  : Data Progress ( 41.67 % ) 
+-------------------------------
+
+Log Entry : 3:04:42 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIMABM - DES-MABINAY 2018 2018-06-A
+-------------------------------
+
+Log Entry : 3:04:45 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIMABM - DES-MABINAY 2018 2018-06-A
+-------------------------------
+
+Log Entry : 3:04:46 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,743.78
+-------------------------------
+
+Log Entry : 3:04:51 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-06-A
+-------------------------------
+
+Log Entry : 3:04:51 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-06-A
+-------------------------------
+
+Log Entry : 3:04:51 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (11 / 24) : DESIMABM - DES-MABINAY_2018  : Data Progress ( 45.83 % ) 
+-------------------------------
+
+Log Entry : 3:04:53 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIMABM - DES-MABINAY 2018 2018-06-B
+-------------------------------
+
+Log Entry : 3:04:56 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIMABM - DES-MABINAY 2018 2018-06-B
+-------------------------------
+
+Log Entry : 3:04:57 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,469.18
+-------------------------------
+
+Log Entry : 3:05:02 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-06-B
+-------------------------------
+
+Log Entry : 3:05:02 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-06-B
+-------------------------------
+
+Log Entry : 3:05:02 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (12 / 24) : DESIMABM - DES-MABINAY_2018  : Data Progress ( 50 % ) 
+-------------------------------
+
+Log Entry : 3:05:04 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIMABM - DES-MABINAY 2018 2018-07-A
+-------------------------------
+
+Log Entry : 3:05:07 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIMABM - DES-MABINAY 2018 2018-07-A
+-------------------------------
+
+Log Entry : 3:05:07 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,700.58
+-------------------------------
+
+Log Entry : 3:05:13 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-07-A
+-------------------------------
+
+Log Entry : 3:05:13 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-07-A
+-------------------------------
+
+Log Entry : 3:05:13 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (13 / 24) : DESIMABM - DES-MABINAY_2018  : Data Progress ( 54.17 % ) 
+-------------------------------
+
+Log Entry : 3:05:15 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIMABM - DES-MABINAY 2018 2018-07-B
+-------------------------------
+
+Log Entry : 3:05:18 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIMABM - DES-MABINAY 2018 2018-07-B
+-------------------------------
+
+Log Entry : 3:05:18 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 3,470.68
+-------------------------------
+
+Log Entry : 3:05:23 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-07-B
+-------------------------------
+
+Log Entry : 3:05:24 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-07-B
+-------------------------------
+
+Log Entry : 3:05:24 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (14 / 24) : DESIMABM - DES-MABINAY_2018  : Data Progress ( 58.33 % ) 
+-------------------------------
+
+Log Entry : 3:05:26 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIMABM - DES-MABINAY 2018 2018-08-A
+-------------------------------
+
+Log Entry : 3:05:29 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIMABM - DES-MABINAY 2018 2018-08-A
+-------------------------------
+
+Log Entry : 3:05:29 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,961.50
+-------------------------------
+
+Log Entry : 3:05:34 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-08-A
+-------------------------------
+
+Log Entry : 3:05:35 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-08-A
+-------------------------------
+
+Log Entry : 3:05:35 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (15 / 24) : DESIMABM - DES-MABINAY_2018  : Data Progress ( 62.5 % ) 
+-------------------------------
+
+Log Entry : 3:05:37 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIMABM - DES-MABINAY 2018 2018-08-B
+-------------------------------
+
+Log Entry : 3:05:40 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIMABM - DES-MABINAY 2018 2018-08-B
+-------------------------------
+
+Log Entry : 3:05:40 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 2,620.00
+-------------------------------
+
+Log Entry : 3:05:45 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-08-B
+-------------------------------
+
+Log Entry : 3:05:45 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-08-B
+-------------------------------
+
+Log Entry : 3:05:45 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (16 / 24) : DESIMABM - DES-MABINAY_2018  : Data Progress ( 66.67 % ) 
+-------------------------------
+
+Log Entry : 3:05:47 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIMABM - DES-MABINAY 2018 2018-09-A
+-------------------------------
+
+Log Entry : 3:05:50 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIMABM - DES-MABINAY 2018 2018-09-A
+-------------------------------
+
+Log Entry : 3:05:51 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,197.20
+-------------------------------
+
+Log Entry : 3:05:56 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-09-A
+-------------------------------
+
+Log Entry : 3:05:56 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-09-A
+-------------------------------
+
+Log Entry : 3:05:56 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (17 / 24) : DESIMABM - DES-MABINAY_2018  : Data Progress ( 70.83 % ) 
+-------------------------------
+
+Log Entry : 3:05:58 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIMABM - DES-MABINAY 2018 2018-09-B
+-------------------------------
+
+Log Entry : 3:06:01 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIMABM - DES-MABINAY 2018 2018-09-B
+-------------------------------
+
+Log Entry : 3:06:02 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 2,660.50
+-------------------------------
+
+Log Entry : 3:06:07 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-09-B
+-------------------------------
+
+Log Entry : 3:06:07 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-09-B
+-------------------------------
+
+Log Entry : 3:06:07 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (18 / 24) : DESIMABM - DES-MABINAY_2018  : Data Progress ( 75 % ) 
+-------------------------------
+
+Log Entry : 3:06:09 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIMABM - DES-MABINAY 2018 2018-10-A
+-------------------------------
+
+Log Entry : 3:06:12 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIMABM - DES-MABINAY 2018 2018-10-A
+-------------------------------
+
+Log Entry : 3:06:13 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,630.70
+-------------------------------
+
+Log Entry : 3:06:19 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-10-A
+-------------------------------
+
+Log Entry : 3:06:19 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-10-A
+-------------------------------
+
+Log Entry : 3:06:19 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (19 / 24) : DESIMABM - DES-MABINAY_2018  : Data Progress ( 79.17 % ) 
+-------------------------------
+
+Log Entry : 3:06:21 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIMABM - DES-MABINAY 2018 2018-10-B
+-------------------------------
+
+Log Entry : 3:06:24 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIMABM - DES-MABINAY 2018 2018-10-B
+-------------------------------
+
+Log Entry : 3:06:24 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 2,660.50
+-------------------------------
+
+Log Entry : 3:06:29 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-10-B
+-------------------------------
+
+Log Entry : 3:06:30 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-10-B
+-------------------------------
+
+Log Entry : 3:06:30 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (20 / 24) : DESIMABM - DES-MABINAY_2018  : Data Progress ( 83.33 % ) 
+-------------------------------
+
+Log Entry : 3:06:32 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIMABM - DES-MABINAY 2018 2018-11-A
+-------------------------------
+
+Log Entry : 3:06:35 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIMABM - DES-MABINAY 2018 2018-11-A
+-------------------------------
+
+Log Entry : 3:06:35 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,630.70
+-------------------------------
+
+Log Entry : 3:06:40 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-11-A
+-------------------------------
+
+Log Entry : 3:06:40 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-11-A
+-------------------------------
+
+Log Entry : 3:06:40 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (21 / 24) : DESIMABM - DES-MABINAY_2018  : Data Progress ( 87.5 % ) 
+-------------------------------
+
+Log Entry : 3:06:42 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIMABM - DES-MABINAY 2018 2018-11-B
+-------------------------------
+
+Log Entry : 3:06:46 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIMABM - DES-MABINAY 2018 2018-11-B
+-------------------------------
+
+Log Entry : 3:06:46 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 2,798.00
+-------------------------------
+
+Log Entry : 3:06:51 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-11-B
+-------------------------------
+
+Log Entry : 3:06:51 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-11-B
+-------------------------------
+
+Log Entry : 3:06:51 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (22 / 24) : DESIMABM - DES-MABINAY_2018  : Data Progress ( 91.67 % ) 
+-------------------------------
+
+Log Entry : 3:06:54 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIMABM - DES-MABINAY 2018 2018-12-A
+-------------------------------
+
+Log Entry : 3:06:57 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIMABM - DES-MABINAY 2018 2018-12-A
+-------------------------------
+
+Log Entry : 3:06:57 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,135.70
+-------------------------------
+
+Log Entry : 3:07:02 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-12-A
+-------------------------------
+
+Log Entry : 3:07:02 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-12-A
+-------------------------------
+
+Log Entry : 3:07:02 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (23 / 24) : DESIMABM - DES-MABINAY_2018  : Data Progress ( 95.83 % ) 
+-------------------------------
+
+Log Entry : 3:07:04 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIMABM - DES-MABINAY 2018 2018-12-B
+-------------------------------
+
+Log Entry : 3:07:07 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIMABM - DES-MABINAY 2018 2018-12-B
+-------------------------------
+
+Log Entry : 3:07:08 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 2,798.00
+-------------------------------
+
+Log Entry : 3:07:13 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-12-B
+-------------------------------
+
+Log Entry : 3:07:13 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIMABM - DES-MABINAY 2018 2018-12-B
+-------------------------------
+
+Log Entry : 3:07:13 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (24 / 24) : DESIMABM - DES-MABINAY_2018  : Data Progress ( 100 % ) 
+-------------------------------
+
+Log Entry : 3:07:13 PM Monday, 13 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 3:07:15 PM Monday, 13 May 2019
+  :
+  :DESIMABM - DES-MABINAY Data Preparing ..
+-------------------------------

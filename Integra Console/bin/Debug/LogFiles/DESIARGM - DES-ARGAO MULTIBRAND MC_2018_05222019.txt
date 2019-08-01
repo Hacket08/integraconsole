@@ -1,0 +1,20 @@
+
+Log Entry : 7:14:36 AM Wednesday, 22 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 7:14:38 AM Wednesday, 22 May 2019
+  :
+  :DESIARGM - DES-ARGAO MULTIBRAND MC Data Preparing ..
+-------------------------------
+
+Log Entry : 7:14:46 AM Wednesday, 22 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 7:14:49 AM Wednesday, 22 May 2019
+  :
+  :DESIARGM - DES-ARGAO MULTIBRAND MC Data Preparing ..
+-------------------------------

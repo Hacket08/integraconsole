@@ -1,0 +1,10 @@
+
+Log Entry : 6:58:52 AM Wednesday, 22 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 6:58:54 AM Wednesday, 22 May 2019
+  :
+  :DESIJAGN - DES-JAGNA Data Preparing ..
+-------------------------------

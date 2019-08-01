@@ -1,0 +1,640 @@
+
+Log Entry : 7:15:37 AM Wednesday, 22 May 2019
+  :
+  :Data Start Reading
+-------------------------------
+
+Log Entry : 7:15:39 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (1 / 24) : DESILAWW - DES-LAWAAN WAREHOUSE_2018  : Data Progress ( 4.17 % ) 
+-------------------------------
+
+Log Entry : 7:15:41 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-01-B
+-------------------------------
+
+Log Entry : 7:15:43 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-01-B
+-------------------------------
+
+Log Entry : 7:15:43 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 7:15:43 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (2 / 24) : DESILAWW - DES-LAWAAN WAREHOUSE_2018  : Data Progress ( 8.33 % ) 
+-------------------------------
+
+Log Entry : 7:15:46 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-02-A
+-------------------------------
+
+Log Entry : 7:15:48 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-02-A
+-------------------------------
+
+Log Entry : 7:15:48 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 7:15:48 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (3 / 24) : DESILAWW - DES-LAWAAN WAREHOUSE_2018  : Data Progress ( 12.5 % ) 
+-------------------------------
+
+Log Entry : 7:15:50 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-02-B
+-------------------------------
+
+Log Entry : 7:15:52 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-02-B
+-------------------------------
+
+Log Entry : 7:15:53 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 7:15:53 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (4 / 24) : DESILAWW - DES-LAWAAN WAREHOUSE_2018  : Data Progress ( 16.67 % ) 
+-------------------------------
+
+Log Entry : 7:15:55 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-03-A
+-------------------------------
+
+Log Entry : 7:15:57 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-03-A
+-------------------------------
+
+Log Entry : 7:15:57 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 7:15:57 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (5 / 24) : DESILAWW - DES-LAWAAN WAREHOUSE_2018  : Data Progress ( 20.83 % ) 
+-------------------------------
+
+Log Entry : 7:15:59 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-03-B
+-------------------------------
+
+Log Entry : 7:16:01 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-03-B
+-------------------------------
+
+Log Entry : 7:16:02 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 7:16:02 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (6 / 24) : DESILAWW - DES-LAWAAN WAREHOUSE_2018  : Data Progress ( 25 % ) 
+-------------------------------
+
+Log Entry : 7:16:04 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-04-A
+-------------------------------
+
+Log Entry : 7:16:06 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-04-A
+-------------------------------
+
+Log Entry : 7:16:06 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 7:16:06 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (7 / 24) : DESILAWW - DES-LAWAAN WAREHOUSE_2018  : Data Progress ( 29.17 % ) 
+-------------------------------
+
+Log Entry : 7:16:08 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-04-B
+-------------------------------
+
+Log Entry : 7:16:10 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-04-B
+-------------------------------
+
+Log Entry : 7:16:11 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 7:16:11 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (8 / 24) : DESILAWW - DES-LAWAAN WAREHOUSE_2018  : Data Progress ( 33.33 % ) 
+-------------------------------
+
+Log Entry : 7:16:13 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-05-A
+-------------------------------
+
+Log Entry : 7:16:15 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-05-A
+-------------------------------
+
+Log Entry : 7:16:16 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 1,072.40
+-------------------------------
+
+Log Entry : 7:16:19 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-05-A
+-------------------------------
+
+Log Entry : 7:16:36 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-05-A
+-------------------------------
+
+Log Entry : 7:16:36 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (9 / 24) : DESILAWW - DES-LAWAAN WAREHOUSE_2018  : Data Progress ( 37.5 % ) 
+-------------------------------
+
+Log Entry : 7:16:38 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-05-B
+-------------------------------
+
+Log Entry : 7:16:40 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-05-B
+-------------------------------
+
+Log Entry : 7:16:40 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 275.00
+-------------------------------
+
+Log Entry : 7:16:43 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-05-B
+-------------------------------
+
+Log Entry : 7:16:49 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-05-B
+-------------------------------
+
+Log Entry : 7:16:49 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (10 / 24) : DESILAWW - DES-LAWAAN WAREHOUSE_2018  : Data Progress ( 41.67 % ) 
+-------------------------------
+
+Log Entry : 7:16:51 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-06-A
+-------------------------------
+
+Log Entry : 7:16:53 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-06-A
+-------------------------------
+
+Log Entry : 7:16:54 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 1,072.40
+-------------------------------
+
+Log Entry : 7:16:57 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-06-A
+-------------------------------
+
+Log Entry : 7:17:02 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-06-A
+-------------------------------
+
+Log Entry : 7:17:02 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (11 / 24) : DESILAWW - DES-LAWAAN WAREHOUSE_2018  : Data Progress ( 45.83 % ) 
+-------------------------------
+
+Log Entry : 7:17:04 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-06-B
+-------------------------------
+
+Log Entry : 7:17:06 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-06-B
+-------------------------------
+
+Log Entry : 7:17:07 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 275.00
+-------------------------------
+
+Log Entry : 7:17:10 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-06-B
+-------------------------------
+
+Log Entry : 7:17:15 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-06-B
+-------------------------------
+
+Log Entry : 7:17:15 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (12 / 24) : DESILAWW - DES-LAWAAN WAREHOUSE_2018  : Data Progress ( 50 % ) 
+-------------------------------
+
+Log Entry : 7:17:17 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-07-A
+-------------------------------
+
+Log Entry : 7:17:19 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-07-A
+-------------------------------
+
+Log Entry : 7:17:20 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 1,072.40
+-------------------------------
+
+Log Entry : 7:17:23 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-07-A
+-------------------------------
+
+Log Entry : 7:17:28 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-07-A
+-------------------------------
+
+Log Entry : 7:17:29 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (13 / 24) : DESILAWW - DES-LAWAAN WAREHOUSE_2018  : Data Progress ( 54.17 % ) 
+-------------------------------
+
+Log Entry : 7:17:31 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-07-B
+-------------------------------
+
+Log Entry : 7:17:33 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-07-B
+-------------------------------
+
+Log Entry : 7:17:33 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 275.00
+-------------------------------
+
+Log Entry : 7:17:36 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-07-B
+-------------------------------
+
+Log Entry : 7:17:42 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-07-B
+-------------------------------
+
+Log Entry : 7:17:42 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (14 / 24) : DESILAWW - DES-LAWAAN WAREHOUSE_2018  : Data Progress ( 58.33 % ) 
+-------------------------------
+
+Log Entry : 7:17:44 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-08-A
+-------------------------------
+
+Log Entry : 7:17:46 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-08-A
+-------------------------------
+
+Log Entry : 7:17:46 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 1,129.60
+-------------------------------
+
+Log Entry : 7:17:49 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-08-A
+-------------------------------
+
+Log Entry : 7:17:55 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-08-A
+-------------------------------
+
+Log Entry : 7:17:55 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (15 / 24) : DESILAWW - DES-LAWAAN WAREHOUSE_2018  : Data Progress ( 62.5 % ) 
+-------------------------------
+
+Log Entry : 7:17:57 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-08-B
+-------------------------------
+
+Log Entry : 7:17:59 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-08-B
+-------------------------------
+
+Log Entry : 7:18:00 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 277.06
+-------------------------------
+
+Log Entry : 7:18:03 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-08-B
+-------------------------------
+
+Log Entry : 7:18:08 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-08-B
+-------------------------------
+
+Log Entry : 7:18:08 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (16 / 24) : DESILAWW - DES-LAWAAN WAREHOUSE_2018  : Data Progress ( 66.67 % ) 
+-------------------------------
+
+Log Entry : 7:18:10 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-09-A
+-------------------------------
+
+Log Entry : 7:18:12 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-09-A
+-------------------------------
+
+Log Entry : 7:18:13 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 1,129.60
+-------------------------------
+
+Log Entry : 7:18:16 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-09-A
+-------------------------------
+
+Log Entry : 7:18:21 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-09-A
+-------------------------------
+
+Log Entry : 7:18:21 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (17 / 24) : DESILAWW - DES-LAWAAN WAREHOUSE_2018  : Data Progress ( 70.83 % ) 
+-------------------------------
+
+Log Entry : 7:18:23 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-09-B
+-------------------------------
+
+Log Entry : 7:18:25 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-09-B
+-------------------------------
+
+Log Entry : 7:18:26 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 415.05
+-------------------------------
+
+Log Entry : 7:18:29 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-09-B
+-------------------------------
+
+Log Entry : 7:18:34 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-09-B
+-------------------------------
+
+Log Entry : 7:18:35 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (18 / 24) : DESILAWW - DES-LAWAAN WAREHOUSE_2018  : Data Progress ( 75 % ) 
+-------------------------------
+
+Log Entry : 7:18:37 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-10-A
+-------------------------------
+
+Log Entry : 7:18:39 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-10-A
+-------------------------------
+
+Log Entry : 7:18:39 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 1,693.90
+-------------------------------
+
+Log Entry : 7:18:42 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-10-A
+-------------------------------
+
+Log Entry : 7:18:48 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-10-A
+-------------------------------
+
+Log Entry : 7:18:48 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (19 / 24) : DESILAWW - DES-LAWAAN WAREHOUSE_2018  : Data Progress ( 79.17 % ) 
+-------------------------------
+
+Log Entry : 7:18:50 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-10-B
+-------------------------------
+
+Log Entry : 7:18:52 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-10-B
+-------------------------------
+
+Log Entry : 7:18:52 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 415.05
+-------------------------------
+
+Log Entry : 7:18:56 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-10-B
+-------------------------------
+
+Log Entry : 7:19:01 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-10-B
+-------------------------------
+
+Log Entry : 7:19:01 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (20 / 24) : DESILAWW - DES-LAWAAN WAREHOUSE_2018  : Data Progress ( 83.33 % ) 
+-------------------------------
+
+Log Entry : 7:19:03 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-11-A
+-------------------------------
+
+Log Entry : 7:19:05 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-11-A
+-------------------------------
+
+Log Entry : 7:19:06 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 1,694.90
+-------------------------------
+
+Log Entry : 7:19:09 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-11-A
+-------------------------------
+
+Log Entry : 7:19:14 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-11-A
+-------------------------------
+
+Log Entry : 7:19:14 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (21 / 24) : DESILAWW - DES-LAWAAN WAREHOUSE_2018  : Data Progress ( 87.5 % ) 
+-------------------------------
+
+Log Entry : 7:19:16 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-11-B
+-------------------------------
+
+Log Entry : 7:19:18 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-11-B
+-------------------------------
+
+Log Entry : 7:19:19 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 277.06
+-------------------------------
+
+Log Entry : 7:19:22 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-11-B
+-------------------------------
+
+Log Entry : 7:19:27 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-11-B
+-------------------------------
+
+Log Entry : 7:19:27 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (22 / 24) : DESILAWW - DES-LAWAAN WAREHOUSE_2018  : Data Progress ( 91.67 % ) 
+-------------------------------
+
+Log Entry : 7:19:29 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 7:19:31 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 7:19:32 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 1,129.60
+-------------------------------
+
+Log Entry : 7:19:35 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 7:19:40 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 7:19:40 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (23 / 24) : DESILAWW - DES-LAWAAN WAREHOUSE_2018  : Data Progress ( 95.83 % ) 
+-------------------------------
+
+Log Entry : 7:19:42 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 7:19:44 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 7:19:45 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 277.06
+-------------------------------
+
+Log Entry : 7:19:48 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 7:19:53 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESILAWW - DES-LAWAAN WAREHOUSE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 7:19:53 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (24 / 24) : DESILAWW - DES-LAWAAN WAREHOUSE_2018  : Data Progress ( 100 % ) 
+-------------------------------
+
+Log Entry : 7:19:53 AM Wednesday, 22 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 7:19:55 AM Wednesday, 22 May 2019
+  :
+  :DESILAWW - DES-LAWAAN WAREHOUSE Data Preparing ..
+-------------------------------

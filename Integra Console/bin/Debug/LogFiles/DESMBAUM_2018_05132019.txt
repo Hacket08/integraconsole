@@ -1,0 +1,120 @@
+
+Log Entry : 1:22:40 PM Monday, 13 May 2019
+  :
+  :DESMBAUM Payroll Successfully Posted : 2018-01-A
+-------------------------------
+
+Log Entry : 1:22:51 PM Monday, 13 May 2019
+  :
+  :DESMBAUM Payroll Successfully Posted : 2018-01-B
+-------------------------------
+
+Log Entry : 1:23:02 PM Monday, 13 May 2019
+  :
+  :DESMBAUM Payroll Successfully Posted : 2018-02-A
+-------------------------------
+
+Log Entry : 1:23:13 PM Monday, 13 May 2019
+  :
+  :DESMBAUM Payroll Successfully Posted : 2018-02-B
+-------------------------------
+
+Log Entry : 1:23:24 PM Monday, 13 May 2019
+  :
+  :DESMBAUM Payroll Successfully Posted : 2018-03-A
+-------------------------------
+
+Log Entry : 1:23:35 PM Monday, 13 May 2019
+  :
+  :DESMBAUM Payroll Successfully Posted : 2018-03-B
+-------------------------------
+
+Log Entry : 1:23:45 PM Monday, 13 May 2019
+  :
+  :DESMBAUM Payroll Successfully Posted : 2018-04-A
+-------------------------------
+
+Log Entry : 1:23:56 PM Monday, 13 May 2019
+  :
+  :DESMBAUM Payroll Successfully Posted : 2018-04-B
+-------------------------------
+
+Log Entry : 1:24:07 PM Monday, 13 May 2019
+  :
+  :DESMBAUM Payroll Successfully Posted : 2018-05-A
+-------------------------------
+
+Log Entry : 1:24:18 PM Monday, 13 May 2019
+  :
+  :DESMBAUM Payroll Successfully Posted : 2018-05-B
+-------------------------------
+
+Log Entry : 1:24:29 PM Monday, 13 May 2019
+  :
+  :DESMBAUM Payroll Successfully Posted : 2018-06-A
+-------------------------------
+
+Log Entry : 1:24:40 PM Monday, 13 May 2019
+  :
+  :DESMBAUM Payroll Successfully Posted : 2018-06-B
+-------------------------------
+
+Log Entry : 1:24:50 PM Monday, 13 May 2019
+  :
+  :DESMBAUM Payroll Successfully Posted : 2018-07-A
+-------------------------------
+
+Log Entry : 1:25:01 PM Monday, 13 May 2019
+  :
+  :DESMBAUM Payroll Successfully Posted : 2018-07-B
+-------------------------------
+
+Log Entry : 1:25:12 PM Monday, 13 May 2019
+  :
+  :DESMBAUM Payroll Successfully Posted : 2018-08-A
+-------------------------------
+
+Log Entry : 1:25:23 PM Monday, 13 May 2019
+  :
+  :DESMBAUM Payroll Successfully Posted : 2018-08-B
+-------------------------------
+
+Log Entry : 1:25:34 PM Monday, 13 May 2019
+  :
+  :DESMBAUM Payroll Successfully Posted : 2018-09-A
+-------------------------------
+
+Log Entry : 1:25:45 PM Monday, 13 May 2019
+  :
+  :DESMBAUM Payroll Successfully Posted : 2018-09-B
+-------------------------------
+
+Log Entry : 1:25:56 PM Monday, 13 May 2019
+  :
+  :DESMBAUM Payroll Successfully Posted : 2018-10-A
+-------------------------------
+
+Log Entry : 1:26:07 PM Monday, 13 May 2019
+  :
+  :DESMBAUM Payroll Successfully Posted : 2018-10-B
+-------------------------------
+
+Log Entry : 1:26:18 PM Monday, 13 May 2019
+  :
+  :DESMBAUM Payroll Successfully Posted : 2018-11-A
+-------------------------------
+
+Log Entry : 1:26:29 PM Monday, 13 May 2019
+  :
+  :DESMBAUM Payroll Successfully Posted : 2018-11-B
+-------------------------------
+
+Log Entry : 1:26:40 PM Monday, 13 May 2019
+  :
+  :DESMBAUM Payroll Successfully Posted : 2018-12-A
+-------------------------------
+
+Log Entry : 1:26:51 PM Monday, 13 May 2019
+  :
+  :DESMBAUM Payroll Successfully Posted : 2018-12-B
+-------------------------------

@@ -1,0 +1,730 @@
+
+Log Entry : 12:38:56 PM Monday, 13 May 2019
+  :
+  :Data Start Reading
+-------------------------------
+
+Log Entry : 12:38:58 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-01-A
+-------------------------------
+
+Log Entry : 12:39:01 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-01-A
+-------------------------------
+
+Log Entry : 12:39:01 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 31,329.92
+-------------------------------
+
+Log Entry : 12:39:06 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-01-A
+-------------------------------
+
+Log Entry : 12:39:34 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-01-A
+-------------------------------
+
+Log Entry : 12:39:34 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (1 / 24) : DESMSING - DES-MARKETING SINGCANG BACOLOD_2018  : Data Progress ( 4.17 % ) 
+-------------------------------
+
+Log Entry : 12:39:36 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-01-B
+-------------------------------
+
+Log Entry : 12:39:39 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-01-B
+-------------------------------
+
+Log Entry : 12:39:39 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 20,819.00
+-------------------------------
+
+Log Entry : 12:39:45 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-01-B
+-------------------------------
+
+Log Entry : 12:39:45 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-01-B
+-------------------------------
+
+Log Entry : 12:39:45 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (2 / 24) : DESMSING - DES-MARKETING SINGCANG BACOLOD_2018  : Data Progress ( 8.33 % ) 
+-------------------------------
+
+Log Entry : 12:39:47 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-02-A
+-------------------------------
+
+Log Entry : 12:39:50 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-02-A
+-------------------------------
+
+Log Entry : 12:39:50 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 29,675.92
+-------------------------------
+
+Log Entry : 12:39:56 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-02-A
+-------------------------------
+
+Log Entry : 12:39:56 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-02-A
+-------------------------------
+
+Log Entry : 12:39:56 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (3 / 24) : DESMSING - DES-MARKETING SINGCANG BACOLOD_2018  : Data Progress ( 12.5 % ) 
+-------------------------------
+
+Log Entry : 12:39:58 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-02-B
+-------------------------------
+
+Log Entry : 12:40:01 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-02-B
+-------------------------------
+
+Log Entry : 12:40:01 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 18,359.49
+-------------------------------
+
+Log Entry : 12:40:07 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-02-B
+-------------------------------
+
+Log Entry : 12:40:07 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-02-B
+-------------------------------
+
+Log Entry : 12:40:07 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (4 / 24) : DESMSING - DES-MARKETING SINGCANG BACOLOD_2018  : Data Progress ( 16.67 % ) 
+-------------------------------
+
+Log Entry : 12:40:09 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-03-A
+-------------------------------
+
+Log Entry : 12:40:12 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-03-A
+-------------------------------
+
+Log Entry : 12:40:12 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 26,086.14
+-------------------------------
+
+Log Entry : 12:40:18 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-03-A
+-------------------------------
+
+Log Entry : 12:40:18 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-03-A
+-------------------------------
+
+Log Entry : 12:40:18 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (5 / 24) : DESMSING - DES-MARKETING SINGCANG BACOLOD_2018  : Data Progress ( 20.83 % ) 
+-------------------------------
+
+Log Entry : 12:40:20 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-03-B
+-------------------------------
+
+Log Entry : 12:40:23 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-03-B
+-------------------------------
+
+Log Entry : 12:40:23 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 17,201.96
+-------------------------------
+
+Log Entry : 12:40:28 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-03-B
+-------------------------------
+
+Log Entry : 12:40:29 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-03-B
+-------------------------------
+
+Log Entry : 12:40:29 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (6 / 24) : DESMSING - DES-MARKETING SINGCANG BACOLOD_2018  : Data Progress ( 25 % ) 
+-------------------------------
+
+Log Entry : 12:40:31 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-04-A
+-------------------------------
+
+Log Entry : 12:40:34 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-04-A
+-------------------------------
+
+Log Entry : 12:40:34 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 22,046.85
+-------------------------------
+
+Log Entry : 12:40:40 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-04-A
+-------------------------------
+
+Log Entry : 12:40:40 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-04-A
+-------------------------------
+
+Log Entry : 12:40:40 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (7 / 24) : DESMSING - DES-MARKETING SINGCANG BACOLOD_2018  : Data Progress ( 29.17 % ) 
+-------------------------------
+
+Log Entry : 12:40:42 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-04-B
+-------------------------------
+
+Log Entry : 12:40:45 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-04-B
+-------------------------------
+
+Log Entry : 12:40:45 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 14,305.67
+-------------------------------
+
+Log Entry : 12:40:51 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-04-B
+-------------------------------
+
+Log Entry : 12:40:51 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-04-B
+-------------------------------
+
+Log Entry : 12:40:51 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (8 / 24) : DESMSING - DES-MARKETING SINGCANG BACOLOD_2018  : Data Progress ( 33.33 % ) 
+-------------------------------
+
+Log Entry : 12:40:53 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-05-A
+-------------------------------
+
+Log Entry : 12:40:56 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-05-A
+-------------------------------
+
+Log Entry : 12:40:56 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 23,435.40
+-------------------------------
+
+Log Entry : 12:41:02 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-05-A
+-------------------------------
+
+Log Entry : 12:41:02 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-05-A
+-------------------------------
+
+Log Entry : 12:41:02 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (9 / 24) : DESMSING - DES-MARKETING SINGCANG BACOLOD_2018  : Data Progress ( 37.5 % ) 
+-------------------------------
+
+Log Entry : 12:41:04 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-05-B
+-------------------------------
+
+Log Entry : 12:41:07 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-05-B
+-------------------------------
+
+Log Entry : 12:41:07 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 15,318.37
+-------------------------------
+
+Log Entry : 12:41:13 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-05-B
+-------------------------------
+
+Log Entry : 12:41:13 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-05-B
+-------------------------------
+
+Log Entry : 12:41:13 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (10 / 24) : DESMSING - DES-MARKETING SINGCANG BACOLOD_2018  : Data Progress ( 41.67 % ) 
+-------------------------------
+
+Log Entry : 12:41:15 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-06-A
+-------------------------------
+
+Log Entry : 12:41:18 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-06-A
+-------------------------------
+
+Log Entry : 12:41:18 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 25,076.00
+-------------------------------
+
+Log Entry : 12:41:24 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-06-A
+-------------------------------
+
+Log Entry : 12:41:24 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-06-A
+-------------------------------
+
+Log Entry : 12:41:24 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (11 / 24) : DESMSING - DES-MARKETING SINGCANG BACOLOD_2018  : Data Progress ( 45.83 % ) 
+-------------------------------
+
+Log Entry : 12:41:26 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-06-B
+-------------------------------
+
+Log Entry : 12:41:29 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-06-B
+-------------------------------
+
+Log Entry : 12:41:29 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 17,045.57
+-------------------------------
+
+Log Entry : 12:41:35 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-06-B
+-------------------------------
+
+Log Entry : 12:41:35 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-06-B
+-------------------------------
+
+Log Entry : 12:41:35 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (12 / 24) : DESMSING - DES-MARKETING SINGCANG BACOLOD_2018  : Data Progress ( 50 % ) 
+-------------------------------
+
+Log Entry : 12:41:37 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-07-A
+-------------------------------
+
+Log Entry : 12:41:40 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-07-A
+-------------------------------
+
+Log Entry : 12:41:40 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 26,196.30
+-------------------------------
+
+Log Entry : 12:41:46 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-07-A
+-------------------------------
+
+Log Entry : 12:41:46 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-07-A
+-------------------------------
+
+Log Entry : 12:41:46 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (13 / 24) : DESMSING - DES-MARKETING SINGCANG BACOLOD_2018  : Data Progress ( 54.17 % ) 
+-------------------------------
+
+Log Entry : 12:41:48 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-07-B
+-------------------------------
+
+Log Entry : 12:41:51 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-07-B
+-------------------------------
+
+Log Entry : 12:41:51 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 16,912.17
+-------------------------------
+
+Log Entry : 12:41:57 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-07-B
+-------------------------------
+
+Log Entry : 12:41:57 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-07-B
+-------------------------------
+
+Log Entry : 12:41:57 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (14 / 24) : DESMSING - DES-MARKETING SINGCANG BACOLOD_2018  : Data Progress ( 58.33 % ) 
+-------------------------------
+
+Log Entry : 12:41:59 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-08-A
+-------------------------------
+
+Log Entry : 12:42:02 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-08-A
+-------------------------------
+
+Log Entry : 12:42:02 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 23,605.50
+-------------------------------
+
+Log Entry : 12:42:08 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-08-A
+-------------------------------
+
+Log Entry : 12:42:08 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-08-A
+-------------------------------
+
+Log Entry : 12:42:08 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (15 / 24) : DESMSING - DES-MARKETING SINGCANG BACOLOD_2018  : Data Progress ( 62.5 % ) 
+-------------------------------
+
+Log Entry : 12:42:10 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-08-B
+-------------------------------
+
+Log Entry : 12:42:13 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-08-B
+-------------------------------
+
+Log Entry : 12:42:13 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 15,474.22
+-------------------------------
+
+Log Entry : 12:42:19 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-08-B
+-------------------------------
+
+Log Entry : 12:42:19 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-08-B
+-------------------------------
+
+Log Entry : 12:42:19 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (16 / 24) : DESMSING - DES-MARKETING SINGCANG BACOLOD_2018  : Data Progress ( 66.67 % ) 
+-------------------------------
+
+Log Entry : 12:42:21 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-09-A
+-------------------------------
+
+Log Entry : 12:42:24 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-09-A
+-------------------------------
+
+Log Entry : 12:42:24 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 25,743.50
+-------------------------------
+
+Log Entry : 12:42:30 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-09-A
+-------------------------------
+
+Log Entry : 12:42:30 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-09-A
+-------------------------------
+
+Log Entry : 12:42:30 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (17 / 24) : DESMSING - DES-MARKETING SINGCANG BACOLOD_2018  : Data Progress ( 70.83 % ) 
+-------------------------------
+
+Log Entry : 12:42:32 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-09-B
+-------------------------------
+
+Log Entry : 12:42:35 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-09-B
+-------------------------------
+
+Log Entry : 12:42:35 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 17,164.22
+-------------------------------
+
+Log Entry : 12:42:41 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-09-B
+-------------------------------
+
+Log Entry : 12:42:41 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-09-B
+-------------------------------
+
+Log Entry : 12:42:41 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (18 / 24) : DESMSING - DES-MARKETING SINGCANG BACOLOD_2018  : Data Progress ( 75 % ) 
+-------------------------------
+
+Log Entry : 12:42:43 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-10-A
+-------------------------------
+
+Log Entry : 12:42:46 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-10-A
+-------------------------------
+
+Log Entry : 12:42:46 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 26,186.50
+-------------------------------
+
+Log Entry : 12:42:52 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-10-A
+-------------------------------
+
+Log Entry : 12:42:52 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-10-A
+-------------------------------
+
+Log Entry : 12:42:52 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (19 / 24) : DESMSING - DES-MARKETING SINGCANG BACOLOD_2018  : Data Progress ( 79.17 % ) 
+-------------------------------
+
+Log Entry : 12:42:54 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-10-B
+-------------------------------
+
+Log Entry : 12:42:57 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-10-B
+-------------------------------
+
+Log Entry : 12:42:57 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 17,722.22
+-------------------------------
+
+Log Entry : 12:43:03 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-10-B
+-------------------------------
+
+Log Entry : 12:43:03 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-10-B
+-------------------------------
+
+Log Entry : 12:43:03 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (20 / 24) : DESMSING - DES-MARKETING SINGCANG BACOLOD_2018  : Data Progress ( 83.33 % ) 
+-------------------------------
+
+Log Entry : 12:43:05 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-11-A
+-------------------------------
+
+Log Entry : 12:43:08 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-11-A
+-------------------------------
+
+Log Entry : 12:43:08 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 28,982.90
+-------------------------------
+
+Log Entry : 12:43:14 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-11-A
+-------------------------------
+
+Log Entry : 12:43:14 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-11-A
+-------------------------------
+
+Log Entry : 12:43:14 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (21 / 24) : DESMSING - DES-MARKETING SINGCANG BACOLOD_2018  : Data Progress ( 87.5 % ) 
+-------------------------------
+
+Log Entry : 12:43:16 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-11-B
+-------------------------------
+
+Log Entry : 12:43:19 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-11-B
+-------------------------------
+
+Log Entry : 12:43:19 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 20,902.22
+-------------------------------
+
+Log Entry : 12:43:24 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-11-B
+-------------------------------
+
+Log Entry : 12:43:25 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-11-B
+-------------------------------
+
+Log Entry : 12:43:25 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (22 / 24) : DESMSING - DES-MARKETING SINGCANG BACOLOD_2018  : Data Progress ( 91.67 % ) 
+-------------------------------
+
+Log Entry : 12:43:27 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-12-A
+-------------------------------
+
+Log Entry : 12:43:30 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-12-A
+-------------------------------
+
+Log Entry : 12:43:30 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 33,215.33
+-------------------------------
+
+Log Entry : 12:43:36 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-12-A
+-------------------------------
+
+Log Entry : 12:43:36 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-12-A
+-------------------------------
+
+Log Entry : 12:43:36 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (23 / 24) : DESMSING - DES-MARKETING SINGCANG BACOLOD_2018  : Data Progress ( 95.83 % ) 
+-------------------------------
+
+Log Entry : 12:43:38 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-12-B
+-------------------------------
+
+Log Entry : 12:43:41 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-12-B
+-------------------------------
+
+Log Entry : 12:43:41 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 23,777.22
+-------------------------------
+
+Log Entry : 12:43:47 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-12-B
+-------------------------------
+
+Log Entry : 12:43:47 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSING - DES-MARKETING SINGCANG BACOLOD 2018 2018-12-B
+-------------------------------
+
+Log Entry : 12:43:47 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (24 / 24) : DESMSING - DES-MARKETING SINGCANG BACOLOD_2018  : Data Progress ( 100 % ) 
+-------------------------------
+
+Log Entry : 12:43:47 PM Monday, 13 May 2019
+  :
+  :Data Execution Complete Complete
+-------------------------------

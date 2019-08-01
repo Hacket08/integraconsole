@@ -1,0 +1,735 @@
+
+Log Entry : 1:22:29 PM Monday, 13 May 2019
+  :
+  :Data Start Reading
+-------------------------------
+
+Log Entry : 1:22:31 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMBAUM - DES-MARKETING BAUAN 2018 2018-01-A
+-------------------------------
+
+Log Entry : 1:22:34 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMBAUM - DES-MARKETING BAUAN 2018 2018-01-A
+-------------------------------
+
+Log Entry : 1:22:35 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,685.05
+-------------------------------
+
+Log Entry : 1:22:40 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-01-A
+-------------------------------
+
+Log Entry : 1:22:40 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-01-A
+-------------------------------
+
+Log Entry : 1:22:40 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (1 / 24) : DESMBAUM - DES-MARKETING BAUAN_2018  : Data Progress ( 4.17 % ) 
+-------------------------------
+
+Log Entry : 1:22:42 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMBAUM - DES-MARKETING BAUAN 2018 2018-01-B
+-------------------------------
+
+Log Entry : 1:22:45 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMBAUM - DES-MARKETING BAUAN 2018 2018-01-B
+-------------------------------
+
+Log Entry : 1:22:46 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,927.25
+-------------------------------
+
+Log Entry : 1:22:51 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-01-B
+-------------------------------
+
+Log Entry : 1:22:51 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-01-B
+-------------------------------
+
+Log Entry : 1:22:51 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (2 / 24) : DESMBAUM - DES-MARKETING BAUAN_2018  : Data Progress ( 8.33 % ) 
+-------------------------------
+
+Log Entry : 1:22:53 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMBAUM - DES-MARKETING BAUAN 2018 2018-02-A
+-------------------------------
+
+Log Entry : 1:22:56 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMBAUM - DES-MARKETING BAUAN 2018 2018-02-A
+-------------------------------
+
+Log Entry : 1:22:57 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,682.05
+-------------------------------
+
+Log Entry : 1:23:02 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-02-A
+-------------------------------
+
+Log Entry : 1:23:02 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-02-A
+-------------------------------
+
+Log Entry : 1:23:02 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (3 / 24) : DESMBAUM - DES-MARKETING BAUAN_2018  : Data Progress ( 12.5 % ) 
+-------------------------------
+
+Log Entry : 1:23:04 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMBAUM - DES-MARKETING BAUAN 2018 2018-02-B
+-------------------------------
+
+Log Entry : 1:23:07 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMBAUM - DES-MARKETING BAUAN 2018 2018-02-B
+-------------------------------
+
+Log Entry : 1:23:07 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,261.25
+-------------------------------
+
+Log Entry : 1:23:13 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-02-B
+-------------------------------
+
+Log Entry : 1:23:13 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-02-B
+-------------------------------
+
+Log Entry : 1:23:13 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (4 / 24) : DESMBAUM - DES-MARKETING BAUAN_2018  : Data Progress ( 16.67 % ) 
+-------------------------------
+
+Log Entry : 1:23:15 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMBAUM - DES-MARKETING BAUAN 2018 2018-03-A
+-------------------------------
+
+Log Entry : 1:23:18 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMBAUM - DES-MARKETING BAUAN 2018 2018-03-A
+-------------------------------
+
+Log Entry : 1:23:18 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 10,024.97
+-------------------------------
+
+Log Entry : 1:23:23 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-03-A
+-------------------------------
+
+Log Entry : 1:23:24 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-03-A
+-------------------------------
+
+Log Entry : 1:23:24 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (5 / 24) : DESMBAUM - DES-MARKETING BAUAN_2018  : Data Progress ( 20.83 % ) 
+-------------------------------
+
+Log Entry : 1:23:26 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMBAUM - DES-MARKETING BAUAN 2018 2018-03-B
+-------------------------------
+
+Log Entry : 1:23:29 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMBAUM - DES-MARKETING BAUAN 2018 2018-03-B
+-------------------------------
+
+Log Entry : 1:23:29 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,261.25
+-------------------------------
+
+Log Entry : 1:23:34 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-03-B
+-------------------------------
+
+Log Entry : 1:23:35 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-03-B
+-------------------------------
+
+Log Entry : 1:23:35 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (6 / 24) : DESMBAUM - DES-MARKETING BAUAN_2018  : Data Progress ( 25 % ) 
+-------------------------------
+
+Log Entry : 1:23:37 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMBAUM - DES-MARKETING BAUAN 2018 2018-04-A
+-------------------------------
+
+Log Entry : 1:23:40 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMBAUM - DES-MARKETING BAUAN 2018 2018-04-A
+-------------------------------
+
+Log Entry : 1:23:40 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 10,388.80
+-------------------------------
+
+Log Entry : 1:23:45 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-04-A
+-------------------------------
+
+Log Entry : 1:23:45 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-04-A
+-------------------------------
+
+Log Entry : 1:23:46 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (7 / 24) : DESMBAUM - DES-MARKETING BAUAN_2018  : Data Progress ( 29.17 % ) 
+-------------------------------
+
+Log Entry : 1:23:48 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMBAUM - DES-MARKETING BAUAN 2018 2018-04-B
+-------------------------------
+
+Log Entry : 1:23:51 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMBAUM - DES-MARKETING BAUAN 2018 2018-04-B
+-------------------------------
+
+Log Entry : 1:23:51 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,318.00
+-------------------------------
+
+Log Entry : 1:23:56 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-04-B
+-------------------------------
+
+Log Entry : 1:23:56 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-04-B
+-------------------------------
+
+Log Entry : 1:23:56 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (8 / 24) : DESMBAUM - DES-MARKETING BAUAN_2018  : Data Progress ( 33.33 % ) 
+-------------------------------
+
+Log Entry : 1:23:58 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMBAUM - DES-MARKETING BAUAN 2018 2018-05-A
+-------------------------------
+
+Log Entry : 1:24:01 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMBAUM - DES-MARKETING BAUAN 2018 2018-05-A
+-------------------------------
+
+Log Entry : 1:24:02 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 11,511.80
+-------------------------------
+
+Log Entry : 1:24:07 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-05-A
+-------------------------------
+
+Log Entry : 1:24:07 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-05-A
+-------------------------------
+
+Log Entry : 1:24:07 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (9 / 24) : DESMBAUM - DES-MARKETING BAUAN_2018  : Data Progress ( 37.5 % ) 
+-------------------------------
+
+Log Entry : 1:24:09 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMBAUM - DES-MARKETING BAUAN 2018 2018-05-B
+-------------------------------
+
+Log Entry : 1:24:12 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMBAUM - DES-MARKETING BAUAN 2018 2018-05-B
+-------------------------------
+
+Log Entry : 1:24:13 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 4,698.71
+-------------------------------
+
+Log Entry : 1:24:18 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-05-B
+-------------------------------
+
+Log Entry : 1:24:18 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-05-B
+-------------------------------
+
+Log Entry : 1:24:18 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (10 / 24) : DESMBAUM - DES-MARKETING BAUAN_2018  : Data Progress ( 41.67 % ) 
+-------------------------------
+
+Log Entry : 1:24:20 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMBAUM - DES-MARKETING BAUAN 2018 2018-06-A
+-------------------------------
+
+Log Entry : 1:24:23 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMBAUM - DES-MARKETING BAUAN 2018 2018-06-A
+-------------------------------
+
+Log Entry : 1:24:23 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,183.30
+-------------------------------
+
+Log Entry : 1:24:29 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-06-A
+-------------------------------
+
+Log Entry : 1:24:29 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-06-A
+-------------------------------
+
+Log Entry : 1:24:29 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (11 / 24) : DESMBAUM - DES-MARKETING BAUAN_2018  : Data Progress ( 45.83 % ) 
+-------------------------------
+
+Log Entry : 1:24:31 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMBAUM - DES-MARKETING BAUAN 2018 2018-06-B
+-------------------------------
+
+Log Entry : 1:24:34 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMBAUM - DES-MARKETING BAUAN 2018 2018-06-B
+-------------------------------
+
+Log Entry : 1:24:34 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 4,219.71
+-------------------------------
+
+Log Entry : 1:24:39 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-06-B
+-------------------------------
+
+Log Entry : 1:24:40 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-06-B
+-------------------------------
+
+Log Entry : 1:24:40 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (12 / 24) : DESMBAUM - DES-MARKETING BAUAN_2018  : Data Progress ( 50 % ) 
+-------------------------------
+
+Log Entry : 1:24:42 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMBAUM - DES-MARKETING BAUAN 2018 2018-07-A
+-------------------------------
+
+Log Entry : 1:24:45 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMBAUM - DES-MARKETING BAUAN 2018 2018-07-A
+-------------------------------
+
+Log Entry : 1:24:45 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,403.30
+-------------------------------
+
+Log Entry : 1:24:50 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-07-A
+-------------------------------
+
+Log Entry : 1:24:50 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-07-A
+-------------------------------
+
+Log Entry : 1:24:50 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (13 / 24) : DESMBAUM - DES-MARKETING BAUAN_2018  : Data Progress ( 54.17 % ) 
+-------------------------------
+
+Log Entry : 1:24:52 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMBAUM - DES-MARKETING BAUAN 2018 2018-07-B
+-------------------------------
+
+Log Entry : 1:24:55 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMBAUM - DES-MARKETING BAUAN 2018 2018-07-B
+-------------------------------
+
+Log Entry : 1:24:56 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 4,439.71
+-------------------------------
+
+Log Entry : 1:25:01 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-07-B
+-------------------------------
+
+Log Entry : 1:25:01 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-07-B
+-------------------------------
+
+Log Entry : 1:25:01 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (14 / 24) : DESMBAUM - DES-MARKETING BAUAN_2018  : Data Progress ( 58.33 % ) 
+-------------------------------
+
+Log Entry : 1:25:03 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMBAUM - DES-MARKETING BAUAN 2018 2018-08-A
+-------------------------------
+
+Log Entry : 1:25:06 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMBAUM - DES-MARKETING BAUAN 2018 2018-08-A
+-------------------------------
+
+Log Entry : 1:25:07 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,406.30
+-------------------------------
+
+Log Entry : 1:25:12 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-08-A
+-------------------------------
+
+Log Entry : 1:25:12 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-08-A
+-------------------------------
+
+Log Entry : 1:25:12 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (15 / 24) : DESMBAUM - DES-MARKETING BAUAN_2018  : Data Progress ( 62.5 % ) 
+-------------------------------
+
+Log Entry : 1:25:14 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMBAUM - DES-MARKETING BAUAN 2018 2018-08-B
+-------------------------------
+
+Log Entry : 1:25:17 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMBAUM - DES-MARKETING BAUAN 2018 2018-08-B
+-------------------------------
+
+Log Entry : 1:25:18 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 4,439.71
+-------------------------------
+
+Log Entry : 1:25:23 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-08-B
+-------------------------------
+
+Log Entry : 1:25:23 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-08-B
+-------------------------------
+
+Log Entry : 1:25:23 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (16 / 24) : DESMBAUM - DES-MARKETING BAUAN_2018  : Data Progress ( 66.67 % ) 
+-------------------------------
+
+Log Entry : 1:25:25 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMBAUM - DES-MARKETING BAUAN 2018 2018-09-A
+-------------------------------
+
+Log Entry : 1:25:28 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMBAUM - DES-MARKETING BAUAN 2018 2018-09-A
+-------------------------------
+
+Log Entry : 1:25:29 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,410.30
+-------------------------------
+
+Log Entry : 1:25:34 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-09-A
+-------------------------------
+
+Log Entry : 1:25:34 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-09-A
+-------------------------------
+
+Log Entry : 1:25:34 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (17 / 24) : DESMBAUM - DES-MARKETING BAUAN_2018  : Data Progress ( 70.83 % ) 
+-------------------------------
+
+Log Entry : 1:25:36 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMBAUM - DES-MARKETING BAUAN 2018 2018-09-B
+-------------------------------
+
+Log Entry : 1:25:39 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMBAUM - DES-MARKETING BAUAN 2018 2018-09-B
+-------------------------------
+
+Log Entry : 1:25:40 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 4,439.85
+-------------------------------
+
+Log Entry : 1:25:45 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-09-B
+-------------------------------
+
+Log Entry : 1:25:45 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-09-B
+-------------------------------
+
+Log Entry : 1:25:45 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (18 / 24) : DESMBAUM - DES-MARKETING BAUAN_2018  : Data Progress ( 75 % ) 
+-------------------------------
+
+Log Entry : 1:25:47 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMBAUM - DES-MARKETING BAUAN 2018 2018-10-A
+-------------------------------
+
+Log Entry : 1:25:50 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMBAUM - DES-MARKETING BAUAN 2018 2018-10-A
+-------------------------------
+
+Log Entry : 1:25:51 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,017.86
+-------------------------------
+
+Log Entry : 1:25:56 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-10-A
+-------------------------------
+
+Log Entry : 1:25:56 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-10-A
+-------------------------------
+
+Log Entry : 1:25:56 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (19 / 24) : DESMBAUM - DES-MARKETING BAUAN_2018  : Data Progress ( 79.17 % ) 
+-------------------------------
+
+Log Entry : 1:25:58 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMBAUM - DES-MARKETING BAUAN 2018 2018-10-B
+-------------------------------
+
+Log Entry : 1:26:01 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMBAUM - DES-MARKETING BAUAN 2018 2018-10-B
+-------------------------------
+
+Log Entry : 1:26:02 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 2,698.64
+-------------------------------
+
+Log Entry : 1:26:07 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-10-B
+-------------------------------
+
+Log Entry : 1:26:07 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-10-B
+-------------------------------
+
+Log Entry : 1:26:07 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (20 / 24) : DESMBAUM - DES-MARKETING BAUAN_2018  : Data Progress ( 83.33 % ) 
+-------------------------------
+
+Log Entry : 1:26:09 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMBAUM - DES-MARKETING BAUAN 2018 2018-11-A
+-------------------------------
+
+Log Entry : 1:26:12 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMBAUM - DES-MARKETING BAUAN 2018 2018-11-A
+-------------------------------
+
+Log Entry : 1:26:13 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,338.30
+-------------------------------
+
+Log Entry : 1:26:18 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-11-A
+-------------------------------
+
+Log Entry : 1:26:18 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-11-A
+-------------------------------
+
+Log Entry : 1:26:18 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (21 / 24) : DESMBAUM - DES-MARKETING BAUAN_2018  : Data Progress ( 87.5 % ) 
+-------------------------------
+
+Log Entry : 1:26:20 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMBAUM - DES-MARKETING BAUAN 2018 2018-11-B
+-------------------------------
+
+Log Entry : 1:26:23 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMBAUM - DES-MARKETING BAUAN 2018 2018-11-B
+-------------------------------
+
+Log Entry : 1:26:23 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 3,395.14
+-------------------------------
+
+Log Entry : 1:26:29 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-11-B
+-------------------------------
+
+Log Entry : 1:26:29 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-11-B
+-------------------------------
+
+Log Entry : 1:26:29 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (22 / 24) : DESMBAUM - DES-MARKETING BAUAN_2018  : Data Progress ( 91.67 % ) 
+-------------------------------
+
+Log Entry : 1:26:31 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMBAUM - DES-MARKETING BAUAN 2018 2018-12-A
+-------------------------------
+
+Log Entry : 1:26:34 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMBAUM - DES-MARKETING BAUAN 2018 2018-12-A
+-------------------------------
+
+Log Entry : 1:26:34 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,908.90
+-------------------------------
+
+Log Entry : 1:26:39 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-12-A
+-------------------------------
+
+Log Entry : 1:26:40 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-12-A
+-------------------------------
+
+Log Entry : 1:26:40 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (23 / 24) : DESMBAUM - DES-MARKETING BAUAN_2018  : Data Progress ( 95.83 % ) 
+-------------------------------
+
+Log Entry : 1:26:42 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMBAUM - DES-MARKETING BAUAN 2018 2018-12-B
+-------------------------------
+
+Log Entry : 1:26:45 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMBAUM - DES-MARKETING BAUAN 2018 2018-12-B
+-------------------------------
+
+Log Entry : 1:26:45 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 4,815.29
+-------------------------------
+
+Log Entry : 1:26:50 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-12-B
+-------------------------------
+
+Log Entry : 1:26:51 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMBAUM - DES-MARKETING BAUAN 2018 2018-12-B
+-------------------------------
+
+Log Entry : 1:26:51 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (24 / 24) : DESMBAUM - DES-MARKETING BAUAN_2018  : Data Progress ( 100 % ) 
+-------------------------------
+
+Log Entry : 1:26:51 PM Monday, 13 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 1:26:53 PM Monday, 13 May 2019
+  :
+  :DESMBAUM - DES-MARKETING BAUAN Data Preparing ..
+-------------------------------

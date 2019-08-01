@@ -1,0 +1,735 @@
+
+Log Entry : 2:06:42 PM Monday, 13 May 2019
+  :
+  :Data Start Reading
+-------------------------------
+
+Log Entry : 2:06:44 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAYA - DES-BAYAWAN 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:06:47 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAYA - DES-BAYAWAN 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:06:47 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 41,827.15
+-------------------------------
+
+Log Entry : 2:06:53 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:06:53 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:06:53 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (1 / 24) : DESIBAYA - DES-BAYAWAN_2018  : Data Progress ( 4.17 % ) 
+-------------------------------
+
+Log Entry : 2:06:55 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAYA - DES-BAYAWAN 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:06:58 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAYA - DES-BAYAWAN 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:06:59 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 31,471.97
+-------------------------------
+
+Log Entry : 2:07:04 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:07:04 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:07:04 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (2 / 24) : DESIBAYA - DES-BAYAWAN_2018  : Data Progress ( 8.33 % ) 
+-------------------------------
+
+Log Entry : 2:07:06 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAYA - DES-BAYAWAN 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:07:09 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAYA - DES-BAYAWAN 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:07:10 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 37,791.16
+-------------------------------
+
+Log Entry : 2:07:15 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:07:15 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:07:15 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (3 / 24) : DESIBAYA - DES-BAYAWAN_2018  : Data Progress ( 12.5 % ) 
+-------------------------------
+
+Log Entry : 2:07:17 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAYA - DES-BAYAWAN 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:07:20 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAYA - DES-BAYAWAN 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:07:21 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 28,433.42
+-------------------------------
+
+Log Entry : 2:07:26 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:07:26 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:07:26 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (4 / 24) : DESIBAYA - DES-BAYAWAN_2018  : Data Progress ( 16.67 % ) 
+-------------------------------
+
+Log Entry : 2:07:28 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAYA - DES-BAYAWAN 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:07:31 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAYA - DES-BAYAWAN 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:07:32 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 35,232.10
+-------------------------------
+
+Log Entry : 2:07:37 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:07:38 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:07:38 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (5 / 24) : DESIBAYA - DES-BAYAWAN_2018  : Data Progress ( 20.83 % ) 
+-------------------------------
+
+Log Entry : 2:07:40 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAYA - DES-BAYAWAN 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:07:43 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAYA - DES-BAYAWAN 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:07:43 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 26,871.39
+-------------------------------
+
+Log Entry : 2:07:48 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:07:49 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:07:49 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (6 / 24) : DESIBAYA - DES-BAYAWAN_2018  : Data Progress ( 25 % ) 
+-------------------------------
+
+Log Entry : 2:07:51 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAYA - DES-BAYAWAN 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:07:54 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAYA - DES-BAYAWAN 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:07:54 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 37,481.90
+-------------------------------
+
+Log Entry : 2:07:59 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:08:00 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:08:00 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (7 / 24) : DESIBAYA - DES-BAYAWAN_2018  : Data Progress ( 29.17 % ) 
+-------------------------------
+
+Log Entry : 2:08:02 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAYA - DES-BAYAWAN 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:08:05 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAYA - DES-BAYAWAN 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:08:05 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 27,888.27
+-------------------------------
+
+Log Entry : 2:08:10 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:08:11 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:08:11 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (8 / 24) : DESIBAYA - DES-BAYAWAN_2018  : Data Progress ( 33.33 % ) 
+-------------------------------
+
+Log Entry : 2:08:13 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAYA - DES-BAYAWAN 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:08:16 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAYA - DES-BAYAWAN 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:08:16 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 40,600.46
+-------------------------------
+
+Log Entry : 2:08:21 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:08:21 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:08:21 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (9 / 24) : DESIBAYA - DES-BAYAWAN_2018  : Data Progress ( 37.5 % ) 
+-------------------------------
+
+Log Entry : 2:08:23 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAYA - DES-BAYAWAN 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:08:26 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAYA - DES-BAYAWAN 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:08:27 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 31,248.77
+-------------------------------
+
+Log Entry : 2:08:32 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:08:32 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:08:32 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (10 / 24) : DESIBAYA - DES-BAYAWAN_2018  : Data Progress ( 41.67 % ) 
+-------------------------------
+
+Log Entry : 2:08:34 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAYA - DES-BAYAWAN 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:08:37 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAYA - DES-BAYAWAN 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:08:38 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 40,617.02
+-------------------------------
+
+Log Entry : 2:08:43 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:08:43 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:08:43 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (11 / 24) : DESIBAYA - DES-BAYAWAN_2018  : Data Progress ( 45.83 % ) 
+-------------------------------
+
+Log Entry : 2:08:45 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAYA - DES-BAYAWAN 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:08:48 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAYA - DES-BAYAWAN 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:08:49 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 31,351.56
+-------------------------------
+
+Log Entry : 2:08:54 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:08:54 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:08:54 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (12 / 24) : DESIBAYA - DES-BAYAWAN_2018  : Data Progress ( 50 % ) 
+-------------------------------
+
+Log Entry : 2:08:56 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAYA - DES-BAYAWAN 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:08:59 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAYA - DES-BAYAWAN 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:09:00 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 40,541.35
+-------------------------------
+
+Log Entry : 2:09:05 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:09:05 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:09:05 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (13 / 24) : DESIBAYA - DES-BAYAWAN_2018  : Data Progress ( 54.17 % ) 
+-------------------------------
+
+Log Entry : 2:09:07 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAYA - DES-BAYAWAN 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:09:10 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAYA - DES-BAYAWAN 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:09:11 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 31,781.96
+-------------------------------
+
+Log Entry : 2:09:16 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:09:16 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:09:16 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (14 / 24) : DESIBAYA - DES-BAYAWAN_2018  : Data Progress ( 58.33 % ) 
+-------------------------------
+
+Log Entry : 2:09:18 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAYA - DES-BAYAWAN 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:09:21 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAYA - DES-BAYAWAN 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:09:22 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 40,852.89
+-------------------------------
+
+Log Entry : 2:09:27 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:09:27 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:09:27 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (15 / 24) : DESIBAYA - DES-BAYAWAN_2018  : Data Progress ( 62.5 % ) 
+-------------------------------
+
+Log Entry : 2:09:29 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAYA - DES-BAYAWAN 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:09:32 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAYA - DES-BAYAWAN 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:09:33 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 30,371.19
+-------------------------------
+
+Log Entry : 2:09:38 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:09:38 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:09:38 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (16 / 24) : DESIBAYA - DES-BAYAWAN_2018  : Data Progress ( 66.67 % ) 
+-------------------------------
+
+Log Entry : 2:09:40 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAYA - DES-BAYAWAN 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:09:43 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAYA - DES-BAYAWAN 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:09:44 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 40,850.98
+-------------------------------
+
+Log Entry : 2:09:49 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:09:49 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:09:49 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (17 / 24) : DESIBAYA - DES-BAYAWAN_2018  : Data Progress ( 70.83 % ) 
+-------------------------------
+
+Log Entry : 2:09:51 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAYA - DES-BAYAWAN 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:09:54 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAYA - DES-BAYAWAN 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:09:55 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 30,240.85
+-------------------------------
+
+Log Entry : 2:10:00 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:10:00 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:10:00 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (18 / 24) : DESIBAYA - DES-BAYAWAN_2018  : Data Progress ( 75 % ) 
+-------------------------------
+
+Log Entry : 2:10:02 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAYA - DES-BAYAWAN 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:10:05 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAYA - DES-BAYAWAN 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:10:06 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 42,835.98
+-------------------------------
+
+Log Entry : 2:10:11 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:10:11 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:10:11 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (19 / 24) : DESIBAYA - DES-BAYAWAN_2018  : Data Progress ( 79.17 % ) 
+-------------------------------
+
+Log Entry : 2:10:13 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAYA - DES-BAYAWAN 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:10:16 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAYA - DES-BAYAWAN 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:10:17 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 30,580.29
+-------------------------------
+
+Log Entry : 2:10:22 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:10:22 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:10:22 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (20 / 24) : DESIBAYA - DES-BAYAWAN_2018  : Data Progress ( 83.33 % ) 
+-------------------------------
+
+Log Entry : 2:10:24 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAYA - DES-BAYAWAN 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:10:27 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAYA - DES-BAYAWAN 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:10:27 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 42,106.05
+-------------------------------
+
+Log Entry : 2:10:33 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:10:33 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:10:33 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (21 / 24) : DESIBAYA - DES-BAYAWAN_2018  : Data Progress ( 87.5 % ) 
+-------------------------------
+
+Log Entry : 2:10:35 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAYA - DES-BAYAWAN 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:10:38 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAYA - DES-BAYAWAN 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:10:38 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 31,623.18
+-------------------------------
+
+Log Entry : 2:10:44 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:10:44 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:10:44 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (22 / 24) : DESIBAYA - DES-BAYAWAN_2018  : Data Progress ( 91.67 % ) 
+-------------------------------
+
+Log Entry : 2:10:46 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAYA - DES-BAYAWAN 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:10:49 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAYA - DES-BAYAWAN 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:10:49 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 42,400.17
+-------------------------------
+
+Log Entry : 2:10:55 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:10:55 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:10:55 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (23 / 24) : DESIBAYA - DES-BAYAWAN_2018  : Data Progress ( 95.83 % ) 
+-------------------------------
+
+Log Entry : 2:10:57 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAYA - DES-BAYAWAN 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:11:00 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAYA - DES-BAYAWAN 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:11:00 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 31,547.04
+-------------------------------
+
+Log Entry : 2:11:05 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:11:06 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAYA - DES-BAYAWAN 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:11:06 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (24 / 24) : DESIBAYA - DES-BAYAWAN_2018  : Data Progress ( 100 % ) 
+-------------------------------
+
+Log Entry : 2:11:06 PM Monday, 13 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 2:11:08 PM Monday, 13 May 2019
+  :
+  :DESIBAYA - DES-BAYAWAN Data Preparing ..
+-------------------------------

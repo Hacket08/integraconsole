@@ -1,0 +1,115 @@
+
+Log Entry : 6:52:42 AM Wednesday, 22 May 2019
+  :
+  :DESIHOFC Payroll Successfully Posted : 2018-01-B
+-------------------------------
+
+Log Entry : 6:53:01 AM Wednesday, 22 May 2019
+  :
+  :DESIHOFC Payroll Successfully Posted : 2018-02-A
+-------------------------------
+
+Log Entry : 6:53:17 AM Wednesday, 22 May 2019
+  :
+  :DESIHOFC Payroll Successfully Posted : 2018-02-B
+-------------------------------
+
+Log Entry : 6:53:33 AM Wednesday, 22 May 2019
+  :
+  :DESIHOFC Payroll Successfully Posted : 2018-03-A
+-------------------------------
+
+Log Entry : 6:53:48 AM Wednesday, 22 May 2019
+  :
+  :DESIHOFC Payroll Successfully Posted : 2018-03-B
+-------------------------------
+
+Log Entry : 6:54:04 AM Wednesday, 22 May 2019
+  :
+  :DESIHOFC Payroll Successfully Posted : 2018-04-A
+-------------------------------
+
+Log Entry : 6:54:20 AM Wednesday, 22 May 2019
+  :
+  :DESIHOFC Payroll Successfully Posted : 2018-04-B
+-------------------------------
+
+Log Entry : 6:54:36 AM Wednesday, 22 May 2019
+  :
+  :DESIHOFC Payroll Successfully Posted : 2018-05-A
+-------------------------------
+
+Log Entry : 6:54:52 AM Wednesday, 22 May 2019
+  :
+  :DESIHOFC Payroll Successfully Posted : 2018-05-B
+-------------------------------
+
+Log Entry : 6:55:08 AM Wednesday, 22 May 2019
+  :
+  :DESIHOFC Payroll Successfully Posted : 2018-06-A
+-------------------------------
+
+Log Entry : 6:55:23 AM Wednesday, 22 May 2019
+  :
+  :DESIHOFC Payroll Successfully Posted : 2018-06-B
+-------------------------------
+
+Log Entry : 6:55:39 AM Wednesday, 22 May 2019
+  :
+  :DESIHOFC Payroll Successfully Posted : 2018-07-A
+-------------------------------
+
+Log Entry : 6:55:54 AM Wednesday, 22 May 2019
+  :
+  :DESIHOFC Payroll Successfully Posted : 2018-07-B
+-------------------------------
+
+Log Entry : 6:56:09 AM Wednesday, 22 May 2019
+  :
+  :DESIHOFC Payroll Successfully Posted : 2018-08-A
+-------------------------------
+
+Log Entry : 6:56:25 AM Wednesday, 22 May 2019
+  :
+  :DESIHOFC Payroll Successfully Posted : 2018-08-B
+-------------------------------
+
+Log Entry : 6:56:41 AM Wednesday, 22 May 2019
+  :
+  :DESIHOFC Payroll Successfully Posted : 2018-09-A
+-------------------------------
+
+Log Entry : 6:56:56 AM Wednesday, 22 May 2019
+  :
+  :DESIHOFC Payroll Successfully Posted : 2018-09-B
+-------------------------------
+
+Log Entry : 6:57:12 AM Wednesday, 22 May 2019
+  :
+  :DESIHOFC Payroll Successfully Posted : 2018-10-A
+-------------------------------
+
+Log Entry : 6:57:28 AM Wednesday, 22 May 2019
+  :
+  :DESIHOFC Payroll Successfully Posted : 2018-10-B
+-------------------------------
+
+Log Entry : 6:57:43 AM Wednesday, 22 May 2019
+  :
+  :DESIHOFC Payroll Successfully Posted : 2018-11-A
+-------------------------------
+
+Log Entry : 6:58:00 AM Wednesday, 22 May 2019
+  :
+  :DESIHOFC Payroll Successfully Posted : 2018-11-B
+-------------------------------
+
+Log Entry : 6:58:16 AM Wednesday, 22 May 2019
+  :
+  :DESIHOFC Payroll Successfully Posted : 2018-12-A
+-------------------------------
+
+Log Entry : 6:58:31 AM Wednesday, 22 May 2019
+  :
+  :DESIHOFC Payroll Successfully Posted : 2018-12-B
+-------------------------------

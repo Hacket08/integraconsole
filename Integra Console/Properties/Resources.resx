@@ -1,0 +1,409 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="_22_excel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\22_excel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="16 Manual Payroll" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\16 Manual Payroll.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="system_restart" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\system_restart.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="32 Payroll Process 3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\32 Payroll Process 3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_32_LoanFile01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\32_LoanFile01.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Save" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Icons\Save.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="32 TimeKeeping" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\32 TimeKeeping.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="find" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\find.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="32 Employee Master Data 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\32 Employee Master Data 2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="64 Employee Master Data" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\64 Employee Master Data.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="system_run" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\system_run.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="system_help" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\system_help.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vista__19_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Vista (19).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="redo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\redo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_16_excel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\16_excel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="32 Master Data" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\32 Master Data.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="16 Window Config" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\16 Window Config.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_32_contacts" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\32_contacts.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_16_view" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\16_view.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="64 Loan Data 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\64 Loan Data 2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="system_users" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\system_users.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="64 Upload Work Days" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\64 Upload Work Days.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="128 Config" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\128 Config.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lock Payroll" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Lock Payroll.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="64 Entry Per Employee" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\64 Entry Per Employee.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="More_16px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Icons\More_16px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vista__18_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Vista (18).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="64 Lock Payroll" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\64 Lock Payroll.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="64 Manual Payroll" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\64 Manual Payroll.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vista__22_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Vista (22).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="64 Reports" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\64 Reports.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="16 Payroll" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\16 Payroll.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="64 Entry Per Account" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\64 Entry Per Account.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Payroll Process 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Payroll Process 2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="text_x_ldif" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\text_x_ldif.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="16 TimeKeeping" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\16 TimeKeeping.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="system_switch_user" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\system_switch_user.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="32 Window Config" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\32 Window Config.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dialog_cancel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dialog_cancel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="32 Payroll" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\32 Payroll.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_16_dataedit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\16_dataedit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="system_suspend" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\system_suspend.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="64 Payroll Process 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\64 Payroll Process 2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="64 Table Config" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\64 Table Config.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="64 Config" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\64 Config.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Synchronize" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Icons\Synchronize.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Table Config" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Table Config.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="window_close" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\window_close.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="16 Table Config" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\16 Table Config.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="system_log_out" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\system_log_out.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="16 Payroll Process 3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\16 Payroll Process 3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Database_03" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Icons\Database_03.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vista__20_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Vista (20).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="32 Payroll Process 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\32 Payroll Process 2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="64 Payroll Process 3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\64 Payroll Process 3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="filesave" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\filesave.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="contacts16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\contacts16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_32_Timekeeping" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\32_Timekeeping.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Manual Payroll" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Manual Payroll.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="32 Manual Payroll" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\32 Manual Payroll.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="64 PrintDoc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\64 PrintDoc.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="stock_close" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\stock_close.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Direc Logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Direc Logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cancel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Icons\Cancel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Employee Master Data 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Employee Master Data 2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Folder" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Icons\Folder.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="system_lock_screen" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\system_lock_screen.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="128 Window Config" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\128 Window Config.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="64 TimeKeeping" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\64 TimeKeeping.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="16 Lock Payroll" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\16 Lock Payroll.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="64 Master Data" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\64 Master Data.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="preferences_desktop_user" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\preferences_desktop_user.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="64 Upload Work Days 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\64 Upload Work Days 2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="16 Config" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\16 Config.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Payroll Process 3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Payroll Process 3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="remove" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\remove.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="64 Employee Master Data 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\64 Employee Master Data 2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_16_tel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\16_tel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="16 Payroll Process 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\16 Payroll Process 2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="16 Master Data" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\16 Master Data.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="32 Employee Master Data" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\32 Employee Master Data.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="16 Employee Master Data" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\16 Employee Master Data.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="32 Config" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\32 Config.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="64 Payroll" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\64 Payroll.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="32 Table Config" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\32 Table Config.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_16_getlist" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\16_getlist.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TimeKeeping" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TimeKeeping.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Payroll" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Payroll.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Employee Master Data" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Employee Master Data.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="search" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\search.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Master Data" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Master Data.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="64 Window Config" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\64 Window Config.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="16 Employee Master Data 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\16 Employee Master Data 2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="32 Lock Payroll" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\32 Lock Payroll.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="edit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\edit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="64 Leave" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\64 Leave.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

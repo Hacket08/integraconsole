@@ -1,0 +1,30 @@
+
+Log Entry : 3:13:43 PM Monday, 13 May 2019
+  :
+  :DESISINM Payroll Successfully Posted : 2018-10-A
+-------------------------------
+
+Log Entry : 3:13:53 PM Monday, 13 May 2019
+  :
+  :DESISINM Payroll Successfully Posted : 2018-10-B
+-------------------------------
+
+Log Entry : 3:14:04 PM Monday, 13 May 2019
+  :
+  :DESISINM Payroll Successfully Posted : 2018-11-A
+-------------------------------
+
+Log Entry : 3:14:15 PM Monday, 13 May 2019
+  :
+  :DESISINM Payroll Successfully Posted : 2018-11-B
+-------------------------------
+
+Log Entry : 3:14:26 PM Monday, 13 May 2019
+  :
+  :DESISINM Payroll Successfully Posted : 2018-12-A
+-------------------------------
+
+Log Entry : 3:14:36 PM Monday, 13 May 2019
+  :
+  :DESISINM Payroll Successfully Posted : 2018-12-B
+-------------------------------

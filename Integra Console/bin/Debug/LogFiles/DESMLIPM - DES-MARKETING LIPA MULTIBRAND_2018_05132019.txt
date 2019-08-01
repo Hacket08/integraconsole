@@ -1,0 +1,730 @@
+
+Log Entry : 1:40:42 PM Monday, 13 May 2019
+  :
+  :Data Start Reading
+-------------------------------
+
+Log Entry : 1:40:44 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-01-A
+-------------------------------
+
+Log Entry : 1:40:47 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-01-A
+-------------------------------
+
+Log Entry : 1:40:48 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,278.00
+-------------------------------
+
+Log Entry : 1:40:53 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-01-A
+-------------------------------
+
+Log Entry : 1:40:53 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-01-A
+-------------------------------
+
+Log Entry : 1:40:53 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (1 / 24) : DESMLIPM - DES-MARKETING LIPA MULTIBRAND_2018  : Data Progress ( 4.17 % ) 
+-------------------------------
+
+Log Entry : 1:40:55 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-01-B
+-------------------------------
+
+Log Entry : 1:40:58 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-01-B
+-------------------------------
+
+Log Entry : 1:40:59 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,395.39
+-------------------------------
+
+Log Entry : 1:41:04 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-01-B
+-------------------------------
+
+Log Entry : 1:41:04 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-01-B
+-------------------------------
+
+Log Entry : 1:41:04 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (2 / 24) : DESMLIPM - DES-MARKETING LIPA MULTIBRAND_2018  : Data Progress ( 8.33 % ) 
+-------------------------------
+
+Log Entry : 1:41:06 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-02-A
+-------------------------------
+
+Log Entry : 1:41:09 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-02-A
+-------------------------------
+
+Log Entry : 1:41:10 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,214.00
+-------------------------------
+
+Log Entry : 1:41:15 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-02-A
+-------------------------------
+
+Log Entry : 1:41:15 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-02-A
+-------------------------------
+
+Log Entry : 1:41:15 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (3 / 24) : DESMLIPM - DES-MARKETING LIPA MULTIBRAND_2018  : Data Progress ( 12.5 % ) 
+-------------------------------
+
+Log Entry : 1:41:17 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-02-B
+-------------------------------
+
+Log Entry : 1:41:20 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-02-B
+-------------------------------
+
+Log Entry : 1:41:21 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 4,565.39
+-------------------------------
+
+Log Entry : 1:41:26 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-02-B
+-------------------------------
+
+Log Entry : 1:41:26 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-02-B
+-------------------------------
+
+Log Entry : 1:41:26 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (4 / 24) : DESMLIPM - DES-MARKETING LIPA MULTIBRAND_2018  : Data Progress ( 16.67 % ) 
+-------------------------------
+
+Log Entry : 1:41:28 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-03-A
+-------------------------------
+
+Log Entry : 1:41:31 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-03-A
+-------------------------------
+
+Log Entry : 1:41:31 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,385.00
+-------------------------------
+
+Log Entry : 1:41:37 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-03-A
+-------------------------------
+
+Log Entry : 1:41:37 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-03-A
+-------------------------------
+
+Log Entry : 1:41:37 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (5 / 24) : DESMLIPM - DES-MARKETING LIPA MULTIBRAND_2018  : Data Progress ( 20.83 % ) 
+-------------------------------
+
+Log Entry : 1:41:39 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-03-B
+-------------------------------
+
+Log Entry : 1:41:42 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-03-B
+-------------------------------
+
+Log Entry : 1:41:42 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 3,411.39
+-------------------------------
+
+Log Entry : 1:41:47 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-03-B
+-------------------------------
+
+Log Entry : 1:41:48 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-03-B
+-------------------------------
+
+Log Entry : 1:41:48 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (6 / 24) : DESMLIPM - DES-MARKETING LIPA MULTIBRAND_2018  : Data Progress ( 25 % ) 
+-------------------------------
+
+Log Entry : 1:41:50 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-04-A
+-------------------------------
+
+Log Entry : 1:41:53 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-04-A
+-------------------------------
+
+Log Entry : 1:41:53 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,060.00
+-------------------------------
+
+Log Entry : 1:41:58 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-04-A
+-------------------------------
+
+Log Entry : 1:41:59 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-04-A
+-------------------------------
+
+Log Entry : 1:41:59 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (7 / 24) : DESMLIPM - DES-MARKETING LIPA MULTIBRAND_2018  : Data Progress ( 29.17 % ) 
+-------------------------------
+
+Log Entry : 1:42:01 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-04-B
+-------------------------------
+
+Log Entry : 1:42:04 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-04-B
+-------------------------------
+
+Log Entry : 1:42:04 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 4,245.39
+-------------------------------
+
+Log Entry : 1:42:09 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-04-B
+-------------------------------
+
+Log Entry : 1:42:09 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-04-B
+-------------------------------
+
+Log Entry : 1:42:09 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (8 / 24) : DESMLIPM - DES-MARKETING LIPA MULTIBRAND_2018  : Data Progress ( 33.33 % ) 
+-------------------------------
+
+Log Entry : 1:42:11 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-05-A
+-------------------------------
+
+Log Entry : 1:42:14 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-05-A
+-------------------------------
+
+Log Entry : 1:42:15 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,790.30
+-------------------------------
+
+Log Entry : 1:42:20 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-05-A
+-------------------------------
+
+Log Entry : 1:42:20 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-05-A
+-------------------------------
+
+Log Entry : 1:42:20 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (9 / 24) : DESMLIPM - DES-MARKETING LIPA MULTIBRAND_2018  : Data Progress ( 37.5 % ) 
+-------------------------------
+
+Log Entry : 1:42:22 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-05-B
+-------------------------------
+
+Log Entry : 1:42:25 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-05-B
+-------------------------------
+
+Log Entry : 1:42:26 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,356.71
+-------------------------------
+
+Log Entry : 1:42:31 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-05-B
+-------------------------------
+
+Log Entry : 1:42:31 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-05-B
+-------------------------------
+
+Log Entry : 1:42:31 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (10 / 24) : DESMLIPM - DES-MARKETING LIPA MULTIBRAND_2018  : Data Progress ( 41.67 % ) 
+-------------------------------
+
+Log Entry : 1:42:33 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-06-A
+-------------------------------
+
+Log Entry : 1:42:36 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-06-A
+-------------------------------
+
+Log Entry : 1:42:37 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,717.10
+-------------------------------
+
+Log Entry : 1:42:42 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-06-A
+-------------------------------
+
+Log Entry : 1:42:42 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-06-A
+-------------------------------
+
+Log Entry : 1:42:42 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (11 / 24) : DESMLIPM - DES-MARKETING LIPA MULTIBRAND_2018  : Data Progress ( 45.83 % ) 
+-------------------------------
+
+Log Entry : 1:42:44 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-06-B
+-------------------------------
+
+Log Entry : 1:42:47 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-06-B
+-------------------------------
+
+Log Entry : 1:42:47 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,528.50
+-------------------------------
+
+Log Entry : 1:42:53 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-06-B
+-------------------------------
+
+Log Entry : 1:42:53 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-06-B
+-------------------------------
+
+Log Entry : 1:42:53 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (12 / 24) : DESMLIPM - DES-MARKETING LIPA MULTIBRAND_2018  : Data Progress ( 50 % ) 
+-------------------------------
+
+Log Entry : 1:42:55 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-07-A
+-------------------------------
+
+Log Entry : 1:42:58 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-07-A
+-------------------------------
+
+Log Entry : 1:42:58 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,025.20
+-------------------------------
+
+Log Entry : 1:43:04 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-07-A
+-------------------------------
+
+Log Entry : 1:43:04 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-07-A
+-------------------------------
+
+Log Entry : 1:43:04 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (13 / 24) : DESMLIPM - DES-MARKETING LIPA MULTIBRAND_2018  : Data Progress ( 54.17 % ) 
+-------------------------------
+
+Log Entry : 1:43:06 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-07-B
+-------------------------------
+
+Log Entry : 1:43:09 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-07-B
+-------------------------------
+
+Log Entry : 1:43:09 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,019.50
+-------------------------------
+
+Log Entry : 1:43:14 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-07-B
+-------------------------------
+
+Log Entry : 1:43:15 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-07-B
+-------------------------------
+
+Log Entry : 1:43:15 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (14 / 24) : DESMLIPM - DES-MARKETING LIPA MULTIBRAND_2018  : Data Progress ( 58.33 % ) 
+-------------------------------
+
+Log Entry : 1:43:17 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-08-A
+-------------------------------
+
+Log Entry : 1:43:20 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-08-A
+-------------------------------
+
+Log Entry : 1:43:20 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,901.00
+-------------------------------
+
+Log Entry : 1:43:25 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-08-A
+-------------------------------
+
+Log Entry : 1:43:26 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-08-A
+-------------------------------
+
+Log Entry : 1:43:26 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (15 / 24) : DESMLIPM - DES-MARKETING LIPA MULTIBRAND_2018  : Data Progress ( 62.5 % ) 
+-------------------------------
+
+Log Entry : 1:43:28 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-08-B
+-------------------------------
+
+Log Entry : 1:43:31 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-08-B
+-------------------------------
+
+Log Entry : 1:43:31 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,189.50
+-------------------------------
+
+Log Entry : 1:43:36 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-08-B
+-------------------------------
+
+Log Entry : 1:43:36 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-08-B
+-------------------------------
+
+Log Entry : 1:43:36 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (16 / 24) : DESMLIPM - DES-MARKETING LIPA MULTIBRAND_2018  : Data Progress ( 66.67 % ) 
+-------------------------------
+
+Log Entry : 1:43:38 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-09-A
+-------------------------------
+
+Log Entry : 1:43:41 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-09-A
+-------------------------------
+
+Log Entry : 1:43:42 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,381.10
+-------------------------------
+
+Log Entry : 1:43:47 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-09-A
+-------------------------------
+
+Log Entry : 1:43:47 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-09-A
+-------------------------------
+
+Log Entry : 1:43:47 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (17 / 24) : DESMLIPM - DES-MARKETING LIPA MULTIBRAND_2018  : Data Progress ( 70.83 % ) 
+-------------------------------
+
+Log Entry : 1:43:49 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-09-B
+-------------------------------
+
+Log Entry : 1:43:52 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-09-B
+-------------------------------
+
+Log Entry : 1:43:53 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,189.50
+-------------------------------
+
+Log Entry : 1:43:58 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-09-B
+-------------------------------
+
+Log Entry : 1:43:58 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-09-B
+-------------------------------
+
+Log Entry : 1:43:58 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (18 / 24) : DESMLIPM - DES-MARKETING LIPA MULTIBRAND_2018  : Data Progress ( 75 % ) 
+-------------------------------
+
+Log Entry : 1:44:00 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-10-A
+-------------------------------
+
+Log Entry : 1:44:03 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-10-A
+-------------------------------
+
+Log Entry : 1:44:04 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,365.10
+-------------------------------
+
+Log Entry : 1:44:09 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-10-A
+-------------------------------
+
+Log Entry : 1:44:09 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-10-A
+-------------------------------
+
+Log Entry : 1:44:09 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (19 / 24) : DESMLIPM - DES-MARKETING LIPA MULTIBRAND_2018  : Data Progress ( 79.17 % ) 
+-------------------------------
+
+Log Entry : 1:44:11 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-10-B
+-------------------------------
+
+Log Entry : 1:44:14 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-10-B
+-------------------------------
+
+Log Entry : 1:44:15 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 4,346.29
+-------------------------------
+
+Log Entry : 1:44:20 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-10-B
+-------------------------------
+
+Log Entry : 1:44:20 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-10-B
+-------------------------------
+
+Log Entry : 1:44:20 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (20 / 24) : DESMLIPM - DES-MARKETING LIPA MULTIBRAND_2018  : Data Progress ( 83.33 % ) 
+-------------------------------
+
+Log Entry : 1:44:22 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-11-A
+-------------------------------
+
+Log Entry : 1:44:25 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-11-A
+-------------------------------
+
+Log Entry : 1:44:25 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,690.10
+-------------------------------
+
+Log Entry : 1:44:31 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-11-A
+-------------------------------
+
+Log Entry : 1:44:31 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-11-A
+-------------------------------
+
+Log Entry : 1:44:31 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (21 / 24) : DESMLIPM - DES-MARKETING LIPA MULTIBRAND_2018  : Data Progress ( 87.5 % ) 
+-------------------------------
+
+Log Entry : 1:44:33 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-11-B
+-------------------------------
+
+Log Entry : 1:44:36 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-11-B
+-------------------------------
+
+Log Entry : 1:44:36 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,005.79
+-------------------------------
+
+Log Entry : 1:44:42 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-11-B
+-------------------------------
+
+Log Entry : 1:44:42 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-11-B
+-------------------------------
+
+Log Entry : 1:44:42 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (22 / 24) : DESMLIPM - DES-MARKETING LIPA MULTIBRAND_2018  : Data Progress ( 91.67 % ) 
+-------------------------------
+
+Log Entry : 1:44:44 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-12-A
+-------------------------------
+
+Log Entry : 1:44:47 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-12-A
+-------------------------------
+
+Log Entry : 1:44:47 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,989.60
+-------------------------------
+
+Log Entry : 1:44:53 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-12-A
+-------------------------------
+
+Log Entry : 1:44:53 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-12-A
+-------------------------------
+
+Log Entry : 1:44:53 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (23 / 24) : DESMLIPM - DES-MARKETING LIPA MULTIBRAND_2018  : Data Progress ( 95.83 % ) 
+-------------------------------
+
+Log Entry : 1:44:55 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-12-B
+-------------------------------
+
+Log Entry : 1:44:58 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-12-B
+-------------------------------
+
+Log Entry : 1:44:58 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,380.79
+-------------------------------
+
+Log Entry : 1:45:04 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-12-B
+-------------------------------
+
+Log Entry : 1:45:04 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMLIPM - DES-MARKETING LIPA MULTIBRAND 2018 2018-12-B
+-------------------------------
+
+Log Entry : 1:45:04 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (24 / 24) : DESMLIPM - DES-MARKETING LIPA MULTIBRAND_2018  : Data Progress ( 100 % ) 
+-------------------------------
+
+Log Entry : 1:45:04 PM Monday, 13 May 2019
+  :
+  :Data Execution Complete Complete
+-------------------------------

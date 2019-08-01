@@ -1,0 +1,10 @@
+
+Log Entry : 7:04:54 AM Wednesday, 22 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 7:04:56 AM Wednesday, 22 May 2019
+  :
+  :DESIUBAY - DES-UBAY Data Preparing ..
+-------------------------------

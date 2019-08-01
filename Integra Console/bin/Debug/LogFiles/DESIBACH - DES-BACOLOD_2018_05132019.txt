@@ -1,0 +1,20 @@
+
+Log Entry : 1:47:11 PM Monday, 13 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 1:47:13 PM Monday, 13 May 2019
+  :
+  :DESIBACH - DES-BACOLOD Data Preparing ..
+-------------------------------
+
+Log Entry : 1:47:21 PM Monday, 13 May 2019
+  :
+  :Data Start Reading
+-------------------------------
+
+Log Entry : 1:47:23 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBACH - DES-BACOLOD 2018 2018-01-A
+-------------------------------

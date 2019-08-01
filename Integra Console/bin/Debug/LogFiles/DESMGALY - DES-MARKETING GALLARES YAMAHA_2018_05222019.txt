@@ -1,0 +1,10 @@
+
+Log Entry : 7:05:24 AM Wednesday, 22 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 7:05:26 AM Wednesday, 22 May 2019
+  :
+  :DESMGALY - DES-MARKETING GALLARES YAMAHA Data Preparing ..
+-------------------------------

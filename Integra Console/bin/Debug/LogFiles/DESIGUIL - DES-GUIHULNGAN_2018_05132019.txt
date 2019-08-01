@@ -1,0 +1,735 @@
+
+Log Entry : 2:34:29 PM Monday, 13 May 2019
+  :
+  :Data Start Reading
+-------------------------------
+
+Log Entry : 2:34:31 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIGUIL - DES-GUIHULNGAN 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:34:34 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIGUIL - DES-GUIHULNGAN 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:34:34 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 17,387.43
+-------------------------------
+
+Log Entry : 2:34:39 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:34:40 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:34:40 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (1 / 24) : DESIGUIL - DES-GUIHULNGAN_2018  : Data Progress ( 4.17 % ) 
+-------------------------------
+
+Log Entry : 2:34:42 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIGUIL - DES-GUIHULNGAN 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:34:45 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIGUIL - DES-GUIHULNGAN 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:34:45 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 12,892.97
+-------------------------------
+
+Log Entry : 2:34:50 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:34:51 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:34:51 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (2 / 24) : DESIGUIL - DES-GUIHULNGAN_2018  : Data Progress ( 8.33 % ) 
+-------------------------------
+
+Log Entry : 2:34:53 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIGUIL - DES-GUIHULNGAN 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:34:56 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIGUIL - DES-GUIHULNGAN 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:34:56 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 18,266.43
+-------------------------------
+
+Log Entry : 2:35:01 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:35:01 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:35:01 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (3 / 24) : DESIGUIL - DES-GUIHULNGAN_2018  : Data Progress ( 12.5 % ) 
+-------------------------------
+
+Log Entry : 2:35:04 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIGUIL - DES-GUIHULNGAN 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:35:07 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIGUIL - DES-GUIHULNGAN 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:35:07 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 10,331.46
+-------------------------------
+
+Log Entry : 2:35:12 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:35:12 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:35:12 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (4 / 24) : DESIGUIL - DES-GUIHULNGAN_2018  : Data Progress ( 16.67 % ) 
+-------------------------------
+
+Log Entry : 2:35:14 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIGUIL - DES-GUIHULNGAN 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:35:17 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIGUIL - DES-GUIHULNGAN 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:35:18 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 14,769.94
+-------------------------------
+
+Log Entry : 2:35:23 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:35:23 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:35:23 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (5 / 24) : DESIGUIL - DES-GUIHULNGAN_2018  : Data Progress ( 20.83 % ) 
+-------------------------------
+
+Log Entry : 2:35:25 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIGUIL - DES-GUIHULNGAN 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:35:28 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIGUIL - DES-GUIHULNGAN 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:35:29 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,551.46
+-------------------------------
+
+Log Entry : 2:35:34 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:35:34 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:35:34 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (6 / 24) : DESIGUIL - DES-GUIHULNGAN_2018  : Data Progress ( 25 % ) 
+-------------------------------
+
+Log Entry : 2:35:36 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIGUIL - DES-GUIHULNGAN 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:35:39 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIGUIL - DES-GUIHULNGAN 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:35:40 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 14,323.44
+-------------------------------
+
+Log Entry : 2:35:45 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:35:45 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:35:45 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (7 / 24) : DESIGUIL - DES-GUIHULNGAN_2018  : Data Progress ( 29.17 % ) 
+-------------------------------
+
+Log Entry : 2:35:47 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIGUIL - DES-GUIHULNGAN 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:35:50 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIGUIL - DES-GUIHULNGAN 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:35:50 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,629.97
+-------------------------------
+
+Log Entry : 2:35:56 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:35:56 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:35:56 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (8 / 24) : DESIGUIL - DES-GUIHULNGAN_2018  : Data Progress ( 33.33 % ) 
+-------------------------------
+
+Log Entry : 2:35:58 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIGUIL - DES-GUIHULNGAN 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:36:01 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIGUIL - DES-GUIHULNGAN 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:36:01 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 15,108.23
+-------------------------------
+
+Log Entry : 2:36:06 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:36:07 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:36:07 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (9 / 24) : DESIGUIL - DES-GUIHULNGAN_2018  : Data Progress ( 37.5 % ) 
+-------------------------------
+
+Log Entry : 2:36:09 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIGUIL - DES-GUIHULNGAN 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:36:12 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIGUIL - DES-GUIHULNGAN 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:36:12 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,739.47
+-------------------------------
+
+Log Entry : 2:36:17 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:36:18 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:36:18 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (10 / 24) : DESIGUIL - DES-GUIHULNGAN_2018  : Data Progress ( 41.67 % ) 
+-------------------------------
+
+Log Entry : 2:36:20 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIGUIL - DES-GUIHULNGAN 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:36:23 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIGUIL - DES-GUIHULNGAN 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:36:23 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 14,785.23
+-------------------------------
+
+Log Entry : 2:36:28 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:36:28 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:36:28 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (11 / 24) : DESIGUIL - DES-GUIHULNGAN_2018  : Data Progress ( 45.83 % ) 
+-------------------------------
+
+Log Entry : 2:36:30 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIGUIL - DES-GUIHULNGAN 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:36:33 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIGUIL - DES-GUIHULNGAN 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:36:34 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,317.56
+-------------------------------
+
+Log Entry : 2:36:39 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:36:39 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:36:39 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (12 / 24) : DESIGUIL - DES-GUIHULNGAN_2018  : Data Progress ( 50 % ) 
+-------------------------------
+
+Log Entry : 2:36:41 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIGUIL - DES-GUIHULNGAN 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:36:44 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIGUIL - DES-GUIHULNGAN 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:36:45 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 13,994.23
+-------------------------------
+
+Log Entry : 2:36:50 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:36:50 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:36:50 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (13 / 24) : DESIGUIL - DES-GUIHULNGAN_2018  : Data Progress ( 54.17 % ) 
+-------------------------------
+
+Log Entry : 2:36:52 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIGUIL - DES-GUIHULNGAN 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:36:55 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIGUIL - DES-GUIHULNGAN 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:36:56 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,356.23
+-------------------------------
+
+Log Entry : 2:37:01 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:37:01 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:37:01 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (14 / 24) : DESIGUIL - DES-GUIHULNGAN_2018  : Data Progress ( 58.33 % ) 
+-------------------------------
+
+Log Entry : 2:37:03 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIGUIL - DES-GUIHULNGAN 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:37:06 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIGUIL - DES-GUIHULNGAN 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:37:06 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 16,195.17
+-------------------------------
+
+Log Entry : 2:37:12 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:37:12 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:37:12 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (15 / 24) : DESIGUIL - DES-GUIHULNGAN_2018  : Data Progress ( 62.5 % ) 
+-------------------------------
+
+Log Entry : 2:37:14 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIGUIL - DES-GUIHULNGAN 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:37:17 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIGUIL - DES-GUIHULNGAN 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:37:17 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,019.59
+-------------------------------
+
+Log Entry : 2:37:22 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:37:23 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:37:23 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (16 / 24) : DESIGUIL - DES-GUIHULNGAN_2018  : Data Progress ( 66.67 % ) 
+-------------------------------
+
+Log Entry : 2:37:25 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIGUIL - DES-GUIHULNGAN 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:37:28 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIGUIL - DES-GUIHULNGAN 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:37:28 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 14,347.12
+-------------------------------
+
+Log Entry : 2:37:33 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:37:34 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:37:34 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (17 / 24) : DESIGUIL - DES-GUIHULNGAN_2018  : Data Progress ( 70.83 % ) 
+-------------------------------
+
+Log Entry : 2:37:36 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIGUIL - DES-GUIHULNGAN 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:37:39 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIGUIL - DES-GUIHULNGAN 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:37:39 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,503.09
+-------------------------------
+
+Log Entry : 2:37:44 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:37:44 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:37:44 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (18 / 24) : DESIGUIL - DES-GUIHULNGAN_2018  : Data Progress ( 75 % ) 
+-------------------------------
+
+Log Entry : 2:37:46 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIGUIL - DES-GUIHULNGAN 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:37:49 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIGUIL - DES-GUIHULNGAN 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:37:50 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 13,525.52
+-------------------------------
+
+Log Entry : 2:37:55 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:37:55 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:37:55 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (19 / 24) : DESIGUIL - DES-GUIHULNGAN_2018  : Data Progress ( 79.17 % ) 
+-------------------------------
+
+Log Entry : 2:37:57 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIGUIL - DES-GUIHULNGAN 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:38:00 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIGUIL - DES-GUIHULNGAN 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:38:01 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,324.25
+-------------------------------
+
+Log Entry : 2:38:06 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:38:06 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:38:06 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (20 / 24) : DESIGUIL - DES-GUIHULNGAN_2018  : Data Progress ( 83.33 % ) 
+-------------------------------
+
+Log Entry : 2:38:08 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIGUIL - DES-GUIHULNGAN 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:38:11 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIGUIL - DES-GUIHULNGAN 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:38:12 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 13,409.76
+-------------------------------
+
+Log Entry : 2:38:17 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:38:17 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:38:17 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (21 / 24) : DESIGUIL - DES-GUIHULNGAN_2018  : Data Progress ( 87.5 % ) 
+-------------------------------
+
+Log Entry : 2:38:19 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIGUIL - DES-GUIHULNGAN 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:38:22 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIGUIL - DES-GUIHULNGAN 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:38:22 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,708.23
+-------------------------------
+
+Log Entry : 2:38:27 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:38:28 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:38:28 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (22 / 24) : DESIGUIL - DES-GUIHULNGAN_2018  : Data Progress ( 91.67 % ) 
+-------------------------------
+
+Log Entry : 2:38:30 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIGUIL - DES-GUIHULNGAN 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:38:33 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIGUIL - DES-GUIHULNGAN 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:38:33 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 15,408.60
+-------------------------------
+
+Log Entry : 2:38:38 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:38:39 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:38:39 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (23 / 24) : DESIGUIL - DES-GUIHULNGAN_2018  : Data Progress ( 95.83 % ) 
+-------------------------------
+
+Log Entry : 2:38:41 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIGUIL - DES-GUIHULNGAN 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:38:44 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIGUIL - DES-GUIHULNGAN 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:38:44 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 14,998.07
+-------------------------------
+
+Log Entry : 2:38:49 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:38:49 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIGUIL - DES-GUIHULNGAN 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:38:49 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (24 / 24) : DESIGUIL - DES-GUIHULNGAN_2018  : Data Progress ( 100 % ) 
+-------------------------------
+
+Log Entry : 2:38:49 PM Monday, 13 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 2:38:51 PM Monday, 13 May 2019
+  :
+  :DESIGUIL - DES-GUIHULNGAN Data Preparing ..
+-------------------------------

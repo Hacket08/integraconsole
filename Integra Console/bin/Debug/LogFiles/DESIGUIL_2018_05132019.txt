@@ -1,0 +1,120 @@
+
+Log Entry : 2:34:40 PM Monday, 13 May 2019
+  :
+  :DESIGUIL Payroll Successfully Posted : 2018-01-A
+-------------------------------
+
+Log Entry : 2:34:51 PM Monday, 13 May 2019
+  :
+  :DESIGUIL Payroll Successfully Posted : 2018-01-B
+-------------------------------
+
+Log Entry : 2:35:01 PM Monday, 13 May 2019
+  :
+  :DESIGUIL Payroll Successfully Posted : 2018-02-A
+-------------------------------
+
+Log Entry : 2:35:12 PM Monday, 13 May 2019
+  :
+  :DESIGUIL Payroll Successfully Posted : 2018-02-B
+-------------------------------
+
+Log Entry : 2:35:23 PM Monday, 13 May 2019
+  :
+  :DESIGUIL Payroll Successfully Posted : 2018-03-A
+-------------------------------
+
+Log Entry : 2:35:34 PM Monday, 13 May 2019
+  :
+  :DESIGUIL Payroll Successfully Posted : 2018-03-B
+-------------------------------
+
+Log Entry : 2:35:45 PM Monday, 13 May 2019
+  :
+  :DESIGUIL Payroll Successfully Posted : 2018-04-A
+-------------------------------
+
+Log Entry : 2:35:56 PM Monday, 13 May 2019
+  :
+  :DESIGUIL Payroll Successfully Posted : 2018-04-B
+-------------------------------
+
+Log Entry : 2:36:07 PM Monday, 13 May 2019
+  :
+  :DESIGUIL Payroll Successfully Posted : 2018-05-A
+-------------------------------
+
+Log Entry : 2:36:18 PM Monday, 13 May 2019
+  :
+  :DESIGUIL Payroll Successfully Posted : 2018-05-B
+-------------------------------
+
+Log Entry : 2:36:28 PM Monday, 13 May 2019
+  :
+  :DESIGUIL Payroll Successfully Posted : 2018-06-A
+-------------------------------
+
+Log Entry : 2:36:39 PM Monday, 13 May 2019
+  :
+  :DESIGUIL Payroll Successfully Posted : 2018-06-B
+-------------------------------
+
+Log Entry : 2:36:50 PM Monday, 13 May 2019
+  :
+  :DESIGUIL Payroll Successfully Posted : 2018-07-A
+-------------------------------
+
+Log Entry : 2:37:01 PM Monday, 13 May 2019
+  :
+  :DESIGUIL Payroll Successfully Posted : 2018-07-B
+-------------------------------
+
+Log Entry : 2:37:12 PM Monday, 13 May 2019
+  :
+  :DESIGUIL Payroll Successfully Posted : 2018-08-A
+-------------------------------
+
+Log Entry : 2:37:23 PM Monday, 13 May 2019
+  :
+  :DESIGUIL Payroll Successfully Posted : 2018-08-B
+-------------------------------
+
+Log Entry : 2:37:34 PM Monday, 13 May 2019
+  :
+  :DESIGUIL Payroll Successfully Posted : 2018-09-A
+-------------------------------
+
+Log Entry : 2:37:44 PM Monday, 13 May 2019
+  :
+  :DESIGUIL Payroll Successfully Posted : 2018-09-B
+-------------------------------
+
+Log Entry : 2:37:55 PM Monday, 13 May 2019
+  :
+  :DESIGUIL Payroll Successfully Posted : 2018-10-A
+-------------------------------
+
+Log Entry : 2:38:06 PM Monday, 13 May 2019
+  :
+  :DESIGUIL Payroll Successfully Posted : 2018-10-B
+-------------------------------
+
+Log Entry : 2:38:17 PM Monday, 13 May 2019
+  :
+  :DESIGUIL Payroll Successfully Posted : 2018-11-A
+-------------------------------
+
+Log Entry : 2:38:28 PM Monday, 13 May 2019
+  :
+  :DESIGUIL Payroll Successfully Posted : 2018-11-B
+-------------------------------
+
+Log Entry : 2:38:39 PM Monday, 13 May 2019
+  :
+  :DESIGUIL Payroll Successfully Posted : 2018-12-A
+-------------------------------
+
+Log Entry : 2:38:49 PM Monday, 13 May 2019
+  :
+  :DESIGUIL Payroll Successfully Posted : 2018-12-B
+-------------------------------

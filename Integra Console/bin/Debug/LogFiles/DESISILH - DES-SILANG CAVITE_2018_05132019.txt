@@ -1,0 +1,735 @@
+
+Log Entry : 1:17:55 PM Monday, 13 May 2019
+  :
+  :Data Start Reading
+-------------------------------
+
+Log Entry : 1:17:57 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISILH - DES-SILANG CAVITE 2018 2018-01-A
+-------------------------------
+
+Log Entry : 1:18:00 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISILH - DES-SILANG CAVITE 2018 2018-01-A
+-------------------------------
+
+Log Entry : 1:18:00 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 10,757.90
+-------------------------------
+
+Log Entry : 1:18:05 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-01-A
+-------------------------------
+
+Log Entry : 1:18:06 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-01-A
+-------------------------------
+
+Log Entry : 1:18:06 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (1 / 24) : DESISILH - DES-SILANG CAVITE_2018  : Data Progress ( 4.17 % ) 
+-------------------------------
+
+Log Entry : 1:18:08 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISILH - DES-SILANG CAVITE 2018 2018-01-B
+-------------------------------
+
+Log Entry : 1:18:11 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISILH - DES-SILANG CAVITE 2018 2018-01-B
+-------------------------------
+
+Log Entry : 1:18:11 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,127.94
+-------------------------------
+
+Log Entry : 1:18:16 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-01-B
+-------------------------------
+
+Log Entry : 1:18:17 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-01-B
+-------------------------------
+
+Log Entry : 1:18:17 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (2 / 24) : DESISILH - DES-SILANG CAVITE_2018  : Data Progress ( 8.33 % ) 
+-------------------------------
+
+Log Entry : 1:18:19 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISILH - DES-SILANG CAVITE 2018 2018-02-A
+-------------------------------
+
+Log Entry : 1:18:22 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISILH - DES-SILANG CAVITE 2018 2018-02-A
+-------------------------------
+
+Log Entry : 1:18:22 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 11,856.75
+-------------------------------
+
+Log Entry : 1:18:27 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-02-A
+-------------------------------
+
+Log Entry : 1:18:28 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-02-A
+-------------------------------
+
+Log Entry : 1:18:28 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (3 / 24) : DESISILH - DES-SILANG CAVITE_2018  : Data Progress ( 12.5 % ) 
+-------------------------------
+
+Log Entry : 1:18:30 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISILH - DES-SILANG CAVITE 2018 2018-02-B
+-------------------------------
+
+Log Entry : 1:18:33 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISILH - DES-SILANG CAVITE 2018 2018-02-B
+-------------------------------
+
+Log Entry : 1:18:33 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,532.89
+-------------------------------
+
+Log Entry : 1:18:38 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-02-B
+-------------------------------
+
+Log Entry : 1:18:39 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-02-B
+-------------------------------
+
+Log Entry : 1:18:39 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (4 / 24) : DESISILH - DES-SILANG CAVITE_2018  : Data Progress ( 16.67 % ) 
+-------------------------------
+
+Log Entry : 1:18:41 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISILH - DES-SILANG CAVITE 2018 2018-03-A
+-------------------------------
+
+Log Entry : 1:18:44 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISILH - DES-SILANG CAVITE 2018 2018-03-A
+-------------------------------
+
+Log Entry : 1:18:44 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 12,207.79
+-------------------------------
+
+Log Entry : 1:18:49 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-03-A
+-------------------------------
+
+Log Entry : 1:18:50 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-03-A
+-------------------------------
+
+Log Entry : 1:18:50 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (5 / 24) : DESISILH - DES-SILANG CAVITE_2018  : Data Progress ( 20.83 % ) 
+-------------------------------
+
+Log Entry : 1:18:52 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISILH - DES-SILANG CAVITE 2018 2018-03-B
+-------------------------------
+
+Log Entry : 1:18:55 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISILH - DES-SILANG CAVITE 2018 2018-03-B
+-------------------------------
+
+Log Entry : 1:18:55 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,246.28
+-------------------------------
+
+Log Entry : 1:19:00 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-03-B
+-------------------------------
+
+Log Entry : 1:19:00 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-03-B
+-------------------------------
+
+Log Entry : 1:19:01 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (6 / 24) : DESISILH - DES-SILANG CAVITE_2018  : Data Progress ( 25 % ) 
+-------------------------------
+
+Log Entry : 1:19:03 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISILH - DES-SILANG CAVITE 2018 2018-04-A
+-------------------------------
+
+Log Entry : 1:19:06 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISILH - DES-SILANG CAVITE 2018 2018-04-A
+-------------------------------
+
+Log Entry : 1:19:06 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 11,389.78
+-------------------------------
+
+Log Entry : 1:19:11 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-04-A
+-------------------------------
+
+Log Entry : 1:19:11 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-04-A
+-------------------------------
+
+Log Entry : 1:19:11 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (7 / 24) : DESISILH - DES-SILANG CAVITE_2018  : Data Progress ( 29.17 % ) 
+-------------------------------
+
+Log Entry : 1:19:13 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISILH - DES-SILANG CAVITE 2018 2018-04-B
+-------------------------------
+
+Log Entry : 1:19:16 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISILH - DES-SILANG CAVITE 2018 2018-04-B
+-------------------------------
+
+Log Entry : 1:19:17 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,770.08
+-------------------------------
+
+Log Entry : 1:19:22 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-04-B
+-------------------------------
+
+Log Entry : 1:19:22 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-04-B
+-------------------------------
+
+Log Entry : 1:19:22 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (8 / 24) : DESISILH - DES-SILANG CAVITE_2018  : Data Progress ( 33.33 % ) 
+-------------------------------
+
+Log Entry : 1:19:24 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISILH - DES-SILANG CAVITE 2018 2018-05-A
+-------------------------------
+
+Log Entry : 1:19:27 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISILH - DES-SILANG CAVITE 2018 2018-05-A
+-------------------------------
+
+Log Entry : 1:19:28 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 10,273.88
+-------------------------------
+
+Log Entry : 1:19:33 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-05-A
+-------------------------------
+
+Log Entry : 1:19:33 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-05-A
+-------------------------------
+
+Log Entry : 1:19:33 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (9 / 24) : DESISILH - DES-SILANG CAVITE_2018  : Data Progress ( 37.5 % ) 
+-------------------------------
+
+Log Entry : 1:19:35 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISILH - DES-SILANG CAVITE 2018 2018-05-B
+-------------------------------
+
+Log Entry : 1:19:38 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISILH - DES-SILANG CAVITE 2018 2018-05-B
+-------------------------------
+
+Log Entry : 1:19:39 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,559.27
+-------------------------------
+
+Log Entry : 1:19:44 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-05-B
+-------------------------------
+
+Log Entry : 1:19:44 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-05-B
+-------------------------------
+
+Log Entry : 1:19:44 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (10 / 24) : DESISILH - DES-SILANG CAVITE_2018  : Data Progress ( 41.67 % ) 
+-------------------------------
+
+Log Entry : 1:19:46 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISILH - DES-SILANG CAVITE 2018 2018-06-A
+-------------------------------
+
+Log Entry : 1:19:49 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISILH - DES-SILANG CAVITE 2018 2018-06-A
+-------------------------------
+
+Log Entry : 1:19:50 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 10,407.78
+-------------------------------
+
+Log Entry : 1:19:55 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-06-A
+-------------------------------
+
+Log Entry : 1:19:55 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-06-A
+-------------------------------
+
+Log Entry : 1:19:55 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (11 / 24) : DESISILH - DES-SILANG CAVITE_2018  : Data Progress ( 45.83 % ) 
+-------------------------------
+
+Log Entry : 1:19:57 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISILH - DES-SILANG CAVITE 2018 2018-06-B
+-------------------------------
+
+Log Entry : 1:20:00 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISILH - DES-SILANG CAVITE 2018 2018-06-B
+-------------------------------
+
+Log Entry : 1:20:00 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,579.76
+-------------------------------
+
+Log Entry : 1:20:06 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-06-B
+-------------------------------
+
+Log Entry : 1:20:06 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-06-B
+-------------------------------
+
+Log Entry : 1:20:06 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (12 / 24) : DESISILH - DES-SILANG CAVITE_2018  : Data Progress ( 50 % ) 
+-------------------------------
+
+Log Entry : 1:20:08 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISILH - DES-SILANG CAVITE 2018 2018-07-A
+-------------------------------
+
+Log Entry : 1:20:11 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISILH - DES-SILANG CAVITE 2018 2018-07-A
+-------------------------------
+
+Log Entry : 1:20:12 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,469.65
+-------------------------------
+
+Log Entry : 1:20:17 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-07-A
+-------------------------------
+
+Log Entry : 1:20:17 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-07-A
+-------------------------------
+
+Log Entry : 1:20:17 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (13 / 24) : DESISILH - DES-SILANG CAVITE_2018  : Data Progress ( 54.17 % ) 
+-------------------------------
+
+Log Entry : 1:20:19 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISILH - DES-SILANG CAVITE 2018 2018-07-B
+-------------------------------
+
+Log Entry : 1:20:22 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISILH - DES-SILANG CAVITE 2018 2018-07-B
+-------------------------------
+
+Log Entry : 1:20:23 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 4,902.86
+-------------------------------
+
+Log Entry : 1:20:28 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-07-B
+-------------------------------
+
+Log Entry : 1:20:28 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-07-B
+-------------------------------
+
+Log Entry : 1:20:28 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (14 / 24) : DESISILH - DES-SILANG CAVITE_2018  : Data Progress ( 58.33 % ) 
+-------------------------------
+
+Log Entry : 1:20:30 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISILH - DES-SILANG CAVITE 2018 2018-08-A
+-------------------------------
+
+Log Entry : 1:20:33 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISILH - DES-SILANG CAVITE 2018 2018-08-A
+-------------------------------
+
+Log Entry : 1:20:34 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 10,101.79
+-------------------------------
+
+Log Entry : 1:20:39 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-08-A
+-------------------------------
+
+Log Entry : 1:20:39 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-08-A
+-------------------------------
+
+Log Entry : 1:20:39 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (15 / 24) : DESISILH - DES-SILANG CAVITE_2018  : Data Progress ( 62.5 % ) 
+-------------------------------
+
+Log Entry : 1:20:41 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISILH - DES-SILANG CAVITE 2018 2018-08-B
+-------------------------------
+
+Log Entry : 1:20:44 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISILH - DES-SILANG CAVITE 2018 2018-08-B
+-------------------------------
+
+Log Entry : 1:20:45 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,147.61
+-------------------------------
+
+Log Entry : 1:20:50 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-08-B
+-------------------------------
+
+Log Entry : 1:20:51 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-08-B
+-------------------------------
+
+Log Entry : 1:20:51 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (16 / 24) : DESISILH - DES-SILANG CAVITE_2018  : Data Progress ( 66.67 % ) 
+-------------------------------
+
+Log Entry : 1:20:53 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISILH - DES-SILANG CAVITE 2018 2018-09-A
+-------------------------------
+
+Log Entry : 1:20:56 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISILH - DES-SILANG CAVITE 2018 2018-09-A
+-------------------------------
+
+Log Entry : 1:20:56 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 10,809.38
+-------------------------------
+
+Log Entry : 1:21:01 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-09-A
+-------------------------------
+
+Log Entry : 1:21:02 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-09-A
+-------------------------------
+
+Log Entry : 1:21:02 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (17 / 24) : DESISILH - DES-SILANG CAVITE_2018  : Data Progress ( 70.83 % ) 
+-------------------------------
+
+Log Entry : 1:21:04 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISILH - DES-SILANG CAVITE 2018 2018-09-B
+-------------------------------
+
+Log Entry : 1:21:07 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISILH - DES-SILANG CAVITE 2018 2018-09-B
+-------------------------------
+
+Log Entry : 1:21:08 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,994.61
+-------------------------------
+
+Log Entry : 1:21:13 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-09-B
+-------------------------------
+
+Log Entry : 1:21:13 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-09-B
+-------------------------------
+
+Log Entry : 1:21:13 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (18 / 24) : DESISILH - DES-SILANG CAVITE_2018  : Data Progress ( 75 % ) 
+-------------------------------
+
+Log Entry : 1:21:15 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISILH - DES-SILANG CAVITE 2018 2018-10-A
+-------------------------------
+
+Log Entry : 1:21:18 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISILH - DES-SILANG CAVITE 2018 2018-10-A
+-------------------------------
+
+Log Entry : 1:21:19 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 10,608.40
+-------------------------------
+
+Log Entry : 1:21:24 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-10-A
+-------------------------------
+
+Log Entry : 1:21:24 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-10-A
+-------------------------------
+
+Log Entry : 1:21:24 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (19 / 24) : DESISILH - DES-SILANG CAVITE_2018  : Data Progress ( 79.17 % ) 
+-------------------------------
+
+Log Entry : 1:21:26 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISILH - DES-SILANG CAVITE 2018 2018-10-B
+-------------------------------
+
+Log Entry : 1:21:29 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISILH - DES-SILANG CAVITE 2018 2018-10-B
+-------------------------------
+
+Log Entry : 1:21:30 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,163.40
+-------------------------------
+
+Log Entry : 1:21:35 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-10-B
+-------------------------------
+
+Log Entry : 1:21:35 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-10-B
+-------------------------------
+
+Log Entry : 1:21:35 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (20 / 24) : DESISILH - DES-SILANG CAVITE_2018  : Data Progress ( 83.33 % ) 
+-------------------------------
+
+Log Entry : 1:21:37 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISILH - DES-SILANG CAVITE 2018 2018-11-A
+-------------------------------
+
+Log Entry : 1:21:40 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISILH - DES-SILANG CAVITE 2018 2018-11-A
+-------------------------------
+
+Log Entry : 1:21:41 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 12,826.75
+-------------------------------
+
+Log Entry : 1:21:46 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-11-A
+-------------------------------
+
+Log Entry : 1:21:46 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-11-A
+-------------------------------
+
+Log Entry : 1:21:46 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (21 / 24) : DESISILH - DES-SILANG CAVITE_2018  : Data Progress ( 87.5 % ) 
+-------------------------------
+
+Log Entry : 1:21:48 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISILH - DES-SILANG CAVITE 2018 2018-11-B
+-------------------------------
+
+Log Entry : 1:21:51 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISILH - DES-SILANG CAVITE 2018 2018-11-B
+-------------------------------
+
+Log Entry : 1:21:52 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,554.89
+-------------------------------
+
+Log Entry : 1:21:57 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-11-B
+-------------------------------
+
+Log Entry : 1:21:57 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-11-B
+-------------------------------
+
+Log Entry : 1:21:57 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (22 / 24) : DESISILH - DES-SILANG CAVITE_2018  : Data Progress ( 91.67 % ) 
+-------------------------------
+
+Log Entry : 1:21:59 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISILH - DES-SILANG CAVITE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 1:22:02 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISILH - DES-SILANG CAVITE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 1:22:03 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 11,591.00
+-------------------------------
+
+Log Entry : 1:22:08 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 1:22:08 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 1:22:08 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (23 / 24) : DESISILH - DES-SILANG CAVITE_2018  : Data Progress ( 95.83 % ) 
+-------------------------------
+
+Log Entry : 1:22:10 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISILH - DES-SILANG CAVITE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 1:22:13 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISILH - DES-SILANG CAVITE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 1:22:14 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,689.83
+-------------------------------
+
+Log Entry : 1:22:19 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 1:22:19 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISILH - DES-SILANG CAVITE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 1:22:19 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (24 / 24) : DESISILH - DES-SILANG CAVITE_2018  : Data Progress ( 100 % ) 
+-------------------------------
+
+Log Entry : 1:22:19 PM Monday, 13 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 1:22:21 PM Monday, 13 May 2019
+  :
+  :DESISILH - DES-SILANG CAVITE Data Preparing ..
+-------------------------------

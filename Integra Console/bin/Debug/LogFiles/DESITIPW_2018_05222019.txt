@@ -1,0 +1,115 @@
+
+Log Entry : 7:21:09 AM Wednesday, 22 May 2019
+  :
+  :DESITIPW Payroll Successfully Posted : 2018-01-B
+-------------------------------
+
+Log Entry : 7:21:23 AM Wednesday, 22 May 2019
+  :
+  :DESITIPW Payroll Successfully Posted : 2018-02-A
+-------------------------------
+
+Log Entry : 7:21:36 AM Wednesday, 22 May 2019
+  :
+  :DESITIPW Payroll Successfully Posted : 2018-02-B
+-------------------------------
+
+Log Entry : 7:21:49 AM Wednesday, 22 May 2019
+  :
+  :DESITIPW Payroll Successfully Posted : 2018-03-A
+-------------------------------
+
+Log Entry : 7:22:03 AM Wednesday, 22 May 2019
+  :
+  :DESITIPW Payroll Successfully Posted : 2018-03-B
+-------------------------------
+
+Log Entry : 7:22:16 AM Wednesday, 22 May 2019
+  :
+  :DESITIPW Payroll Successfully Posted : 2018-04-A
+-------------------------------
+
+Log Entry : 7:22:30 AM Wednesday, 22 May 2019
+  :
+  :DESITIPW Payroll Successfully Posted : 2018-04-B
+-------------------------------
+
+Log Entry : 7:22:43 AM Wednesday, 22 May 2019
+  :
+  :DESITIPW Payroll Successfully Posted : 2018-05-A
+-------------------------------
+
+Log Entry : 7:22:57 AM Wednesday, 22 May 2019
+  :
+  :DESITIPW Payroll Successfully Posted : 2018-05-B
+-------------------------------
+
+Log Entry : 7:23:10 AM Wednesday, 22 May 2019
+  :
+  :DESITIPW Payroll Successfully Posted : 2018-06-A
+-------------------------------
+
+Log Entry : 7:23:24 AM Wednesday, 22 May 2019
+  :
+  :DESITIPW Payroll Successfully Posted : 2018-06-B
+-------------------------------
+
+Log Entry : 7:23:37 AM Wednesday, 22 May 2019
+  :
+  :DESITIPW Payroll Successfully Posted : 2018-07-A
+-------------------------------
+
+Log Entry : 7:23:51 AM Wednesday, 22 May 2019
+  :
+  :DESITIPW Payroll Successfully Posted : 2018-07-B
+-------------------------------
+
+Log Entry : 7:24:04 AM Wednesday, 22 May 2019
+  :
+  :DESITIPW Payroll Successfully Posted : 2018-08-A
+-------------------------------
+
+Log Entry : 7:24:17 AM Wednesday, 22 May 2019
+  :
+  :DESITIPW Payroll Successfully Posted : 2018-08-B
+-------------------------------
+
+Log Entry : 7:24:31 AM Wednesday, 22 May 2019
+  :
+  :DESITIPW Payroll Successfully Posted : 2018-09-A
+-------------------------------
+
+Log Entry : 7:24:44 AM Wednesday, 22 May 2019
+  :
+  :DESITIPW Payroll Successfully Posted : 2018-09-B
+-------------------------------
+
+Log Entry : 7:24:57 AM Wednesday, 22 May 2019
+  :
+  :DESITIPW Payroll Successfully Posted : 2018-10-A
+-------------------------------
+
+Log Entry : 7:25:11 AM Wednesday, 22 May 2019
+  :
+  :DESITIPW Payroll Successfully Posted : 2018-10-B
+-------------------------------
+
+Log Entry : 7:25:24 AM Wednesday, 22 May 2019
+  :
+  :DESITIPW Payroll Successfully Posted : 2018-11-A
+-------------------------------
+
+Log Entry : 7:25:37 AM Wednesday, 22 May 2019
+  :
+  :DESITIPW Payroll Successfully Posted : 2018-11-B
+-------------------------------
+
+Log Entry : 7:25:51 AM Wednesday, 22 May 2019
+  :
+  :DESITIPW Payroll Successfully Posted : 2018-12-A
+-------------------------------
+
+Log Entry : 7:26:04 AM Wednesday, 22 May 2019
+  :
+  :DESITIPW Payroll Successfully Posted : 2018-12-B
+-------------------------------

@@ -1,0 +1,735 @@
+
+Log Entry : 1:13:23 PM Monday, 13 May 2019
+  :
+  :Data Start Reading
+-------------------------------
+
+Log Entry : 1:13:25 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILIPH - DES-LIPA 2018 2018-01-A
+-------------------------------
+
+Log Entry : 1:13:28 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILIPH - DES-LIPA 2018 2018-01-A
+-------------------------------
+
+Log Entry : 1:13:29 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 14,336.30
+-------------------------------
+
+Log Entry : 1:13:34 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-01-A
+-------------------------------
+
+Log Entry : 1:13:34 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-01-A
+-------------------------------
+
+Log Entry : 1:13:34 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (1 / 24) : DESILIPH - DES-LIPA_2018  : Data Progress ( 4.17 % ) 
+-------------------------------
+
+Log Entry : 1:13:36 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILIPH - DES-LIPA 2018 2018-01-B
+-------------------------------
+
+Log Entry : 1:13:39 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILIPH - DES-LIPA 2018 2018-01-B
+-------------------------------
+
+Log Entry : 1:13:40 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,140.89
+-------------------------------
+
+Log Entry : 1:13:45 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-01-B
+-------------------------------
+
+Log Entry : 1:13:45 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-01-B
+-------------------------------
+
+Log Entry : 1:13:45 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (2 / 24) : DESILIPH - DES-LIPA_2018  : Data Progress ( 8.33 % ) 
+-------------------------------
+
+Log Entry : 1:13:47 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILIPH - DES-LIPA 2018 2018-02-A
+-------------------------------
+
+Log Entry : 1:13:50 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILIPH - DES-LIPA 2018 2018-02-A
+-------------------------------
+
+Log Entry : 1:13:51 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 14,265.80
+-------------------------------
+
+Log Entry : 1:13:56 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-02-A
+-------------------------------
+
+Log Entry : 1:13:56 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-02-A
+-------------------------------
+
+Log Entry : 1:13:56 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (3 / 24) : DESILIPH - DES-LIPA_2018  : Data Progress ( 12.5 % ) 
+-------------------------------
+
+Log Entry : 1:13:58 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILIPH - DES-LIPA 2018 2018-02-B
+-------------------------------
+
+Log Entry : 1:14:01 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILIPH - DES-LIPA 2018 2018-02-B
+-------------------------------
+
+Log Entry : 1:14:01 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 10,541.17
+-------------------------------
+
+Log Entry : 1:14:07 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-02-B
+-------------------------------
+
+Log Entry : 1:14:07 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-02-B
+-------------------------------
+
+Log Entry : 1:14:07 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (4 / 24) : DESILIPH - DES-LIPA_2018  : Data Progress ( 16.67 % ) 
+-------------------------------
+
+Log Entry : 1:14:09 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILIPH - DES-LIPA 2018 2018-03-A
+-------------------------------
+
+Log Entry : 1:14:12 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILIPH - DES-LIPA 2018 2018-03-A
+-------------------------------
+
+Log Entry : 1:14:12 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 11,431.80
+-------------------------------
+
+Log Entry : 1:14:17 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-03-A
+-------------------------------
+
+Log Entry : 1:14:18 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-03-A
+-------------------------------
+
+Log Entry : 1:14:18 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (5 / 24) : DESILIPH - DES-LIPA_2018  : Data Progress ( 20.83 % ) 
+-------------------------------
+
+Log Entry : 1:14:20 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILIPH - DES-LIPA 2018 2018-03-B
+-------------------------------
+
+Log Entry : 1:14:23 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILIPH - DES-LIPA 2018 2018-03-B
+-------------------------------
+
+Log Entry : 1:14:23 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,702.78
+-------------------------------
+
+Log Entry : 1:14:28 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-03-B
+-------------------------------
+
+Log Entry : 1:14:29 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-03-B
+-------------------------------
+
+Log Entry : 1:14:29 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (6 / 24) : DESILIPH - DES-LIPA_2018  : Data Progress ( 25 % ) 
+-------------------------------
+
+Log Entry : 1:14:31 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILIPH - DES-LIPA 2018 2018-04-A
+-------------------------------
+
+Log Entry : 1:14:34 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILIPH - DES-LIPA 2018 2018-04-A
+-------------------------------
+
+Log Entry : 1:14:34 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 12,082.80
+-------------------------------
+
+Log Entry : 1:14:39 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-04-A
+-------------------------------
+
+Log Entry : 1:14:39 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-04-A
+-------------------------------
+
+Log Entry : 1:14:39 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (7 / 24) : DESILIPH - DES-LIPA_2018  : Data Progress ( 29.17 % ) 
+-------------------------------
+
+Log Entry : 1:14:41 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILIPH - DES-LIPA 2018 2018-04-B
+-------------------------------
+
+Log Entry : 1:14:45 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILIPH - DES-LIPA 2018 2018-04-B
+-------------------------------
+
+Log Entry : 1:14:45 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 4,891.89
+-------------------------------
+
+Log Entry : 1:14:50 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-04-B
+-------------------------------
+
+Log Entry : 1:14:50 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-04-B
+-------------------------------
+
+Log Entry : 1:14:50 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (8 / 24) : DESILIPH - DES-LIPA_2018  : Data Progress ( 33.33 % ) 
+-------------------------------
+
+Log Entry : 1:14:52 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILIPH - DES-LIPA 2018 2018-05-A
+-------------------------------
+
+Log Entry : 1:14:55 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILIPH - DES-LIPA 2018 2018-05-A
+-------------------------------
+
+Log Entry : 1:14:56 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,297.80
+-------------------------------
+
+Log Entry : 1:15:01 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-05-A
+-------------------------------
+
+Log Entry : 1:15:01 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-05-A
+-------------------------------
+
+Log Entry : 1:15:01 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (9 / 24) : DESILIPH - DES-LIPA_2018  : Data Progress ( 37.5 % ) 
+-------------------------------
+
+Log Entry : 1:15:03 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILIPH - DES-LIPA 2018 2018-05-B
+-------------------------------
+
+Log Entry : 1:15:06 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILIPH - DES-LIPA 2018 2018-05-B
+-------------------------------
+
+Log Entry : 1:15:07 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 4,897.93
+-------------------------------
+
+Log Entry : 1:15:12 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-05-B
+-------------------------------
+
+Log Entry : 1:15:12 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-05-B
+-------------------------------
+
+Log Entry : 1:15:12 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (10 / 24) : DESILIPH - DES-LIPA_2018  : Data Progress ( 41.67 % ) 
+-------------------------------
+
+Log Entry : 1:15:14 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILIPH - DES-LIPA 2018 2018-06-A
+-------------------------------
+
+Log Entry : 1:15:17 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILIPH - DES-LIPA 2018 2018-06-A
+-------------------------------
+
+Log Entry : 1:15:18 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,461.50
+-------------------------------
+
+Log Entry : 1:15:23 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-06-A
+-------------------------------
+
+Log Entry : 1:15:23 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-06-A
+-------------------------------
+
+Log Entry : 1:15:23 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (11 / 24) : DESILIPH - DES-LIPA_2018  : Data Progress ( 45.83 % ) 
+-------------------------------
+
+Log Entry : 1:15:25 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILIPH - DES-LIPA 2018 2018-06-B
+-------------------------------
+
+Log Entry : 1:15:28 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILIPH - DES-LIPA 2018 2018-06-B
+-------------------------------
+
+Log Entry : 1:15:29 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 3,484.93
+-------------------------------
+
+Log Entry : 1:15:34 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-06-B
+-------------------------------
+
+Log Entry : 1:15:34 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-06-B
+-------------------------------
+
+Log Entry : 1:15:34 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (12 / 24) : DESILIPH - DES-LIPA_2018  : Data Progress ( 50 % ) 
+-------------------------------
+
+Log Entry : 1:15:36 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILIPH - DES-LIPA 2018 2018-07-A
+-------------------------------
+
+Log Entry : 1:15:39 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILIPH - DES-LIPA 2018 2018-07-A
+-------------------------------
+
+Log Entry : 1:15:39 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,268.50
+-------------------------------
+
+Log Entry : 1:15:45 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-07-A
+-------------------------------
+
+Log Entry : 1:15:45 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-07-A
+-------------------------------
+
+Log Entry : 1:15:45 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (13 / 24) : DESILIPH - DES-LIPA_2018  : Data Progress ( 54.17 % ) 
+-------------------------------
+
+Log Entry : 1:15:47 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILIPH - DES-LIPA 2018 2018-07-B
+-------------------------------
+
+Log Entry : 1:15:50 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILIPH - DES-LIPA 2018 2018-07-B
+-------------------------------
+
+Log Entry : 1:15:50 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 3,704.93
+-------------------------------
+
+Log Entry : 1:15:55 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-07-B
+-------------------------------
+
+Log Entry : 1:15:56 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-07-B
+-------------------------------
+
+Log Entry : 1:15:56 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (14 / 24) : DESILIPH - DES-LIPA_2018  : Data Progress ( 58.33 % ) 
+-------------------------------
+
+Log Entry : 1:15:58 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILIPH - DES-LIPA 2018 2018-08-A
+-------------------------------
+
+Log Entry : 1:16:01 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILIPH - DES-LIPA 2018 2018-08-A
+-------------------------------
+
+Log Entry : 1:16:01 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,149.00
+-------------------------------
+
+Log Entry : 1:16:06 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-08-A
+-------------------------------
+
+Log Entry : 1:16:06 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-08-A
+-------------------------------
+
+Log Entry : 1:16:06 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (15 / 24) : DESILIPH - DES-LIPA_2018  : Data Progress ( 62.5 % ) 
+-------------------------------
+
+Log Entry : 1:16:08 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILIPH - DES-LIPA 2018 2018-08-B
+-------------------------------
+
+Log Entry : 1:16:11 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILIPH - DES-LIPA 2018 2018-08-B
+-------------------------------
+
+Log Entry : 1:16:12 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 2,585.43
+-------------------------------
+
+Log Entry : 1:16:17 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-08-B
+-------------------------------
+
+Log Entry : 1:16:17 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-08-B
+-------------------------------
+
+Log Entry : 1:16:17 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (16 / 24) : DESILIPH - DES-LIPA_2018  : Data Progress ( 66.67 % ) 
+-------------------------------
+
+Log Entry : 1:16:19 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILIPH - DES-LIPA 2018 2018-09-A
+-------------------------------
+
+Log Entry : 1:16:22 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILIPH - DES-LIPA 2018 2018-09-A
+-------------------------------
+
+Log Entry : 1:16:23 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,328.00
+-------------------------------
+
+Log Entry : 1:16:28 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-09-A
+-------------------------------
+
+Log Entry : 1:16:28 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-09-A
+-------------------------------
+
+Log Entry : 1:16:28 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (17 / 24) : DESILIPH - DES-LIPA_2018  : Data Progress ( 70.83 % ) 
+-------------------------------
+
+Log Entry : 1:16:30 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILIPH - DES-LIPA 2018 2018-09-B
+-------------------------------
+
+Log Entry : 1:16:33 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILIPH - DES-LIPA 2018 2018-09-B
+-------------------------------
+
+Log Entry : 1:16:34 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 3,207.21
+-------------------------------
+
+Log Entry : 1:16:39 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-09-B
+-------------------------------
+
+Log Entry : 1:16:39 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-09-B
+-------------------------------
+
+Log Entry : 1:16:39 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (18 / 24) : DESILIPH - DES-LIPA_2018  : Data Progress ( 75 % ) 
+-------------------------------
+
+Log Entry : 1:16:41 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILIPH - DES-LIPA 2018 2018-10-A
+-------------------------------
+
+Log Entry : 1:16:44 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILIPH - DES-LIPA 2018 2018-10-A
+-------------------------------
+
+Log Entry : 1:16:45 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,685.10
+-------------------------------
+
+Log Entry : 1:16:50 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-10-A
+-------------------------------
+
+Log Entry : 1:16:50 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-10-A
+-------------------------------
+
+Log Entry : 1:16:50 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (19 / 24) : DESILIPH - DES-LIPA_2018  : Data Progress ( 79.17 % ) 
+-------------------------------
+
+Log Entry : 1:16:52 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILIPH - DES-LIPA 2018 2018-10-B
+-------------------------------
+
+Log Entry : 1:16:55 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILIPH - DES-LIPA 2018 2018-10-B
+-------------------------------
+
+Log Entry : 1:16:56 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 3,207.21
+-------------------------------
+
+Log Entry : 1:17:01 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-10-B
+-------------------------------
+
+Log Entry : 1:17:01 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-10-B
+-------------------------------
+
+Log Entry : 1:17:01 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (20 / 24) : DESILIPH - DES-LIPA_2018  : Data Progress ( 83.33 % ) 
+-------------------------------
+
+Log Entry : 1:17:03 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILIPH - DES-LIPA 2018 2018-11-A
+-------------------------------
+
+Log Entry : 1:17:06 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILIPH - DES-LIPA 2018 2018-11-A
+-------------------------------
+
+Log Entry : 1:17:06 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,521.20
+-------------------------------
+
+Log Entry : 1:17:12 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-11-A
+-------------------------------
+
+Log Entry : 1:17:12 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-11-A
+-------------------------------
+
+Log Entry : 1:17:12 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (21 / 24) : DESILIPH - DES-LIPA_2018  : Data Progress ( 87.5 % ) 
+-------------------------------
+
+Log Entry : 1:17:14 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILIPH - DES-LIPA 2018 2018-11-B
+-------------------------------
+
+Log Entry : 1:17:17 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILIPH - DES-LIPA 2018 2018-11-B
+-------------------------------
+
+Log Entry : 1:17:17 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 3,661.71
+-------------------------------
+
+Log Entry : 1:17:23 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-11-B
+-------------------------------
+
+Log Entry : 1:17:23 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-11-B
+-------------------------------
+
+Log Entry : 1:17:23 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (22 / 24) : DESILIPH - DES-LIPA_2018  : Data Progress ( 91.67 % ) 
+-------------------------------
+
+Log Entry : 1:17:25 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILIPH - DES-LIPA 2018 2018-12-A
+-------------------------------
+
+Log Entry : 1:17:28 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILIPH - DES-LIPA 2018 2018-12-A
+-------------------------------
+
+Log Entry : 1:17:28 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,523.90
+-------------------------------
+
+Log Entry : 1:17:33 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-12-A
+-------------------------------
+
+Log Entry : 1:17:34 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-12-A
+-------------------------------
+
+Log Entry : 1:17:34 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (23 / 24) : DESILIPH - DES-LIPA_2018  : Data Progress ( 95.83 % ) 
+-------------------------------
+
+Log Entry : 1:17:36 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILIPH - DES-LIPA 2018 2018-12-B
+-------------------------------
+
+Log Entry : 1:17:39 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILIPH - DES-LIPA 2018 2018-12-B
+-------------------------------
+
+Log Entry : 1:17:39 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 3,327.71
+-------------------------------
+
+Log Entry : 1:17:44 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-12-B
+-------------------------------
+
+Log Entry : 1:17:44 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILIPH - DES-LIPA 2018 2018-12-B
+-------------------------------
+
+Log Entry : 1:17:44 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (24 / 24) : DESILIPH - DES-LIPA_2018  : Data Progress ( 100 % ) 
+-------------------------------
+
+Log Entry : 1:17:44 PM Monday, 13 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 1:17:47 PM Monday, 13 May 2019
+  :
+  :DESILIPH - DES-LIPA Data Preparing ..
+-------------------------------

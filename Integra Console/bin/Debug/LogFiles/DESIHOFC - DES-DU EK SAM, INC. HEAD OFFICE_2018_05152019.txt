@@ -1,0 +1,25 @@
+
+Log Entry : 4:02:18 PM Wednesday, 15 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 4:02:20 PM Wednesday, 15 May 2019
+  :
+  :DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE Data Preparing ..
+-------------------------------
+
+Log Entry : 4:03:04 PM Wednesday, 15 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 841,782.73
+-------------------------------
+
+Log Entry : 4:09:30 PM Wednesday, 15 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 840,944.73
+-------------------------------
+
+Log Entry : 4:20:30 PM Wednesday, 15 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 1,087,556.64
+-------------------------------

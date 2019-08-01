@@ -1,0 +1,735 @@
+
+Log Entry : 1:36:11 PM Monday, 13 May 2019
+  :
+  :Data Start Reading
+-------------------------------
+
+Log Entry : 1:36:13 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMILAM - DES-MARKETING ILAYA 2018 2018-01-A
+-------------------------------
+
+Log Entry : 1:36:16 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMILAM - DES-MARKETING ILAYA 2018 2018-01-A
+-------------------------------
+
+Log Entry : 1:36:16 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 11,633.20
+-------------------------------
+
+Log Entry : 1:36:22 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-01-A
+-------------------------------
+
+Log Entry : 1:36:22 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-01-A
+-------------------------------
+
+Log Entry : 1:36:22 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (1 / 24) : DESMILAM - DES-MARKETING ILAYA_2018  : Data Progress ( 4.17 % ) 
+-------------------------------
+
+Log Entry : 1:36:24 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMILAM - DES-MARKETING ILAYA 2018 2018-01-B
+-------------------------------
+
+Log Entry : 1:36:27 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMILAM - DES-MARKETING ILAYA 2018 2018-01-B
+-------------------------------
+
+Log Entry : 1:36:27 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,264.68
+-------------------------------
+
+Log Entry : 1:36:33 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-01-B
+-------------------------------
+
+Log Entry : 1:36:33 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-01-B
+-------------------------------
+
+Log Entry : 1:36:33 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (2 / 24) : DESMILAM - DES-MARKETING ILAYA_2018  : Data Progress ( 8.33 % ) 
+-------------------------------
+
+Log Entry : 1:36:35 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMILAM - DES-MARKETING ILAYA 2018 2018-02-A
+-------------------------------
+
+Log Entry : 1:36:38 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMILAM - DES-MARKETING ILAYA 2018 2018-02-A
+-------------------------------
+
+Log Entry : 1:36:38 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 11,725.00
+-------------------------------
+
+Log Entry : 1:36:43 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-02-A
+-------------------------------
+
+Log Entry : 1:36:44 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-02-A
+-------------------------------
+
+Log Entry : 1:36:44 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (3 / 24) : DESMILAM - DES-MARKETING ILAYA_2018  : Data Progress ( 12.5 % ) 
+-------------------------------
+
+Log Entry : 1:36:46 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMILAM - DES-MARKETING ILAYA 2018 2018-02-B
+-------------------------------
+
+Log Entry : 1:36:49 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMILAM - DES-MARKETING ILAYA 2018 2018-02-B
+-------------------------------
+
+Log Entry : 1:36:49 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,880.13
+-------------------------------
+
+Log Entry : 1:36:54 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-02-B
+-------------------------------
+
+Log Entry : 1:36:54 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-02-B
+-------------------------------
+
+Log Entry : 1:36:54 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (4 / 24) : DESMILAM - DES-MARKETING ILAYA_2018  : Data Progress ( 16.67 % ) 
+-------------------------------
+
+Log Entry : 1:36:56 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMILAM - DES-MARKETING ILAYA 2018 2018-03-A
+-------------------------------
+
+Log Entry : 1:36:59 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMILAM - DES-MARKETING ILAYA 2018 2018-03-A
+-------------------------------
+
+Log Entry : 1:37:00 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 10,229.34
+-------------------------------
+
+Log Entry : 1:37:05 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-03-A
+-------------------------------
+
+Log Entry : 1:37:05 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-03-A
+-------------------------------
+
+Log Entry : 1:37:05 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (5 / 24) : DESMILAM - DES-MARKETING ILAYA_2018  : Data Progress ( 20.83 % ) 
+-------------------------------
+
+Log Entry : 1:37:07 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMILAM - DES-MARKETING ILAYA 2018 2018-03-B
+-------------------------------
+
+Log Entry : 1:37:10 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMILAM - DES-MARKETING ILAYA 2018 2018-03-B
+-------------------------------
+
+Log Entry : 1:37:11 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,394.02
+-------------------------------
+
+Log Entry : 1:37:16 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-03-B
+-------------------------------
+
+Log Entry : 1:37:16 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-03-B
+-------------------------------
+
+Log Entry : 1:37:16 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (6 / 24) : DESMILAM - DES-MARKETING ILAYA_2018  : Data Progress ( 25 % ) 
+-------------------------------
+
+Log Entry : 1:37:18 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMILAM - DES-MARKETING ILAYA 2018 2018-04-A
+-------------------------------
+
+Log Entry : 1:37:21 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMILAM - DES-MARKETING ILAYA 2018 2018-04-A
+-------------------------------
+
+Log Entry : 1:37:22 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 10,229.34
+-------------------------------
+
+Log Entry : 1:37:27 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-04-A
+-------------------------------
+
+Log Entry : 1:37:27 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-04-A
+-------------------------------
+
+Log Entry : 1:37:27 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (7 / 24) : DESMILAM - DES-MARKETING ILAYA_2018  : Data Progress ( 29.17 % ) 
+-------------------------------
+
+Log Entry : 1:37:29 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMILAM - DES-MARKETING ILAYA 2018 2018-04-B
+-------------------------------
+
+Log Entry : 1:37:32 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMILAM - DES-MARKETING ILAYA 2018 2018-04-B
+-------------------------------
+
+Log Entry : 1:37:33 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,162.82
+-------------------------------
+
+Log Entry : 1:37:38 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-04-B
+-------------------------------
+
+Log Entry : 1:37:38 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-04-B
+-------------------------------
+
+Log Entry : 1:37:38 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (8 / 24) : DESMILAM - DES-MARKETING ILAYA_2018  : Data Progress ( 33.33 % ) 
+-------------------------------
+
+Log Entry : 1:37:40 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMILAM - DES-MARKETING ILAYA 2018 2018-05-A
+-------------------------------
+
+Log Entry : 1:37:43 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMILAM - DES-MARKETING ILAYA 2018 2018-05-A
+-------------------------------
+
+Log Entry : 1:37:44 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,197.64
+-------------------------------
+
+Log Entry : 1:37:49 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-05-A
+-------------------------------
+
+Log Entry : 1:37:49 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-05-A
+-------------------------------
+
+Log Entry : 1:37:49 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (9 / 24) : DESMILAM - DES-MARKETING ILAYA_2018  : Data Progress ( 37.5 % ) 
+-------------------------------
+
+Log Entry : 1:37:51 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMILAM - DES-MARKETING ILAYA 2018 2018-05-B
+-------------------------------
+
+Log Entry : 1:37:54 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMILAM - DES-MARKETING ILAYA 2018 2018-05-B
+-------------------------------
+
+Log Entry : 1:37:54 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,856.74
+-------------------------------
+
+Log Entry : 1:37:59 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-05-B
+-------------------------------
+
+Log Entry : 1:38:00 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-05-B
+-------------------------------
+
+Log Entry : 1:38:00 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (10 / 24) : DESMILAM - DES-MARKETING ILAYA_2018  : Data Progress ( 41.67 % ) 
+-------------------------------
+
+Log Entry : 1:38:02 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMILAM - DES-MARKETING ILAYA 2018 2018-06-A
+-------------------------------
+
+Log Entry : 1:38:05 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMILAM - DES-MARKETING ILAYA 2018 2018-06-A
+-------------------------------
+
+Log Entry : 1:38:05 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,314.74
+-------------------------------
+
+Log Entry : 1:38:10 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-06-A
+-------------------------------
+
+Log Entry : 1:38:11 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-06-A
+-------------------------------
+
+Log Entry : 1:38:11 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (11 / 24) : DESMILAM - DES-MARKETING ILAYA_2018  : Data Progress ( 45.83 % ) 
+-------------------------------
+
+Log Entry : 1:38:13 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMILAM - DES-MARKETING ILAYA 2018 2018-06-B
+-------------------------------
+
+Log Entry : 1:38:16 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMILAM - DES-MARKETING ILAYA 2018 2018-06-B
+-------------------------------
+
+Log Entry : 1:38:16 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,755.64
+-------------------------------
+
+Log Entry : 1:38:21 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-06-B
+-------------------------------
+
+Log Entry : 1:38:21 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-06-B
+-------------------------------
+
+Log Entry : 1:38:21 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (12 / 24) : DESMILAM - DES-MARKETING ILAYA_2018  : Data Progress ( 50 % ) 
+-------------------------------
+
+Log Entry : 1:38:24 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMILAM - DES-MARKETING ILAYA 2018 2018-07-A
+-------------------------------
+
+Log Entry : 1:38:27 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMILAM - DES-MARKETING ILAYA 2018 2018-07-A
+-------------------------------
+
+Log Entry : 1:38:27 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,838.34
+-------------------------------
+
+Log Entry : 1:38:32 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-07-A
+-------------------------------
+
+Log Entry : 1:38:32 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-07-A
+-------------------------------
+
+Log Entry : 1:38:32 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (13 / 24) : DESMILAM - DES-MARKETING ILAYA_2018  : Data Progress ( 54.17 % ) 
+-------------------------------
+
+Log Entry : 1:38:34 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMILAM - DES-MARKETING ILAYA 2018 2018-07-B
+-------------------------------
+
+Log Entry : 1:38:37 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMILAM - DES-MARKETING ILAYA 2018 2018-07-B
+-------------------------------
+
+Log Entry : 1:38:38 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,807.22
+-------------------------------
+
+Log Entry : 1:38:43 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-07-B
+-------------------------------
+
+Log Entry : 1:38:43 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-07-B
+-------------------------------
+
+Log Entry : 1:38:43 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (14 / 24) : DESMILAM - DES-MARKETING ILAYA_2018  : Data Progress ( 58.33 % ) 
+-------------------------------
+
+Log Entry : 1:38:45 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMILAM - DES-MARKETING ILAYA 2018 2018-08-A
+-------------------------------
+
+Log Entry : 1:38:48 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMILAM - DES-MARKETING ILAYA 2018 2018-08-A
+-------------------------------
+
+Log Entry : 1:38:49 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,262.34
+-------------------------------
+
+Log Entry : 1:38:54 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-08-A
+-------------------------------
+
+Log Entry : 1:38:54 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-08-A
+-------------------------------
+
+Log Entry : 1:38:54 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (15 / 24) : DESMILAM - DES-MARKETING ILAYA_2018  : Data Progress ( 62.5 % ) 
+-------------------------------
+
+Log Entry : 1:38:56 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMILAM - DES-MARKETING ILAYA 2018 2018-08-B
+-------------------------------
+
+Log Entry : 1:38:59 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMILAM - DES-MARKETING ILAYA 2018 2018-08-B
+-------------------------------
+
+Log Entry : 1:39:00 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,033.41
+-------------------------------
+
+Log Entry : 1:39:05 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-08-B
+-------------------------------
+
+Log Entry : 1:39:05 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-08-B
+-------------------------------
+
+Log Entry : 1:39:05 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (16 / 24) : DESMILAM - DES-MARKETING ILAYA_2018  : Data Progress ( 66.67 % ) 
+-------------------------------
+
+Log Entry : 1:39:07 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMILAM - DES-MARKETING ILAYA 2018 2018-09-A
+-------------------------------
+
+Log Entry : 1:39:10 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMILAM - DES-MARKETING ILAYA 2018 2018-09-A
+-------------------------------
+
+Log Entry : 1:39:11 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,606.73
+-------------------------------
+
+Log Entry : 1:39:16 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-09-A
+-------------------------------
+
+Log Entry : 1:39:16 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-09-A
+-------------------------------
+
+Log Entry : 1:39:16 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (17 / 24) : DESMILAM - DES-MARKETING ILAYA_2018  : Data Progress ( 70.83 % ) 
+-------------------------------
+
+Log Entry : 1:39:18 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMILAM - DES-MARKETING ILAYA 2018 2018-09-B
+-------------------------------
+
+Log Entry : 1:39:21 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMILAM - DES-MARKETING ILAYA 2018 2018-09-B
+-------------------------------
+
+Log Entry : 1:39:21 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,946.05
+-------------------------------
+
+Log Entry : 1:39:27 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-09-B
+-------------------------------
+
+Log Entry : 1:39:27 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-09-B
+-------------------------------
+
+Log Entry : 1:39:27 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (18 / 24) : DESMILAM - DES-MARKETING ILAYA_2018  : Data Progress ( 75 % ) 
+-------------------------------
+
+Log Entry : 1:39:29 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMILAM - DES-MARKETING ILAYA 2018 2018-10-A
+-------------------------------
+
+Log Entry : 1:39:32 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMILAM - DES-MARKETING ILAYA 2018 2018-10-A
+-------------------------------
+
+Log Entry : 1:39:32 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,381.73
+-------------------------------
+
+Log Entry : 1:39:37 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-10-A
+-------------------------------
+
+Log Entry : 1:39:38 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-10-A
+-------------------------------
+
+Log Entry : 1:39:38 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (19 / 24) : DESMILAM - DES-MARKETING ILAYA_2018  : Data Progress ( 79.17 % ) 
+-------------------------------
+
+Log Entry : 1:39:40 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMILAM - DES-MARKETING ILAYA 2018 2018-10-B
+-------------------------------
+
+Log Entry : 1:39:43 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMILAM - DES-MARKETING ILAYA 2018 2018-10-B
+-------------------------------
+
+Log Entry : 1:39:43 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,946.05
+-------------------------------
+
+Log Entry : 1:39:48 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-10-B
+-------------------------------
+
+Log Entry : 1:39:49 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-10-B
+-------------------------------
+
+Log Entry : 1:39:49 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (20 / 24) : DESMILAM - DES-MARKETING ILAYA_2018  : Data Progress ( 83.33 % ) 
+-------------------------------
+
+Log Entry : 1:39:51 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMILAM - DES-MARKETING ILAYA 2018 2018-11-A
+-------------------------------
+
+Log Entry : 1:39:54 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMILAM - DES-MARKETING ILAYA 2018 2018-11-A
+-------------------------------
+
+Log Entry : 1:39:54 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,777.73
+-------------------------------
+
+Log Entry : 1:39:59 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-11-A
+-------------------------------
+
+Log Entry : 1:40:00 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-11-A
+-------------------------------
+
+Log Entry : 1:40:00 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (21 / 24) : DESMILAM - DES-MARKETING ILAYA_2018  : Data Progress ( 87.5 % ) 
+-------------------------------
+
+Log Entry : 1:40:02 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMILAM - DES-MARKETING ILAYA 2018 2018-11-B
+-------------------------------
+
+Log Entry : 1:40:05 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMILAM - DES-MARKETING ILAYA 2018 2018-11-B
+-------------------------------
+
+Log Entry : 1:40:05 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,343.84
+-------------------------------
+
+Log Entry : 1:40:10 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-11-B
+-------------------------------
+
+Log Entry : 1:40:10 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-11-B
+-------------------------------
+
+Log Entry : 1:40:10 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (22 / 24) : DESMILAM - DES-MARKETING ILAYA_2018  : Data Progress ( 91.67 % ) 
+-------------------------------
+
+Log Entry : 1:40:12 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMILAM - DES-MARKETING ILAYA 2018 2018-12-A
+-------------------------------
+
+Log Entry : 1:40:15 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMILAM - DES-MARKETING ILAYA 2018 2018-12-A
+-------------------------------
+
+Log Entry : 1:40:16 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,780.73
+-------------------------------
+
+Log Entry : 1:40:21 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-12-A
+-------------------------------
+
+Log Entry : 1:40:21 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-12-A
+-------------------------------
+
+Log Entry : 1:40:21 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (23 / 24) : DESMILAM - DES-MARKETING ILAYA_2018  : Data Progress ( 95.83 % ) 
+-------------------------------
+
+Log Entry : 1:40:23 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMILAM - DES-MARKETING ILAYA 2018 2018-12-B
+-------------------------------
+
+Log Entry : 1:40:26 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMILAM - DES-MARKETING ILAYA 2018 2018-12-B
+-------------------------------
+
+Log Entry : 1:40:27 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,343.84
+-------------------------------
+
+Log Entry : 1:40:32 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-12-B
+-------------------------------
+
+Log Entry : 1:40:32 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMILAM - DES-MARKETING ILAYA 2018 2018-12-B
+-------------------------------
+
+Log Entry : 1:40:32 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (24 / 24) : DESMILAM - DES-MARKETING ILAYA_2018  : Data Progress ( 100 % ) 
+-------------------------------
+
+Log Entry : 1:40:32 PM Monday, 13 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 1:40:34 PM Monday, 13 May 2019
+  :
+  :DESMILAM - DES-MARKETING ILAYA Data Preparing ..
+-------------------------------

@@ -1,0 +1,735 @@
+
+Log Entry : 2:43:33 PM Monday, 13 May 2019
+  :
+  :Data Start Reading
+-------------------------------
+
+Log Entry : 2:43:35 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:43:38 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:43:39 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,235.60
+-------------------------------
+
+Log Entry : 2:43:44 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:43:44 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:43:44 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (1 / 24) : DESIHINI - DES-HINIGARAN APPLIANCE_2018  : Data Progress ( 4.17 % ) 
+-------------------------------
+
+Log Entry : 2:43:47 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:43:50 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:43:50 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,962.10
+-------------------------------
+
+Log Entry : 2:43:55 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:43:55 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:43:55 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (2 / 24) : DESIHINI - DES-HINIGARAN APPLIANCE_2018  : Data Progress ( 8.33 % ) 
+-------------------------------
+
+Log Entry : 2:43:57 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:44:00 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:44:01 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,913.60
+-------------------------------
+
+Log Entry : 2:44:06 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:44:06 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:44:07 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (3 / 24) : DESIHINI - DES-HINIGARAN APPLIANCE_2018  : Data Progress ( 12.5 % ) 
+-------------------------------
+
+Log Entry : 2:44:09 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:44:12 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:44:12 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,119.10
+-------------------------------
+
+Log Entry : 2:44:17 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:44:18 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:44:18 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (4 / 24) : DESIHINI - DES-HINIGARAN APPLIANCE_2018  : Data Progress ( 16.67 % ) 
+-------------------------------
+
+Log Entry : 2:44:20 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:44:23 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:44:23 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,523.85
+-------------------------------
+
+Log Entry : 2:44:29 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:44:29 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:44:29 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (5 / 24) : DESIHINI - DES-HINIGARAN APPLIANCE_2018  : Data Progress ( 20.83 % ) 
+-------------------------------
+
+Log Entry : 2:44:31 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:44:34 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:44:34 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 4,970.60
+-------------------------------
+
+Log Entry : 2:44:39 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:44:40 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:44:40 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (6 / 24) : DESIHINI - DES-HINIGARAN APPLIANCE_2018  : Data Progress ( 25 % ) 
+-------------------------------
+
+Log Entry : 2:44:42 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:44:45 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:44:45 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,391.10
+-------------------------------
+
+Log Entry : 2:44:50 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:44:50 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:44:50 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (7 / 24) : DESIHINI - DES-HINIGARAN APPLIANCE_2018  : Data Progress ( 29.17 % ) 
+-------------------------------
+
+Log Entry : 2:44:52 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:44:56 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:44:56 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,608.60
+-------------------------------
+
+Log Entry : 2:45:01 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:45:01 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:45:01 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (8 / 24) : DESIHINI - DES-HINIGARAN APPLIANCE_2018  : Data Progress ( 33.33 % ) 
+-------------------------------
+
+Log Entry : 2:45:03 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:45:06 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:45:07 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,538.90
+-------------------------------
+
+Log Entry : 2:45:12 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:45:12 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:45:12 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (9 / 24) : DESIHINI - DES-HINIGARAN APPLIANCE_2018  : Data Progress ( 37.5 % ) 
+-------------------------------
+
+Log Entry : 2:45:14 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:45:17 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:45:18 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,750.56
+-------------------------------
+
+Log Entry : 2:45:23 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:45:23 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:45:23 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (10 / 24) : DESIHINI - DES-HINIGARAN APPLIANCE_2018  : Data Progress ( 41.67 % ) 
+-------------------------------
+
+Log Entry : 2:45:25 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:45:28 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:45:29 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,291.90
+-------------------------------
+
+Log Entry : 2:45:34 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:45:34 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:45:34 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (11 / 24) : DESIHINI - DES-HINIGARAN APPLIANCE_2018  : Data Progress ( 45.83 % ) 
+-------------------------------
+
+Log Entry : 2:45:36 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:45:39 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:45:39 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 4,830.10
+-------------------------------
+
+Log Entry : 2:45:45 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:45:45 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:45:45 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (12 / 24) : DESIHINI - DES-HINIGARAN APPLIANCE_2018  : Data Progress ( 50 % ) 
+-------------------------------
+
+Log Entry : 2:45:47 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:45:50 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:45:50 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,627.90
+-------------------------------
+
+Log Entry : 2:45:56 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:45:56 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:45:56 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (13 / 24) : DESIHINI - DES-HINIGARAN APPLIANCE_2018  : Data Progress ( 54.17 % ) 
+-------------------------------
+
+Log Entry : 2:45:58 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:46:01 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:46:01 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,432.10
+-------------------------------
+
+Log Entry : 2:46:06 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:46:07 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:46:07 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (14 / 24) : DESIHINI - DES-HINIGARAN APPLIANCE_2018  : Data Progress ( 58.33 % ) 
+-------------------------------
+
+Log Entry : 2:46:09 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:46:12 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:46:12 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,541.90
+-------------------------------
+
+Log Entry : 2:46:17 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:46:18 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:46:18 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (15 / 24) : DESIHINI - DES-HINIGARAN APPLIANCE_2018  : Data Progress ( 62.5 % ) 
+-------------------------------
+
+Log Entry : 2:46:20 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:46:23 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:46:23 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,432.10
+-------------------------------
+
+Log Entry : 2:46:28 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:46:28 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:46:28 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (16 / 24) : DESIHINI - DES-HINIGARAN APPLIANCE_2018  : Data Progress ( 66.67 % ) 
+-------------------------------
+
+Log Entry : 2:46:30 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:46:34 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:46:34 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,620.90
+-------------------------------
+
+Log Entry : 2:46:39 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:46:39 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:46:39 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (17 / 24) : DESIHINI - DES-HINIGARAN APPLIANCE_2018  : Data Progress ( 70.83 % ) 
+-------------------------------
+
+Log Entry : 2:46:41 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:46:44 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:46:45 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,178.10
+-------------------------------
+
+Log Entry : 2:46:50 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:46:50 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:46:50 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (18 / 24) : DESIHINI - DES-HINIGARAN APPLIANCE_2018  : Data Progress ( 75 % ) 
+-------------------------------
+
+Log Entry : 2:46:52 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:46:55 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:46:56 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,498.80
+-------------------------------
+
+Log Entry : 2:47:01 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:47:01 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:47:01 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (19 / 24) : DESIHINI - DES-HINIGARAN APPLIANCE_2018  : Data Progress ( 79.17 % ) 
+-------------------------------
+
+Log Entry : 2:47:03 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:47:06 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:47:07 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,971.00
+-------------------------------
+
+Log Entry : 2:47:12 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:47:12 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:47:12 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (20 / 24) : DESIHINI - DES-HINIGARAN APPLIANCE_2018  : Data Progress ( 83.33 % ) 
+-------------------------------
+
+Log Entry : 2:47:14 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:47:17 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:47:18 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 10,583.80
+-------------------------------
+
+Log Entry : 2:47:23 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:47:23 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:47:23 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (21 / 24) : DESIHINI - DES-HINIGARAN APPLIANCE_2018  : Data Progress ( 87.5 % ) 
+-------------------------------
+
+Log Entry : 2:47:25 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:47:28 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:47:29 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,471.00
+-------------------------------
+
+Log Entry : 2:47:34 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:47:34 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:47:34 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (22 / 24) : DESIHINI - DES-HINIGARAN APPLIANCE_2018  : Data Progress ( 91.67 % ) 
+-------------------------------
+
+Log Entry : 2:47:36 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:47:39 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:47:40 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 10,586.80
+-------------------------------
+
+Log Entry : 2:47:45 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:47:45 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:47:45 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (23 / 24) : DESIHINI - DES-HINIGARAN APPLIANCE_2018  : Data Progress ( 95.83 % ) 
+-------------------------------
+
+Log Entry : 2:47:47 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:47:50 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:47:50 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,467.00
+-------------------------------
+
+Log Entry : 2:47:56 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:47:56 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINI - DES-HINIGARAN APPLIANCE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:47:56 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (24 / 24) : DESIHINI - DES-HINIGARAN APPLIANCE_2018  : Data Progress ( 100 % ) 
+-------------------------------
+
+Log Entry : 2:47:56 PM Monday, 13 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 2:47:58 PM Monday, 13 May 2019
+  :
+  :DESIHINI - DES-HINIGARAN APPLIANCE Data Preparing ..
+-------------------------------

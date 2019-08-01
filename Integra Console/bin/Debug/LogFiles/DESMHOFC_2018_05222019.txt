@@ -1,0 +1,20 @@
+
+Log Entry : 7:05:49 AM Wednesday, 22 May 2019
+  :
+  :DESMHOFC Payroll Successfully Posted : 2018-01-B
+-------------------------------
+
+Log Entry : 7:06:03 AM Wednesday, 22 May 2019
+  :
+  :DESMHOFC Payroll Successfully Posted : 2018-02-A
+-------------------------------
+
+Log Entry : 7:06:16 AM Wednesday, 22 May 2019
+  :
+  :DESMHOFC Payroll Successfully Posted : 2018-02-B
+-------------------------------
+
+Log Entry : 7:06:29 AM Wednesday, 22 May 2019
+  :
+  :DESMHOFC Payroll Successfully Posted : 2018-03-A
+-------------------------------

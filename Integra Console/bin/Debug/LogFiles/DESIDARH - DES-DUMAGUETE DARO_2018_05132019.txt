@@ -1,0 +1,735 @@
+
+Log Entry : 2:15:49 PM Monday, 13 May 2019
+  :
+  :Data Start Reading
+-------------------------------
+
+Log Entry : 2:15:51 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDARH - DES-DUMAGUETE DARO 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:15:54 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDARH - DES-DUMAGUETE DARO 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:15:55 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,089.22
+-------------------------------
+
+Log Entry : 2:16:00 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:16:00 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:16:00 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (1 / 24) : DESIDARH - DES-DUMAGUETE DARO_2018  : Data Progress ( 4.17 % ) 
+-------------------------------
+
+Log Entry : 2:16:02 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDARH - DES-DUMAGUETE DARO 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:16:05 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDARH - DES-DUMAGUETE DARO 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:16:06 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 4,671.92
+-------------------------------
+
+Log Entry : 2:16:11 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:16:11 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:16:11 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (2 / 24) : DESIDARH - DES-DUMAGUETE DARO_2018  : Data Progress ( 8.33 % ) 
+-------------------------------
+
+Log Entry : 2:16:13 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDARH - DES-DUMAGUETE DARO 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:16:16 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDARH - DES-DUMAGUETE DARO 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:16:17 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,089.22
+-------------------------------
+
+Log Entry : 2:16:22 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:16:22 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:16:22 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (3 / 24) : DESIDARH - DES-DUMAGUETE DARO_2018  : Data Progress ( 12.5 % ) 
+-------------------------------
+
+Log Entry : 2:16:24 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDARH - DES-DUMAGUETE DARO 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:16:27 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDARH - DES-DUMAGUETE DARO 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:16:27 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 4,809.42
+-------------------------------
+
+Log Entry : 2:16:33 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:16:33 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:16:33 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (4 / 24) : DESIDARH - DES-DUMAGUETE DARO_2018  : Data Progress ( 16.67 % ) 
+-------------------------------
+
+Log Entry : 2:16:35 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDARH - DES-DUMAGUETE DARO 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:16:38 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDARH - DES-DUMAGUETE DARO 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:16:38 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,570.48
+-------------------------------
+
+Log Entry : 2:16:44 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:16:44 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:16:44 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (5 / 24) : DESIDARH - DES-DUMAGUETE DARO_2018  : Data Progress ( 20.83 % ) 
+-------------------------------
+
+Log Entry : 2:16:46 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDARH - DES-DUMAGUETE DARO 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:16:49 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDARH - DES-DUMAGUETE DARO 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:16:49 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 4,742.35
+-------------------------------
+
+Log Entry : 2:16:55 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:16:55 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:16:55 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (6 / 24) : DESIDARH - DES-DUMAGUETE DARO_2018  : Data Progress ( 25 % ) 
+-------------------------------
+
+Log Entry : 2:16:57 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDARH - DES-DUMAGUETE DARO 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:17:00 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDARH - DES-DUMAGUETE DARO 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:17:00 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,370.38
+-------------------------------
+
+Log Entry : 2:17:05 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:17:06 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:17:06 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (7 / 24) : DESIDARH - DES-DUMAGUETE DARO_2018  : Data Progress ( 29.17 % ) 
+-------------------------------
+
+Log Entry : 2:17:08 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDARH - DES-DUMAGUETE DARO 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:17:11 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDARH - DES-DUMAGUETE DARO 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:17:11 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 4,392.65
+-------------------------------
+
+Log Entry : 2:17:16 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:17:16 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:17:16 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (8 / 24) : DESIDARH - DES-DUMAGUETE DARO_2018  : Data Progress ( 33.33 % ) 
+-------------------------------
+
+Log Entry : 2:17:18 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDARH - DES-DUMAGUETE DARO 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:17:21 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDARH - DES-DUMAGUETE DARO 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:17:22 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,669.45
+-------------------------------
+
+Log Entry : 2:17:27 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:17:27 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:17:27 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (9 / 24) : DESIDARH - DES-DUMAGUETE DARO_2018  : Data Progress ( 37.5 % ) 
+-------------------------------
+
+Log Entry : 2:17:29 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDARH - DES-DUMAGUETE DARO 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:17:32 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDARH - DES-DUMAGUETE DARO 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:17:33 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 4,392.65
+-------------------------------
+
+Log Entry : 2:17:38 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:17:38 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:17:38 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (10 / 24) : DESIDARH - DES-DUMAGUETE DARO_2018  : Data Progress ( 41.67 % ) 
+-------------------------------
+
+Log Entry : 2:17:40 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDARH - DES-DUMAGUETE DARO 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:17:43 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDARH - DES-DUMAGUETE DARO 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:17:44 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,339.45
+-------------------------------
+
+Log Entry : 2:17:49 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:17:49 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:17:49 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (11 / 24) : DESIDARH - DES-DUMAGUETE DARO_2018  : Data Progress ( 45.83 % ) 
+-------------------------------
+
+Log Entry : 2:17:51 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDARH - DES-DUMAGUETE DARO 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:17:54 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDARH - DES-DUMAGUETE DARO 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:17:55 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,062.65
+-------------------------------
+
+Log Entry : 2:18:00 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:18:00 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:18:00 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (12 / 24) : DESIDARH - DES-DUMAGUETE DARO_2018  : Data Progress ( 50 % ) 
+-------------------------------
+
+Log Entry : 2:18:02 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDARH - DES-DUMAGUETE DARO 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:18:05 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDARH - DES-DUMAGUETE DARO 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:18:06 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 10,068.45
+-------------------------------
+
+Log Entry : 2:18:11 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:18:11 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:18:11 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (13 / 24) : DESIDARH - DES-DUMAGUETE DARO_2018  : Data Progress ( 54.17 % ) 
+-------------------------------
+
+Log Entry : 2:18:13 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDARH - DES-DUMAGUETE DARO 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:18:16 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDARH - DES-DUMAGUETE DARO 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:18:16 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,657.18
+-------------------------------
+
+Log Entry : 2:18:22 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:18:22 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:18:22 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (14 / 24) : DESIDARH - DES-DUMAGUETE DARO_2018  : Data Progress ( 58.33 % ) 
+-------------------------------
+
+Log Entry : 2:18:24 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDARH - DES-DUMAGUETE DARO 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:18:27 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDARH - DES-DUMAGUETE DARO 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:18:27 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,520.95
+-------------------------------
+
+Log Entry : 2:18:32 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:18:33 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:18:33 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (15 / 24) : DESIDARH - DES-DUMAGUETE DARO_2018  : Data Progress ( 62.5 % ) 
+-------------------------------
+
+Log Entry : 2:18:35 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDARH - DES-DUMAGUETE DARO 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:18:38 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDARH - DES-DUMAGUETE DARO 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:18:38 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,799.95
+-------------------------------
+
+Log Entry : 2:18:43 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:18:43 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:18:43 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (16 / 24) : DESIDARH - DES-DUMAGUETE DARO_2018  : Data Progress ( 66.67 % ) 
+-------------------------------
+
+Log Entry : 2:18:46 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDARH - DES-DUMAGUETE DARO 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:18:49 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDARH - DES-DUMAGUETE DARO 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:18:49 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 10,500.45
+-------------------------------
+
+Log Entry : 2:18:54 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:18:54 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:18:54 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (17 / 24) : DESIDARH - DES-DUMAGUETE DARO_2018  : Data Progress ( 70.83 % ) 
+-------------------------------
+
+Log Entry : 2:18:56 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDARH - DES-DUMAGUETE DARO 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:18:59 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDARH - DES-DUMAGUETE DARO 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:19:00 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,312.21
+-------------------------------
+
+Log Entry : 2:19:05 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:19:05 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:19:05 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (18 / 24) : DESIDARH - DES-DUMAGUETE DARO_2018  : Data Progress ( 75 % ) 
+-------------------------------
+
+Log Entry : 2:19:07 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDARH - DES-DUMAGUETE DARO 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:19:10 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDARH - DES-DUMAGUETE DARO 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:19:11 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 10,513.33
+-------------------------------
+
+Log Entry : 2:19:16 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:19:16 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:19:16 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (19 / 24) : DESIDARH - DES-DUMAGUETE DARO_2018  : Data Progress ( 79.17 % ) 
+-------------------------------
+
+Log Entry : 2:19:18 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDARH - DES-DUMAGUETE DARO 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:19:21 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDARH - DES-DUMAGUETE DARO 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:19:22 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,575.33
+-------------------------------
+
+Log Entry : 2:19:27 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:19:27 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:19:27 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (20 / 24) : DESIDARH - DES-DUMAGUETE DARO_2018  : Data Progress ( 83.33 % ) 
+-------------------------------
+
+Log Entry : 2:19:29 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDARH - DES-DUMAGUETE DARO 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:19:32 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDARH - DES-DUMAGUETE DARO 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:19:32 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 11,138.33
+-------------------------------
+
+Log Entry : 2:19:38 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:19:38 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:19:38 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (21 / 24) : DESIDARH - DES-DUMAGUETE DARO_2018  : Data Progress ( 87.5 % ) 
+-------------------------------
+
+Log Entry : 2:19:40 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDARH - DES-DUMAGUETE DARO 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:19:43 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDARH - DES-DUMAGUETE DARO 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:19:43 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,575.33
+-------------------------------
+
+Log Entry : 2:19:48 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:19:49 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:19:49 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (22 / 24) : DESIDARH - DES-DUMAGUETE DARO_2018  : Data Progress ( 91.67 % ) 
+-------------------------------
+
+Log Entry : 2:19:51 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDARH - DES-DUMAGUETE DARO 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:19:54 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDARH - DES-DUMAGUETE DARO 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:19:54 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 10,960.45
+-------------------------------
+
+Log Entry : 2:19:59 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:20:00 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:20:00 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (23 / 24) : DESIDARH - DES-DUMAGUETE DARO_2018  : Data Progress ( 95.83 % ) 
+-------------------------------
+
+Log Entry : 2:20:02 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDARH - DES-DUMAGUETE DARO 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:20:05 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDARH - DES-DUMAGUETE DARO 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:20:05 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,165.75
+-------------------------------
+
+Log Entry : 2:20:10 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:20:10 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIDARH - DES-DUMAGUETE DARO 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:20:11 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (24 / 24) : DESIDARH - DES-DUMAGUETE DARO_2018  : Data Progress ( 100 % ) 
+-------------------------------
+
+Log Entry : 2:20:11 PM Monday, 13 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 2:20:13 PM Monday, 13 May 2019
+  :
+  :DESIDARH - DES-DUMAGUETE DARO Data Preparing ..
+-------------------------------

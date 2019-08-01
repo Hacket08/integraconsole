@@ -1,0 +1,10 @@
+
+Log Entry : 6:50:12 AM Wednesday, 22 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 6:50:14 AM Wednesday, 22 May 2019
+  :
+  :DESIGALE - DES-GALLERIA LUISA Data Preparing ..
+-------------------------------

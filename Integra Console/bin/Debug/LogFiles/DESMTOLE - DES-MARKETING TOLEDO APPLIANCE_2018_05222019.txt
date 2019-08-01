@@ -1,0 +1,10 @@
+
+Log Entry : 7:27:45 AM Wednesday, 22 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 7:27:47 AM Wednesday, 22 May 2019
+  :
+  :DESMTOLE - DES-MARKETING TOLEDO APPLIANCE Data Preparing ..
+-------------------------------

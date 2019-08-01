@@ -1,0 +1,495 @@
+
+Log Entry : 2:31:58 PM Monday, 13 May 2019
+  :
+  :Data Start Reading
+-------------------------------
+
+Log Entry : 2:32:00 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:32:03 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:32:04 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:32:04 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (1 / 24) : DESIDUMS - DES-DUMAGUETE SPAREPARTS_2018  : Data Progress ( 4.17 % ) 
+-------------------------------
+
+Log Entry : 2:32:06 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:32:09 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:32:09 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:32:09 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (2 / 24) : DESIDUMS - DES-DUMAGUETE SPAREPARTS_2018  : Data Progress ( 8.33 % ) 
+-------------------------------
+
+Log Entry : 2:32:11 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:32:14 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:32:14 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:32:14 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (3 / 24) : DESIDUMS - DES-DUMAGUETE SPAREPARTS_2018  : Data Progress ( 12.5 % ) 
+-------------------------------
+
+Log Entry : 2:32:16 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:32:20 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:32:20 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:32:20 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (4 / 24) : DESIDUMS - DES-DUMAGUETE SPAREPARTS_2018  : Data Progress ( 16.67 % ) 
+-------------------------------
+
+Log Entry : 2:32:22 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:32:25 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:32:25 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:32:25 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (5 / 24) : DESIDUMS - DES-DUMAGUETE SPAREPARTS_2018  : Data Progress ( 20.83 % ) 
+-------------------------------
+
+Log Entry : 2:32:27 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:32:30 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:32:31 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:32:31 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (6 / 24) : DESIDUMS - DES-DUMAGUETE SPAREPARTS_2018  : Data Progress ( 25 % ) 
+-------------------------------
+
+Log Entry : 2:32:33 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:32:36 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:32:36 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:32:36 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (7 / 24) : DESIDUMS - DES-DUMAGUETE SPAREPARTS_2018  : Data Progress ( 29.17 % ) 
+-------------------------------
+
+Log Entry : 2:32:38 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:32:41 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:32:42 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:32:42 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (8 / 24) : DESIDUMS - DES-DUMAGUETE SPAREPARTS_2018  : Data Progress ( 33.33 % ) 
+-------------------------------
+
+Log Entry : 2:32:44 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:32:47 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:32:47 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:32:47 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (9 / 24) : DESIDUMS - DES-DUMAGUETE SPAREPARTS_2018  : Data Progress ( 37.5 % ) 
+-------------------------------
+
+Log Entry : 2:32:49 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:32:52 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:32:52 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:32:52 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (10 / 24) : DESIDUMS - DES-DUMAGUETE SPAREPARTS_2018  : Data Progress ( 41.67 % ) 
+-------------------------------
+
+Log Entry : 2:32:54 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:32:57 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:32:58 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:32:58 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (11 / 24) : DESIDUMS - DES-DUMAGUETE SPAREPARTS_2018  : Data Progress ( 45.83 % ) 
+-------------------------------
+
+Log Entry : 2:33:00 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:33:03 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:33:03 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:33:03 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (12 / 24) : DESIDUMS - DES-DUMAGUETE SPAREPARTS_2018  : Data Progress ( 50 % ) 
+-------------------------------
+
+Log Entry : 2:33:05 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:33:08 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:33:09 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:33:09 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (13 / 24) : DESIDUMS - DES-DUMAGUETE SPAREPARTS_2018  : Data Progress ( 54.17 % ) 
+-------------------------------
+
+Log Entry : 2:33:11 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:33:14 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:33:14 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:33:14 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (14 / 24) : DESIDUMS - DES-DUMAGUETE SPAREPARTS_2018  : Data Progress ( 58.33 % ) 
+-------------------------------
+
+Log Entry : 2:33:16 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:33:19 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:33:20 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:33:20 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (15 / 24) : DESIDUMS - DES-DUMAGUETE SPAREPARTS_2018  : Data Progress ( 62.5 % ) 
+-------------------------------
+
+Log Entry : 2:33:22 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:33:25 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:33:25 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:33:25 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (16 / 24) : DESIDUMS - DES-DUMAGUETE SPAREPARTS_2018  : Data Progress ( 66.67 % ) 
+-------------------------------
+
+Log Entry : 2:33:27 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:33:30 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:33:30 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:33:30 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (17 / 24) : DESIDUMS - DES-DUMAGUETE SPAREPARTS_2018  : Data Progress ( 70.83 % ) 
+-------------------------------
+
+Log Entry : 2:33:32 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:33:35 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:33:36 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:33:36 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (18 / 24) : DESIDUMS - DES-DUMAGUETE SPAREPARTS_2018  : Data Progress ( 75 % ) 
+-------------------------------
+
+Log Entry : 2:33:38 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:33:41 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:33:41 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:33:41 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (19 / 24) : DESIDUMS - DES-DUMAGUETE SPAREPARTS_2018  : Data Progress ( 79.17 % ) 
+-------------------------------
+
+Log Entry : 2:33:43 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:33:46 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:33:47 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:33:47 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (20 / 24) : DESIDUMS - DES-DUMAGUETE SPAREPARTS_2018  : Data Progress ( 83.33 % ) 
+-------------------------------
+
+Log Entry : 2:33:49 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:33:52 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:33:52 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:33:52 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (21 / 24) : DESIDUMS - DES-DUMAGUETE SPAREPARTS_2018  : Data Progress ( 87.5 % ) 
+-------------------------------
+
+Log Entry : 2:33:54 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:33:57 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:33:58 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:33:58 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (22 / 24) : DESIDUMS - DES-DUMAGUETE SPAREPARTS_2018  : Data Progress ( 91.67 % ) 
+-------------------------------
+
+Log Entry : 2:34:00 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:34:03 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:34:03 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:34:03 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (23 / 24) : DESIDUMS - DES-DUMAGUETE SPAREPARTS_2018  : Data Progress ( 95.83 % ) 
+-------------------------------
+
+Log Entry : 2:34:05 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:34:08 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIDUMS - DES-DUMAGUETE SPAREPARTS 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:34:08 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:34:09 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (24 / 24) : DESIDUMS - DES-DUMAGUETE SPAREPARTS_2018  : Data Progress ( 100 % ) 
+-------------------------------
+
+Log Entry : 2:34:09 PM Monday, 13 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 2:34:11 PM Monday, 13 May 2019
+  :
+  :DESIDUMS - DES-DUMAGUETE SPAREPARTS Data Preparing ..
+-------------------------------

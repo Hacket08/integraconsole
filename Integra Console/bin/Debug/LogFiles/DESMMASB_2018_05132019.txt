@@ -1,0 +1,120 @@
+
+Log Entry : 4:06:56 PM Monday, 13 May 2019
+  :
+  :DESMMASB Payroll Successfully Posted : 2018-01-A
+-------------------------------
+
+Log Entry : 4:07:07 PM Monday, 13 May 2019
+  :
+  :DESMMASB Payroll Successfully Posted : 2018-01-B
+-------------------------------
+
+Log Entry : 4:07:18 PM Monday, 13 May 2019
+  :
+  :DESMMASB Payroll Successfully Posted : 2018-02-A
+-------------------------------
+
+Log Entry : 4:07:29 PM Monday, 13 May 2019
+  :
+  :DESMMASB Payroll Successfully Posted : 2018-02-B
+-------------------------------
+
+Log Entry : 4:07:40 PM Monday, 13 May 2019
+  :
+  :DESMMASB Payroll Successfully Posted : 2018-03-A
+-------------------------------
+
+Log Entry : 4:07:51 PM Monday, 13 May 2019
+  :
+  :DESMMASB Payroll Successfully Posted : 2018-03-B
+-------------------------------
+
+Log Entry : 4:08:02 PM Monday, 13 May 2019
+  :
+  :DESMMASB Payroll Successfully Posted : 2018-04-A
+-------------------------------
+
+Log Entry : 4:08:13 PM Monday, 13 May 2019
+  :
+  :DESMMASB Payroll Successfully Posted : 2018-04-B
+-------------------------------
+
+Log Entry : 4:08:24 PM Monday, 13 May 2019
+  :
+  :DESMMASB Payroll Successfully Posted : 2018-05-A
+-------------------------------
+
+Log Entry : 4:08:35 PM Monday, 13 May 2019
+  :
+  :DESMMASB Payroll Successfully Posted : 2018-05-B
+-------------------------------
+
+Log Entry : 4:08:46 PM Monday, 13 May 2019
+  :
+  :DESMMASB Payroll Successfully Posted : 2018-06-A
+-------------------------------
+
+Log Entry : 4:08:57 PM Monday, 13 May 2019
+  :
+  :DESMMASB Payroll Successfully Posted : 2018-06-B
+-------------------------------
+
+Log Entry : 4:09:08 PM Monday, 13 May 2019
+  :
+  :DESMMASB Payroll Successfully Posted : 2018-07-A
+-------------------------------
+
+Log Entry : 4:09:18 PM Monday, 13 May 2019
+  :
+  :DESMMASB Payroll Successfully Posted : 2018-07-B
+-------------------------------
+
+Log Entry : 4:09:29 PM Monday, 13 May 2019
+  :
+  :DESMMASB Payroll Successfully Posted : 2018-08-A
+-------------------------------
+
+Log Entry : 4:09:40 PM Monday, 13 May 2019
+  :
+  :DESMMASB Payroll Successfully Posted : 2018-08-B
+-------------------------------
+
+Log Entry : 4:09:56 PM Monday, 13 May 2019
+  :
+  :DESMMASB Payroll Successfully Posted : 2018-09-A
+-------------------------------
+
+Log Entry : 4:10:07 PM Monday, 13 May 2019
+  :
+  :DESMMASB Payroll Successfully Posted : 2018-09-B
+-------------------------------
+
+Log Entry : 4:10:17 PM Monday, 13 May 2019
+  :
+  :DESMMASB Payroll Successfully Posted : 2018-10-A
+-------------------------------
+
+Log Entry : 4:10:28 PM Monday, 13 May 2019
+  :
+  :DESMMASB Payroll Successfully Posted : 2018-10-B
+-------------------------------
+
+Log Entry : 4:10:39 PM Monday, 13 May 2019
+  :
+  :DESMMASB Payroll Successfully Posted : 2018-11-A
+-------------------------------
+
+Log Entry : 4:10:50 PM Monday, 13 May 2019
+  :
+  :DESMMASB Payroll Successfully Posted : 2018-11-B
+-------------------------------
+
+Log Entry : 4:11:01 PM Monday, 13 May 2019
+  :
+  :DESMMASB Payroll Successfully Posted : 2018-12-A
+-------------------------------
+
+Log Entry : 4:11:12 PM Monday, 13 May 2019
+  :
+  :DESMMASB Payroll Successfully Posted : 2018-12-B
+-------------------------------

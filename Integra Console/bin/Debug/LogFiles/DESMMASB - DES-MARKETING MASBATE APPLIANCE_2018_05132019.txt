@@ -1,0 +1,735 @@
+
+Log Entry : 4:06:45 PM Monday, 13 May 2019
+  :
+  :Data Start Reading
+-------------------------------
+
+Log Entry : 4:06:47 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-01-A
+-------------------------------
+
+Log Entry : 4:06:50 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-01-A
+-------------------------------
+
+Log Entry : 4:06:51 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,308.40
+-------------------------------
+
+Log Entry : 4:06:56 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-01-A
+-------------------------------
+
+Log Entry : 4:06:56 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-01-A
+-------------------------------
+
+Log Entry : 4:06:56 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (1 / 24) : DESMMASB - DES-MARKETING MASBATE APPLIANCE_2018  : Data Progress ( 4.17 % ) 
+-------------------------------
+
+Log Entry : 4:06:58 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-01-B
+-------------------------------
+
+Log Entry : 4:07:01 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-01-B
+-------------------------------
+
+Log Entry : 4:07:02 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 4,454.44
+-------------------------------
+
+Log Entry : 4:07:07 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-01-B
+-------------------------------
+
+Log Entry : 4:07:07 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-01-B
+-------------------------------
+
+Log Entry : 4:07:07 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (2 / 24) : DESMMASB - DES-MARKETING MASBATE APPLIANCE_2018  : Data Progress ( 8.33 % ) 
+-------------------------------
+
+Log Entry : 4:07:09 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-02-A
+-------------------------------
+
+Log Entry : 4:07:12 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-02-A
+-------------------------------
+
+Log Entry : 4:07:13 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,015.90
+-------------------------------
+
+Log Entry : 4:07:18 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-02-A
+-------------------------------
+
+Log Entry : 4:07:18 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-02-A
+-------------------------------
+
+Log Entry : 4:07:18 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (3 / 24) : DESMMASB - DES-MARKETING MASBATE APPLIANCE_2018  : Data Progress ( 12.5 % ) 
+-------------------------------
+
+Log Entry : 4:07:20 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-02-B
+-------------------------------
+
+Log Entry : 4:07:23 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-02-B
+-------------------------------
+
+Log Entry : 4:07:24 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 4,186.50
+-------------------------------
+
+Log Entry : 4:07:29 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-02-B
+-------------------------------
+
+Log Entry : 4:07:29 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-02-B
+-------------------------------
+
+Log Entry : 4:07:29 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (4 / 24) : DESMMASB - DES-MARKETING MASBATE APPLIANCE_2018  : Data Progress ( 16.67 % ) 
+-------------------------------
+
+Log Entry : 4:07:31 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-03-A
+-------------------------------
+
+Log Entry : 4:07:34 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-03-A
+-------------------------------
+
+Log Entry : 4:07:35 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,385.00
+-------------------------------
+
+Log Entry : 4:07:40 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-03-A
+-------------------------------
+
+Log Entry : 4:07:40 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-03-A
+-------------------------------
+
+Log Entry : 4:07:40 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (5 / 24) : DESMMASB - DES-MARKETING MASBATE APPLIANCE_2018  : Data Progress ( 20.83 % ) 
+-------------------------------
+
+Log Entry : 4:07:42 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-03-B
+-------------------------------
+
+Log Entry : 4:07:45 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-03-B
+-------------------------------
+
+Log Entry : 4:07:46 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 3,686.50
+-------------------------------
+
+Log Entry : 4:07:51 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-03-B
+-------------------------------
+
+Log Entry : 4:07:51 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-03-B
+-------------------------------
+
+Log Entry : 4:07:51 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (6 / 24) : DESMMASB - DES-MARKETING MASBATE APPLIANCE_2018  : Data Progress ( 25 % ) 
+-------------------------------
+
+Log Entry : 4:07:53 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-04-A
+-------------------------------
+
+Log Entry : 4:07:56 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-04-A
+-------------------------------
+
+Log Entry : 4:07:57 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,486.40
+-------------------------------
+
+Log Entry : 4:08:02 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-04-A
+-------------------------------
+
+Log Entry : 4:08:02 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-04-A
+-------------------------------
+
+Log Entry : 4:08:02 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (7 / 24) : DESMMASB - DES-MARKETING MASBATE APPLIANCE_2018  : Data Progress ( 29.17 % ) 
+-------------------------------
+
+Log Entry : 4:08:04 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-04-B
+-------------------------------
+
+Log Entry : 4:08:07 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-04-B
+-------------------------------
+
+Log Entry : 4:08:08 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 3,522.00
+-------------------------------
+
+Log Entry : 4:08:13 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-04-B
+-------------------------------
+
+Log Entry : 4:08:13 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-04-B
+-------------------------------
+
+Log Entry : 4:08:13 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (8 / 24) : DESMMASB - DES-MARKETING MASBATE APPLIANCE_2018  : Data Progress ( 33.33 % ) 
+-------------------------------
+
+Log Entry : 4:08:15 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-05-A
+-------------------------------
+
+Log Entry : 4:08:18 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-05-A
+-------------------------------
+
+Log Entry : 4:08:19 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,736.40
+-------------------------------
+
+Log Entry : 4:08:24 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-05-A
+-------------------------------
+
+Log Entry : 4:08:24 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-05-A
+-------------------------------
+
+Log Entry : 4:08:24 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (9 / 24) : DESMMASB - DES-MARKETING MASBATE APPLIANCE_2018  : Data Progress ( 37.5 % ) 
+-------------------------------
+
+Log Entry : 4:08:26 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-05-B
+-------------------------------
+
+Log Entry : 4:08:29 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-05-B
+-------------------------------
+
+Log Entry : 4:08:29 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 3,772.00
+-------------------------------
+
+Log Entry : 4:08:34 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-05-B
+-------------------------------
+
+Log Entry : 4:08:35 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-05-B
+-------------------------------
+
+Log Entry : 4:08:35 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (10 / 24) : DESMMASB - DES-MARKETING MASBATE APPLIANCE_2018  : Data Progress ( 41.67 % ) 
+-------------------------------
+
+Log Entry : 4:08:37 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-06-A
+-------------------------------
+
+Log Entry : 4:08:40 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-06-A
+-------------------------------
+
+Log Entry : 4:08:40 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,364.90
+-------------------------------
+
+Log Entry : 4:08:45 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-06-A
+-------------------------------
+
+Log Entry : 4:08:46 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-06-A
+-------------------------------
+
+Log Entry : 4:08:46 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (11 / 24) : DESMMASB - DES-MARKETING MASBATE APPLIANCE_2018  : Data Progress ( 45.83 % ) 
+-------------------------------
+
+Log Entry : 4:08:48 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-06-B
+-------------------------------
+
+Log Entry : 4:08:51 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-06-B
+-------------------------------
+
+Log Entry : 4:08:51 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 4,400.50
+-------------------------------
+
+Log Entry : 4:08:56 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-06-B
+-------------------------------
+
+Log Entry : 4:08:57 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-06-B
+-------------------------------
+
+Log Entry : 4:08:57 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (12 / 24) : DESMMASB - DES-MARKETING MASBATE APPLIANCE_2018  : Data Progress ( 50 % ) 
+-------------------------------
+
+Log Entry : 4:08:59 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-07-A
+-------------------------------
+
+Log Entry : 4:09:02 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-07-A
+-------------------------------
+
+Log Entry : 4:09:02 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,025.70
+-------------------------------
+
+Log Entry : 4:09:07 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-07-A
+-------------------------------
+
+Log Entry : 4:09:08 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-07-A
+-------------------------------
+
+Log Entry : 4:09:08 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (13 / 24) : DESMMASB - DES-MARKETING MASBATE APPLIANCE_2018  : Data Progress ( 54.17 % ) 
+-------------------------------
+
+Log Entry : 4:09:10 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-07-B
+-------------------------------
+
+Log Entry : 4:09:13 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-07-B
+-------------------------------
+
+Log Entry : 4:09:13 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 4,747.50
+-------------------------------
+
+Log Entry : 4:09:18 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-07-B
+-------------------------------
+
+Log Entry : 4:09:18 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-07-B
+-------------------------------
+
+Log Entry : 4:09:19 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (14 / 24) : DESMMASB - DES-MARKETING MASBATE APPLIANCE_2018  : Data Progress ( 58.33 % ) 
+-------------------------------
+
+Log Entry : 4:09:21 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-08-A
+-------------------------------
+
+Log Entry : 4:09:24 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-08-A
+-------------------------------
+
+Log Entry : 4:09:24 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,625.52
+-------------------------------
+
+Log Entry : 4:09:29 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-08-A
+-------------------------------
+
+Log Entry : 4:09:29 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-08-A
+-------------------------------
+
+Log Entry : 4:09:29 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (15 / 24) : DESMMASB - DES-MARKETING MASBATE APPLIANCE_2018  : Data Progress ( 62.5 % ) 
+-------------------------------
+
+Log Entry : 4:09:31 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-08-B
+-------------------------------
+
+Log Entry : 4:09:34 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-08-B
+-------------------------------
+
+Log Entry : 4:09:35 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,945.50
+-------------------------------
+
+Log Entry : 4:09:40 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-08-B
+-------------------------------
+
+Log Entry : 4:09:40 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-08-B
+-------------------------------
+
+Log Entry : 4:09:40 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (16 / 24) : DESMMASB - DES-MARKETING MASBATE APPLIANCE_2018  : Data Progress ( 66.67 % ) 
+-------------------------------
+
+Log Entry : 4:09:42 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-09-A
+-------------------------------
+
+Log Entry : 4:09:45 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-09-A
+-------------------------------
+
+Log Entry : 4:09:46 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 10,078.60
+-------------------------------
+
+Log Entry : 4:09:51 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-09-A
+-------------------------------
+
+Log Entry : 4:09:56 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-09-A
+-------------------------------
+
+Log Entry : 4:09:56 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (17 / 24) : DESMMASB - DES-MARKETING MASBATE APPLIANCE_2018  : Data Progress ( 70.83 % ) 
+-------------------------------
+
+Log Entry : 4:09:58 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-09-B
+-------------------------------
+
+Log Entry : 4:10:01 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-09-B
+-------------------------------
+
+Log Entry : 4:10:01 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,945.50
+-------------------------------
+
+Log Entry : 4:10:06 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-09-B
+-------------------------------
+
+Log Entry : 4:10:07 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-09-B
+-------------------------------
+
+Log Entry : 4:10:07 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (18 / 24) : DESMMASB - DES-MARKETING MASBATE APPLIANCE_2018  : Data Progress ( 75 % ) 
+-------------------------------
+
+Log Entry : 4:10:09 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-10-A
+-------------------------------
+
+Log Entry : 4:10:12 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-10-A
+-------------------------------
+
+Log Entry : 4:10:12 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,898.90
+-------------------------------
+
+Log Entry : 4:10:17 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-10-A
+-------------------------------
+
+Log Entry : 4:10:17 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-10-A
+-------------------------------
+
+Log Entry : 4:10:17 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (19 / 24) : DESMMASB - DES-MARKETING MASBATE APPLIANCE_2018  : Data Progress ( 79.17 % ) 
+-------------------------------
+
+Log Entry : 4:10:19 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-10-B
+-------------------------------
+
+Log Entry : 4:10:23 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-10-B
+-------------------------------
+
+Log Entry : 4:10:23 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,945.50
+-------------------------------
+
+Log Entry : 4:10:28 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-10-B
+-------------------------------
+
+Log Entry : 4:10:28 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-10-B
+-------------------------------
+
+Log Entry : 4:10:28 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (20 / 24) : DESMMASB - DES-MARKETING MASBATE APPLIANCE_2018  : Data Progress ( 83.33 % ) 
+-------------------------------
+
+Log Entry : 4:10:30 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-11-A
+-------------------------------
+
+Log Entry : 4:10:33 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-11-A
+-------------------------------
+
+Log Entry : 4:10:34 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 10,798.30
+-------------------------------
+
+Log Entry : 4:10:39 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-11-A
+-------------------------------
+
+Log Entry : 4:10:39 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-11-A
+-------------------------------
+
+Log Entry : 4:10:39 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (21 / 24) : DESMMASB - DES-MARKETING MASBATE APPLIANCE_2018  : Data Progress ( 87.5 % ) 
+-------------------------------
+
+Log Entry : 4:10:41 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-11-B
+-------------------------------
+
+Log Entry : 4:10:44 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-11-B
+-------------------------------
+
+Log Entry : 4:10:45 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,220.50
+-------------------------------
+
+Log Entry : 4:10:50 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-11-B
+-------------------------------
+
+Log Entry : 4:10:50 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-11-B
+-------------------------------
+
+Log Entry : 4:10:50 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (22 / 24) : DESMMASB - DES-MARKETING MASBATE APPLIANCE_2018  : Data Progress ( 91.67 % ) 
+-------------------------------
+
+Log Entry : 4:10:52 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 4:10:55 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 4:10:56 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 13,835.10
+-------------------------------
+
+Log Entry : 4:11:01 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 4:11:01 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 4:11:01 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (23 / 24) : DESMMASB - DES-MARKETING MASBATE APPLIANCE_2018  : Data Progress ( 95.83 % ) 
+-------------------------------
+
+Log Entry : 4:11:03 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 4:11:06 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 4:11:07 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,925.00
+-------------------------------
+
+Log Entry : 4:11:12 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 4:11:12 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMMASB - DES-MARKETING MASBATE APPLIANCE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 4:11:12 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (24 / 24) : DESMMASB - DES-MARKETING MASBATE APPLIANCE_2018  : Data Progress ( 100 % ) 
+-------------------------------
+
+Log Entry : 4:11:12 PM Monday, 13 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 4:11:14 PM Monday, 13 May 2019
+  :
+  :DESMMASB - DES-MARKETING MASBATE APPLIANCE Data Preparing ..
+-------------------------------

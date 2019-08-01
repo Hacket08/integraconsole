@@ -1,0 +1,735 @@
+
+Log Entry : 2:38:59 PM Monday, 13 May 2019
+  :
+  :Data Start Reading
+-------------------------------
+
+Log Entry : 2:39:01 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINH - DES-HINIGARAN MC 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:39:04 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINH - DES-HINIGARAN MC 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:39:05 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 19,776.68
+-------------------------------
+
+Log Entry : 2:39:10 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:39:11 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:39:11 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (1 / 24) : DESIHINH - DES-HINIGARAN MC_2018  : Data Progress ( 4.17 % ) 
+-------------------------------
+
+Log Entry : 2:39:13 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINH - DES-HINIGARAN MC 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:39:16 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINH - DES-HINIGARAN MC 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:39:16 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 13,999.96
+-------------------------------
+
+Log Entry : 2:39:21 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:39:22 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:39:22 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (2 / 24) : DESIHINH - DES-HINIGARAN MC_2018  : Data Progress ( 8.33 % ) 
+-------------------------------
+
+Log Entry : 2:39:24 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINH - DES-HINIGARAN MC 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:39:27 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINH - DES-HINIGARAN MC 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:39:27 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 19,378.18
+-------------------------------
+
+Log Entry : 2:39:32 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:39:33 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:39:33 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (3 / 24) : DESIHINH - DES-HINIGARAN MC_2018  : Data Progress ( 12.5 % ) 
+-------------------------------
+
+Log Entry : 2:39:35 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINH - DES-HINIGARAN MC 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:39:38 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINH - DES-HINIGARAN MC 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:39:38 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 14,256.45
+-------------------------------
+
+Log Entry : 2:39:43 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:39:43 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:39:43 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (4 / 24) : DESIHINH - DES-HINIGARAN MC_2018  : Data Progress ( 16.67 % ) 
+-------------------------------
+
+Log Entry : 2:39:45 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINH - DES-HINIGARAN MC 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:39:49 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINH - DES-HINIGARAN MC 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:39:49 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 19,846.76
+-------------------------------
+
+Log Entry : 2:39:54 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:39:54 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:39:54 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (5 / 24) : DESIHINH - DES-HINIGARAN MC_2018  : Data Progress ( 20.83 % ) 
+-------------------------------
+
+Log Entry : 2:39:56 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINH - DES-HINIGARAN MC 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:39:59 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINH - DES-HINIGARAN MC 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:40:00 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 14,010.45
+-------------------------------
+
+Log Entry : 2:40:05 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:40:05 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:40:05 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (6 / 24) : DESIHINH - DES-HINIGARAN MC_2018  : Data Progress ( 25 % ) 
+-------------------------------
+
+Log Entry : 2:40:07 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINH - DES-HINIGARAN MC 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:40:10 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINH - DES-HINIGARAN MC 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:40:12 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 20,531.80
+-------------------------------
+
+Log Entry : 2:40:17 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:40:17 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:40:17 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (7 / 24) : DESIHINH - DES-HINIGARAN MC_2018  : Data Progress ( 29.17 % ) 
+-------------------------------
+
+Log Entry : 2:40:19 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINH - DES-HINIGARAN MC 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:40:22 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINH - DES-HINIGARAN MC 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:40:23 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 15,402.87
+-------------------------------
+
+Log Entry : 2:40:28 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:40:28 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:40:28 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (8 / 24) : DESIHINH - DES-HINIGARAN MC_2018  : Data Progress ( 33.33 % ) 
+-------------------------------
+
+Log Entry : 2:40:30 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINH - DES-HINIGARAN MC 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:40:33 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINH - DES-HINIGARAN MC 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:40:34 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 20,736.80
+-------------------------------
+
+Log Entry : 2:40:39 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:40:39 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:40:39 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (9 / 24) : DESIHINH - DES-HINIGARAN MC_2018  : Data Progress ( 37.5 % ) 
+-------------------------------
+
+Log Entry : 2:40:41 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINH - DES-HINIGARAN MC 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:40:44 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINH - DES-HINIGARAN MC 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:40:45 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 14,445.95
+-------------------------------
+
+Log Entry : 2:40:50 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:40:50 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:40:50 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (10 / 24) : DESIHINH - DES-HINIGARAN MC_2018  : Data Progress ( 41.67 % ) 
+-------------------------------
+
+Log Entry : 2:40:52 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINH - DES-HINIGARAN MC 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:40:55 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINH - DES-HINIGARAN MC 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:40:56 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 19,965.38
+-------------------------------
+
+Log Entry : 2:41:01 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:41:01 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:41:01 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (11 / 24) : DESIHINH - DES-HINIGARAN MC_2018  : Data Progress ( 45.83 % ) 
+-------------------------------
+
+Log Entry : 2:41:03 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINH - DES-HINIGARAN MC 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:41:06 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINH - DES-HINIGARAN MC 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:41:06 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 14,427.62
+-------------------------------
+
+Log Entry : 2:41:12 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:41:12 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:41:12 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (12 / 24) : DESIHINH - DES-HINIGARAN MC_2018  : Data Progress ( 50 % ) 
+-------------------------------
+
+Log Entry : 2:41:14 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINH - DES-HINIGARAN MC 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:41:17 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINH - DES-HINIGARAN MC 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:41:17 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 19,319.18
+-------------------------------
+
+Log Entry : 2:41:23 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:41:23 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:41:23 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (13 / 24) : DESIHINH - DES-HINIGARAN MC_2018  : Data Progress ( 54.17 % ) 
+-------------------------------
+
+Log Entry : 2:41:25 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINH - DES-HINIGARAN MC 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:41:28 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINH - DES-HINIGARAN MC 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:41:28 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 12,584.62
+-------------------------------
+
+Log Entry : 2:41:33 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:41:34 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:41:34 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (14 / 24) : DESIHINH - DES-HINIGARAN MC_2018  : Data Progress ( 58.33 % ) 
+-------------------------------
+
+Log Entry : 2:41:36 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINH - DES-HINIGARAN MC 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:41:39 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINH - DES-HINIGARAN MC 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:41:39 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 20,581.48
+-------------------------------
+
+Log Entry : 2:41:44 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:41:45 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:41:45 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (15 / 24) : DESIHINH - DES-HINIGARAN MC_2018  : Data Progress ( 62.5 % ) 
+-------------------------------
+
+Log Entry : 2:41:47 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINH - DES-HINIGARAN MC 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:41:50 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINH - DES-HINIGARAN MC 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:41:50 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 14,416.58
+-------------------------------
+
+Log Entry : 2:41:55 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:41:55 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:41:55 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (16 / 24) : DESIHINH - DES-HINIGARAN MC_2018  : Data Progress ( 66.67 % ) 
+-------------------------------
+
+Log Entry : 2:41:57 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINH - DES-HINIGARAN MC 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:42:00 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINH - DES-HINIGARAN MC 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:42:01 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 21,139.78
+-------------------------------
+
+Log Entry : 2:42:06 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:42:06 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:42:06 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (17 / 24) : DESIHINH - DES-HINIGARAN MC_2018  : Data Progress ( 70.83 % ) 
+-------------------------------
+
+Log Entry : 2:42:08 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINH - DES-HINIGARAN MC 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:42:11 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINH - DES-HINIGARAN MC 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:42:12 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 15,054.08
+-------------------------------
+
+Log Entry : 2:42:17 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:42:17 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:42:17 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (18 / 24) : DESIHINH - DES-HINIGARAN MC_2018  : Data Progress ( 75 % ) 
+-------------------------------
+
+Log Entry : 2:42:19 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINH - DES-HINIGARAN MC 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:42:22 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINH - DES-HINIGARAN MC 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:42:23 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 21,646.48
+-------------------------------
+
+Log Entry : 2:42:28 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:42:29 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:42:29 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (19 / 24) : DESIHINH - DES-HINIGARAN MC_2018  : Data Progress ( 79.17 % ) 
+-------------------------------
+
+Log Entry : 2:42:31 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINH - DES-HINIGARAN MC 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:42:34 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINH - DES-HINIGARAN MC 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:42:34 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 13,298.58
+-------------------------------
+
+Log Entry : 2:42:39 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:42:40 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:42:40 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (20 / 24) : DESIHINH - DES-HINIGARAN MC_2018  : Data Progress ( 83.33 % ) 
+-------------------------------
+
+Log Entry : 2:42:42 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINH - DES-HINIGARAN MC 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:42:45 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINH - DES-HINIGARAN MC 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:42:45 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 20,611.78
+-------------------------------
+
+Log Entry : 2:42:50 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:42:51 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:42:51 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (21 / 24) : DESIHINH - DES-HINIGARAN MC_2018  : Data Progress ( 87.5 % ) 
+-------------------------------
+
+Log Entry : 2:42:53 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINH - DES-HINIGARAN MC 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:42:56 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINH - DES-HINIGARAN MC 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:42:56 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 11,977.34
+-------------------------------
+
+Log Entry : 2:43:01 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:43:02 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:43:02 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (22 / 24) : DESIHINH - DES-HINIGARAN MC_2018  : Data Progress ( 91.67 % ) 
+-------------------------------
+
+Log Entry : 2:43:04 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINH - DES-HINIGARAN MC 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:43:07 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINH - DES-HINIGARAN MC 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:43:07 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 18,573.35
+-------------------------------
+
+Log Entry : 2:43:12 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:43:13 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:43:13 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (23 / 24) : DESIHINH - DES-HINIGARAN MC_2018  : Data Progress ( 95.83 % ) 
+-------------------------------
+
+Log Entry : 2:43:15 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIHINH - DES-HINIGARAN MC 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:43:18 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIHINH - DES-HINIGARAN MC 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:43:18 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 11,609.01
+-------------------------------
+
+Log Entry : 2:43:23 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:43:23 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIHINH - DES-HINIGARAN MC 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:43:23 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (24 / 24) : DESIHINH - DES-HINIGARAN MC_2018  : Data Progress ( 100 % ) 
+-------------------------------
+
+Log Entry : 2:43:23 PM Monday, 13 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 2:43:25 PM Monday, 13 May 2019
+  :
+  :DESIHINH - DES-HINIGARAN MC Data Preparing ..
+-------------------------------

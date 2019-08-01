@@ -1,0 +1,735 @@
+
+Log Entry : 3:07:23 PM Monday, 13 May 2019
+  :
+  :Data Start Reading
+-------------------------------
+
+Log Entry : 3:07:25 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIBH - DES-SIBULAN 2018 2018-01-A
+-------------------------------
+
+Log Entry : 3:07:28 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIBH - DES-SIBULAN 2018 2018-01-A
+-------------------------------
+
+Log Entry : 3:07:29 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,149.41
+-------------------------------
+
+Log Entry : 3:07:34 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-01-A
+-------------------------------
+
+Log Entry : 3:07:34 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-01-A
+-------------------------------
+
+Log Entry : 3:07:34 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (1 / 24) : DESISIBH - DES-SIBULAN_2018  : Data Progress ( 4.17 % ) 
+-------------------------------
+
+Log Entry : 3:07:36 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIBH - DES-SIBULAN 2018 2018-01-B
+-------------------------------
+
+Log Entry : 3:07:39 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIBH - DES-SIBULAN 2018 2018-01-B
+-------------------------------
+
+Log Entry : 3:07:40 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 4,149.31
+-------------------------------
+
+Log Entry : 3:07:45 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-01-B
+-------------------------------
+
+Log Entry : 3:07:45 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-01-B
+-------------------------------
+
+Log Entry : 3:07:45 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (2 / 24) : DESISIBH - DES-SIBULAN_2018  : Data Progress ( 8.33 % ) 
+-------------------------------
+
+Log Entry : 3:07:47 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIBH - DES-SIBULAN 2018 2018-02-A
+-------------------------------
+
+Log Entry : 3:07:50 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIBH - DES-SIBULAN 2018 2018-02-A
+-------------------------------
+
+Log Entry : 3:07:51 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,149.41
+-------------------------------
+
+Log Entry : 3:07:56 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-02-A
+-------------------------------
+
+Log Entry : 3:07:56 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-02-A
+-------------------------------
+
+Log Entry : 3:07:56 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (3 / 24) : DESISIBH - DES-SIBULAN_2018  : Data Progress ( 12.5 % ) 
+-------------------------------
+
+Log Entry : 3:07:58 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIBH - DES-SIBULAN 2018 2018-02-B
+-------------------------------
+
+Log Entry : 3:08:01 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIBH - DES-SIBULAN 2018 2018-02-B
+-------------------------------
+
+Log Entry : 3:08:01 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 4,149.31
+-------------------------------
+
+Log Entry : 3:08:07 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-02-B
+-------------------------------
+
+Log Entry : 3:08:07 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-02-B
+-------------------------------
+
+Log Entry : 3:08:07 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (4 / 24) : DESISIBH - DES-SIBULAN_2018  : Data Progress ( 16.67 % ) 
+-------------------------------
+
+Log Entry : 3:08:09 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIBH - DES-SIBULAN 2018 2018-03-A
+-------------------------------
+
+Log Entry : 3:08:12 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIBH - DES-SIBULAN 2018 2018-03-A
+-------------------------------
+
+Log Entry : 3:08:12 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,152.41
+-------------------------------
+
+Log Entry : 3:08:17 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-03-A
+-------------------------------
+
+Log Entry : 3:08:18 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-03-A
+-------------------------------
+
+Log Entry : 3:08:18 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (5 / 24) : DESISIBH - DES-SIBULAN_2018  : Data Progress ( 20.83 % ) 
+-------------------------------
+
+Log Entry : 3:08:20 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIBH - DES-SIBULAN 2018 2018-03-B
+-------------------------------
+
+Log Entry : 3:08:23 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIBH - DES-SIBULAN 2018 2018-03-B
+-------------------------------
+
+Log Entry : 3:08:24 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 4,149.31
+-------------------------------
+
+Log Entry : 3:08:29 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-03-B
+-------------------------------
+
+Log Entry : 3:08:29 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-03-B
+-------------------------------
+
+Log Entry : 3:08:29 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (6 / 24) : DESISIBH - DES-SIBULAN_2018  : Data Progress ( 25 % ) 
+-------------------------------
+
+Log Entry : 3:08:31 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIBH - DES-SIBULAN 2018 2018-04-A
+-------------------------------
+
+Log Entry : 3:08:34 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIBH - DES-SIBULAN 2018 2018-04-A
+-------------------------------
+
+Log Entry : 3:08:35 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,488.61
+-------------------------------
+
+Log Entry : 3:08:40 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-04-A
+-------------------------------
+
+Log Entry : 3:08:40 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-04-A
+-------------------------------
+
+Log Entry : 3:08:40 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (7 / 24) : DESISIBH - DES-SIBULAN_2018  : Data Progress ( 29.17 % ) 
+-------------------------------
+
+Log Entry : 3:08:42 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIBH - DES-SIBULAN 2018 2018-04-B
+-------------------------------
+
+Log Entry : 3:08:45 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIBH - DES-SIBULAN 2018 2018-04-B
+-------------------------------
+
+Log Entry : 3:08:45 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 3,826.81
+-------------------------------
+
+Log Entry : 3:08:51 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-04-B
+-------------------------------
+
+Log Entry : 3:08:51 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-04-B
+-------------------------------
+
+Log Entry : 3:08:51 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (8 / 24) : DESISIBH - DES-SIBULAN_2018  : Data Progress ( 33.33 % ) 
+-------------------------------
+
+Log Entry : 3:08:53 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIBH - DES-SIBULAN 2018 2018-05-A
+-------------------------------
+
+Log Entry : 3:08:56 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIBH - DES-SIBULAN 2018 2018-05-A
+-------------------------------
+
+Log Entry : 3:08:56 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,488.61
+-------------------------------
+
+Log Entry : 3:09:01 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-05-A
+-------------------------------
+
+Log Entry : 3:09:02 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-05-A
+-------------------------------
+
+Log Entry : 3:09:02 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (9 / 24) : DESISIBH - DES-SIBULAN_2018  : Data Progress ( 37.5 % ) 
+-------------------------------
+
+Log Entry : 3:09:04 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIBH - DES-SIBULAN 2018 2018-05-B
+-------------------------------
+
+Log Entry : 3:09:07 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIBH - DES-SIBULAN 2018 2018-05-B
+-------------------------------
+
+Log Entry : 3:09:07 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 3,826.81
+-------------------------------
+
+Log Entry : 3:09:12 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-05-B
+-------------------------------
+
+Log Entry : 3:09:12 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-05-B
+-------------------------------
+
+Log Entry : 3:09:12 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (10 / 24) : DESISIBH - DES-SIBULAN_2018  : Data Progress ( 41.67 % ) 
+-------------------------------
+
+Log Entry : 3:09:14 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIBH - DES-SIBULAN 2018 2018-06-A
+-------------------------------
+
+Log Entry : 3:09:17 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIBH - DES-SIBULAN 2018 2018-06-A
+-------------------------------
+
+Log Entry : 3:09:18 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 4,031.61
+-------------------------------
+
+Log Entry : 3:09:23 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-06-A
+-------------------------------
+
+Log Entry : 3:09:23 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-06-A
+-------------------------------
+
+Log Entry : 3:09:23 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (11 / 24) : DESISIBH - DES-SIBULAN_2018  : Data Progress ( 45.83 % ) 
+-------------------------------
+
+Log Entry : 3:09:25 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIBH - DES-SIBULAN 2018 2018-06-B
+-------------------------------
+
+Log Entry : 3:09:28 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIBH - DES-SIBULAN 2018 2018-06-B
+-------------------------------
+
+Log Entry : 3:09:29 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 2,369.81
+-------------------------------
+
+Log Entry : 3:09:34 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-06-B
+-------------------------------
+
+Log Entry : 3:09:34 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-06-B
+-------------------------------
+
+Log Entry : 3:09:34 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (12 / 24) : DESISIBH - DES-SIBULAN_2018  : Data Progress ( 50 % ) 
+-------------------------------
+
+Log Entry : 3:09:36 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIBH - DES-SIBULAN 2018 2018-07-A
+-------------------------------
+
+Log Entry : 3:09:39 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIBH - DES-SIBULAN 2018 2018-07-A
+-------------------------------
+
+Log Entry : 3:09:40 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 4,031.61
+-------------------------------
+
+Log Entry : 3:09:45 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-07-A
+-------------------------------
+
+Log Entry : 3:09:45 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-07-A
+-------------------------------
+
+Log Entry : 3:09:45 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (13 / 24) : DESISIBH - DES-SIBULAN_2018  : Data Progress ( 54.17 % ) 
+-------------------------------
+
+Log Entry : 3:09:47 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIBH - DES-SIBULAN 2018 2018-07-B
+-------------------------------
+
+Log Entry : 3:09:50 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIBH - DES-SIBULAN 2018 2018-07-B
+-------------------------------
+
+Log Entry : 3:09:51 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 3,202.31
+-------------------------------
+
+Log Entry : 3:09:56 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-07-B
+-------------------------------
+
+Log Entry : 3:09:56 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-07-B
+-------------------------------
+
+Log Entry : 3:09:56 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (14 / 24) : DESISIBH - DES-SIBULAN_2018  : Data Progress ( 58.33 % ) 
+-------------------------------
+
+Log Entry : 3:09:58 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIBH - DES-SIBULAN 2018 2018-08-A
+-------------------------------
+
+Log Entry : 3:10:01 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIBH - DES-SIBULAN 2018 2018-08-A
+-------------------------------
+
+Log Entry : 3:10:01 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,468.91
+-------------------------------
+
+Log Entry : 3:10:06 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-08-A
+-------------------------------
+
+Log Entry : 3:10:07 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-08-A
+-------------------------------
+
+Log Entry : 3:10:07 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (15 / 24) : DESISIBH - DES-SIBULAN_2018  : Data Progress ( 62.5 % ) 
+-------------------------------
+
+Log Entry : 3:10:09 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIBH - DES-SIBULAN 2018 2018-08-B
+-------------------------------
+
+Log Entry : 3:10:12 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIBH - DES-SIBULAN 2018 2018-08-B
+-------------------------------
+
+Log Entry : 3:10:12 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 3,339.81
+-------------------------------
+
+Log Entry : 3:10:17 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-08-B
+-------------------------------
+
+Log Entry : 3:10:17 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-08-B
+-------------------------------
+
+Log Entry : 3:10:17 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (16 / 24) : DESISIBH - DES-SIBULAN_2018  : Data Progress ( 66.67 % ) 
+-------------------------------
+
+Log Entry : 3:10:20 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIBH - DES-SIBULAN 2018 2018-09-A
+-------------------------------
+
+Log Entry : 3:10:23 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIBH - DES-SIBULAN 2018 2018-09-A
+-------------------------------
+
+Log Entry : 3:10:23 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,468.91
+-------------------------------
+
+Log Entry : 3:10:28 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-09-A
+-------------------------------
+
+Log Entry : 3:10:28 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-09-A
+-------------------------------
+
+Log Entry : 3:10:28 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (17 / 24) : DESISIBH - DES-SIBULAN_2018  : Data Progress ( 70.83 % ) 
+-------------------------------
+
+Log Entry : 3:10:30 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIBH - DES-SIBULAN 2018 2018-09-B
+-------------------------------
+
+Log Entry : 3:10:33 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIBH - DES-SIBULAN 2018 2018-09-B
+-------------------------------
+
+Log Entry : 3:10:34 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 3,339.81
+-------------------------------
+
+Log Entry : 3:10:39 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-09-B
+-------------------------------
+
+Log Entry : 3:10:39 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-09-B
+-------------------------------
+
+Log Entry : 3:10:39 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (18 / 24) : DESISIBH - DES-SIBULAN_2018  : Data Progress ( 75 % ) 
+-------------------------------
+
+Log Entry : 3:10:41 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIBH - DES-SIBULAN 2018 2018-10-A
+-------------------------------
+
+Log Entry : 3:10:44 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIBH - DES-SIBULAN 2018 2018-10-A
+-------------------------------
+
+Log Entry : 3:10:45 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,092.41
+-------------------------------
+
+Log Entry : 3:10:50 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-10-A
+-------------------------------
+
+Log Entry : 3:10:50 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-10-A
+-------------------------------
+
+Log Entry : 3:10:50 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (19 / 24) : DESISIBH - DES-SIBULAN_2018  : Data Progress ( 79.17 % ) 
+-------------------------------
+
+Log Entry : 3:10:52 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIBH - DES-SIBULAN 2018 2018-10-B
+-------------------------------
+
+Log Entry : 3:10:55 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIBH - DES-SIBULAN 2018 2018-10-B
+-------------------------------
+
+Log Entry : 3:10:56 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 2,963.31
+-------------------------------
+
+Log Entry : 3:11:01 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-10-B
+-------------------------------
+
+Log Entry : 3:11:01 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-10-B
+-------------------------------
+
+Log Entry : 3:11:01 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (20 / 24) : DESISIBH - DES-SIBULAN_2018  : Data Progress ( 83.33 % ) 
+-------------------------------
+
+Log Entry : 3:11:03 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIBH - DES-SIBULAN 2018 2018-11-A
+-------------------------------
+
+Log Entry : 3:11:06 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIBH - DES-SIBULAN 2018 2018-11-A
+-------------------------------
+
+Log Entry : 3:11:06 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,289.41
+-------------------------------
+
+Log Entry : 3:11:11 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-11-A
+-------------------------------
+
+Log Entry : 3:11:12 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-11-A
+-------------------------------
+
+Log Entry : 3:11:12 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (21 / 24) : DESISIBH - DES-SIBULAN_2018  : Data Progress ( 87.5 % ) 
+-------------------------------
+
+Log Entry : 3:11:14 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIBH - DES-SIBULAN 2018 2018-11-B
+-------------------------------
+
+Log Entry : 3:11:17 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIBH - DES-SIBULAN 2018 2018-11-B
+-------------------------------
+
+Log Entry : 3:11:17 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 3,160.31
+-------------------------------
+
+Log Entry : 3:11:22 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-11-B
+-------------------------------
+
+Log Entry : 3:11:22 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-11-B
+-------------------------------
+
+Log Entry : 3:11:23 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (22 / 24) : DESISIBH - DES-SIBULAN_2018  : Data Progress ( 91.67 % ) 
+-------------------------------
+
+Log Entry : 3:11:25 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIBH - DES-SIBULAN 2018 2018-12-A
+-------------------------------
+
+Log Entry : 3:11:28 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIBH - DES-SIBULAN 2018 2018-12-A
+-------------------------------
+
+Log Entry : 3:11:28 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,289.41
+-------------------------------
+
+Log Entry : 3:11:33 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-12-A
+-------------------------------
+
+Log Entry : 3:11:33 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-12-A
+-------------------------------
+
+Log Entry : 3:11:33 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (23 / 24) : DESISIBH - DES-SIBULAN_2018  : Data Progress ( 95.83 % ) 
+-------------------------------
+
+Log Entry : 3:11:35 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESISIBH - DES-SIBULAN 2018 2018-12-B
+-------------------------------
+
+Log Entry : 3:11:38 PM Monday, 13 May 2019
+  :
+  :Data Generation DESISIBH - DES-SIBULAN 2018 2018-12-B
+-------------------------------
+
+Log Entry : 3:11:39 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 3,160.07
+-------------------------------
+
+Log Entry : 3:11:44 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-12-B
+-------------------------------
+
+Log Entry : 3:11:44 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESISIBH - DES-SIBULAN 2018 2018-12-B
+-------------------------------
+
+Log Entry : 3:11:44 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (24 / 24) : DESISIBH - DES-SIBULAN_2018  : Data Progress ( 100 % ) 
+-------------------------------
+
+Log Entry : 3:11:44 PM Monday, 13 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 3:11:46 PM Monday, 13 May 2019
+  :
+  :DESISIBH - DES-SIBULAN Data Preparing ..
+-------------------------------

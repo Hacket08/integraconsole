@@ -1,0 +1,535 @@
+
+Log Entry : 2:52:39 PM Monday, 13 May 2019
+  :
+  :Data Start Reading
+-------------------------------
+
+Log Entry : 2:52:41 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILABH - DES-LABASON HONDA 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:52:44 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILABH - DES-LABASON HONDA 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:52:45 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:52:45 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (1 / 24) : DESILABH - DES-LABASON HONDA_2018  : Data Progress ( 4.17 % ) 
+-------------------------------
+
+Log Entry : 2:52:47 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILABH - DES-LABASON HONDA 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:52:50 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILABH - DES-LABASON HONDA 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:52:50 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:52:50 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (2 / 24) : DESILABH - DES-LABASON HONDA_2018  : Data Progress ( 8.33 % ) 
+-------------------------------
+
+Log Entry : 2:52:52 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILABH - DES-LABASON HONDA 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:52:55 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILABH - DES-LABASON HONDA 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:52:56 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:52:56 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (3 / 24) : DESILABH - DES-LABASON HONDA_2018  : Data Progress ( 12.5 % ) 
+-------------------------------
+
+Log Entry : 2:52:58 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILABH - DES-LABASON HONDA 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:53:01 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILABH - DES-LABASON HONDA 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:53:01 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:53:01 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (4 / 24) : DESILABH - DES-LABASON HONDA_2018  : Data Progress ( 16.67 % ) 
+-------------------------------
+
+Log Entry : 2:53:03 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILABH - DES-LABASON HONDA 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:53:06 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILABH - DES-LABASON HONDA 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:53:07 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:53:07 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (5 / 24) : DESILABH - DES-LABASON HONDA_2018  : Data Progress ( 20.83 % ) 
+-------------------------------
+
+Log Entry : 2:53:09 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILABH - DES-LABASON HONDA 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:53:12 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILABH - DES-LABASON HONDA 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:53:12 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:53:12 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (6 / 24) : DESILABH - DES-LABASON HONDA_2018  : Data Progress ( 25 % ) 
+-------------------------------
+
+Log Entry : 2:53:14 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILABH - DES-LABASON HONDA 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:53:17 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILABH - DES-LABASON HONDA 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:53:17 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:53:17 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (7 / 24) : DESILABH - DES-LABASON HONDA_2018  : Data Progress ( 29.17 % ) 
+-------------------------------
+
+Log Entry : 2:53:19 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILABH - DES-LABASON HONDA 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:53:22 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILABH - DES-LABASON HONDA 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:53:23 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:53:23 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (8 / 24) : DESILABH - DES-LABASON HONDA_2018  : Data Progress ( 33.33 % ) 
+-------------------------------
+
+Log Entry : 2:53:25 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILABH - DES-LABASON HONDA 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:53:28 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILABH - DES-LABASON HONDA 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:53:28 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:53:28 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (9 / 24) : DESILABH - DES-LABASON HONDA_2018  : Data Progress ( 37.5 % ) 
+-------------------------------
+
+Log Entry : 2:53:30 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILABH - DES-LABASON HONDA 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:53:33 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILABH - DES-LABASON HONDA 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:53:34 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:53:34 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (10 / 24) : DESILABH - DES-LABASON HONDA_2018  : Data Progress ( 41.67 % ) 
+-------------------------------
+
+Log Entry : 2:53:36 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILABH - DES-LABASON HONDA 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:53:39 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILABH - DES-LABASON HONDA 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:53:39 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:53:39 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (11 / 24) : DESILABH - DES-LABASON HONDA_2018  : Data Progress ( 45.83 % ) 
+-------------------------------
+
+Log Entry : 2:53:41 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILABH - DES-LABASON HONDA 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:53:44 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILABH - DES-LABASON HONDA 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:53:44 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:53:45 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (12 / 24) : DESILABH - DES-LABASON HONDA_2018  : Data Progress ( 50 % ) 
+-------------------------------
+
+Log Entry : 2:53:47 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILABH - DES-LABASON HONDA 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:53:50 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILABH - DES-LABASON HONDA 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:53:50 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:53:50 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (13 / 24) : DESILABH - DES-LABASON HONDA_2018  : Data Progress ( 54.17 % ) 
+-------------------------------
+
+Log Entry : 2:53:52 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILABH - DES-LABASON HONDA 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:53:55 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILABH - DES-LABASON HONDA 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:53:55 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:53:55 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (14 / 24) : DESILABH - DES-LABASON HONDA_2018  : Data Progress ( 58.33 % ) 
+-------------------------------
+
+Log Entry : 2:53:57 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILABH - DES-LABASON HONDA 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:54:00 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILABH - DES-LABASON HONDA 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:54:01 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:54:01 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (15 / 24) : DESILABH - DES-LABASON HONDA_2018  : Data Progress ( 62.5 % ) 
+-------------------------------
+
+Log Entry : 2:54:03 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILABH - DES-LABASON HONDA 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:54:06 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILABH - DES-LABASON HONDA 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:54:06 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:54:06 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (16 / 24) : DESILABH - DES-LABASON HONDA_2018  : Data Progress ( 66.67 % ) 
+-------------------------------
+
+Log Entry : 2:54:08 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILABH - DES-LABASON HONDA 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:54:11 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILABH - DES-LABASON HONDA 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:54:12 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:54:12 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (17 / 24) : DESILABH - DES-LABASON HONDA_2018  : Data Progress ( 70.83 % ) 
+-------------------------------
+
+Log Entry : 2:54:14 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILABH - DES-LABASON HONDA 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:54:17 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILABH - DES-LABASON HONDA 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:54:17 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:54:17 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (18 / 24) : DESILABH - DES-LABASON HONDA_2018  : Data Progress ( 75 % ) 
+-------------------------------
+
+Log Entry : 2:54:19 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILABH - DES-LABASON HONDA 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:54:22 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILABH - DES-LABASON HONDA 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:54:23 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:54:23 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (19 / 24) : DESILABH - DES-LABASON HONDA_2018  : Data Progress ( 79.17 % ) 
+-------------------------------
+
+Log Entry : 2:54:25 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILABH - DES-LABASON HONDA 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:54:28 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILABH - DES-LABASON HONDA 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:54:28 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 0.00
+-------------------------------
+
+Log Entry : 2:54:28 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (20 / 24) : DESILABH - DES-LABASON HONDA_2018  : Data Progress ( 83.33 % ) 
+-------------------------------
+
+Log Entry : 2:54:30 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILABH - DES-LABASON HONDA 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:54:33 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILABH - DES-LABASON HONDA 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:54:33 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 505.00
+-------------------------------
+
+Log Entry : 2:54:38 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILABH - DES-LABASON HONDA 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:54:39 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILABH - DES-LABASON HONDA 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:54:39 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (21 / 24) : DESILABH - DES-LABASON HONDA_2018  : Data Progress ( 87.5 % ) 
+-------------------------------
+
+Log Entry : 2:54:41 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILABH - DES-LABASON HONDA 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:54:44 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILABH - DES-LABASON HONDA 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:54:44 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 137.50
+-------------------------------
+
+Log Entry : 2:54:49 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILABH - DES-LABASON HONDA 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:54:49 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILABH - DES-LABASON HONDA 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:54:49 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (22 / 24) : DESILABH - DES-LABASON HONDA_2018  : Data Progress ( 91.67 % ) 
+-------------------------------
+
+Log Entry : 2:54:51 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILABH - DES-LABASON HONDA 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:54:54 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILABH - DES-LABASON HONDA 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:54:55 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 2,082.00
+-------------------------------
+
+Log Entry : 2:55:00 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILABH - DES-LABASON HONDA 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:55:00 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILABH - DES-LABASON HONDA 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:55:00 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (23 / 24) : DESILABH - DES-LABASON HONDA_2018  : Data Progress ( 95.83 % ) 
+-------------------------------
+
+Log Entry : 2:55:02 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESILABH - DES-LABASON HONDA 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:55:05 PM Monday, 13 May 2019
+  :
+  :Data Generation DESILABH - DES-LABASON HONDA 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:55:06 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 1,142.20
+-------------------------------
+
+Log Entry : 2:55:11 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILABH - DES-LABASON HONDA 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:55:11 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESILABH - DES-LABASON HONDA 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:55:11 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (24 / 24) : DESILABH - DES-LABASON HONDA_2018  : Data Progress ( 100 % ) 
+-------------------------------
+
+Log Entry : 2:55:11 PM Monday, 13 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 2:55:13 PM Monday, 13 May 2019
+  :
+  :DESILABH - DES-LABASON HONDA Data Preparing ..
+-------------------------------

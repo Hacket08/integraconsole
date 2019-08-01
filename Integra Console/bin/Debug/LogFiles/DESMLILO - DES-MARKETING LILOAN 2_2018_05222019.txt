@@ -1,0 +1,10 @@
+
+Log Entry : 7:27:04 AM Wednesday, 22 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 7:27:07 AM Wednesday, 22 May 2019
+  :
+  :DESMLILO - DES-MARKETING LILOAN 2 Data Preparing ..
+-------------------------------

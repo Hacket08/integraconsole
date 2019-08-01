@@ -1,0 +1,10 @@
+
+Log Entry : 7:05:14 AM Wednesday, 22 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 7:05:16 AM Wednesday, 22 May 2019
+  :
+  :DESMCPGY - DES-MARKETING CPG YAMAHA Data Preparing ..
+-------------------------------

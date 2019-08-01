@@ -1,0 +1,735 @@
+
+Log Entry : 1:27:01 PM Monday, 13 May 2019
+  :
+  :Data Start Reading
+-------------------------------
+
+Log Entry : 1:27:03 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMCALM - DES-MARKETING CALAMBA 2018 2018-01-A
+-------------------------------
+
+Log Entry : 1:27:06 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMCALM - DES-MARKETING CALAMBA 2018 2018-01-A
+-------------------------------
+
+Log Entry : 1:27:06 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,515.50
+-------------------------------
+
+Log Entry : 1:27:11 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-01-A
+-------------------------------
+
+Log Entry : 1:27:12 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-01-A
+-------------------------------
+
+Log Entry : 1:27:12 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (1 / 24) : DESMCALM - DES-MARKETING CALAMBA_2018  : Data Progress ( 4.17 % ) 
+-------------------------------
+
+Log Entry : 1:27:14 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMCALM - DES-MARKETING CALAMBA 2018 2018-01-B
+-------------------------------
+
+Log Entry : 1:27:17 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMCALM - DES-MARKETING CALAMBA 2018 2018-01-B
+-------------------------------
+
+Log Entry : 1:27:17 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,052.17
+-------------------------------
+
+Log Entry : 1:27:22 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-01-B
+-------------------------------
+
+Log Entry : 1:27:23 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-01-B
+-------------------------------
+
+Log Entry : 1:27:23 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (2 / 24) : DESMCALM - DES-MARKETING CALAMBA_2018  : Data Progress ( 8.33 % ) 
+-------------------------------
+
+Log Entry : 1:27:25 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMCALM - DES-MARKETING CALAMBA 2018 2018-02-A
+-------------------------------
+
+Log Entry : 1:27:28 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMCALM - DES-MARKETING CALAMBA 2018 2018-02-A
+-------------------------------
+
+Log Entry : 1:27:28 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,515.50
+-------------------------------
+
+Log Entry : 1:27:33 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-02-A
+-------------------------------
+
+Log Entry : 1:27:34 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-02-A
+-------------------------------
+
+Log Entry : 1:27:34 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (3 / 24) : DESMCALM - DES-MARKETING CALAMBA_2018  : Data Progress ( 12.5 % ) 
+-------------------------------
+
+Log Entry : 1:27:36 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMCALM - DES-MARKETING CALAMBA 2018 2018-02-B
+-------------------------------
+
+Log Entry : 1:27:39 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMCALM - DES-MARKETING CALAMBA 2018 2018-02-B
+-------------------------------
+
+Log Entry : 1:27:39 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,052.17
+-------------------------------
+
+Log Entry : 1:27:44 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-02-B
+-------------------------------
+
+Log Entry : 1:27:44 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-02-B
+-------------------------------
+
+Log Entry : 1:27:44 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (4 / 24) : DESMCALM - DES-MARKETING CALAMBA_2018  : Data Progress ( 16.67 % ) 
+-------------------------------
+
+Log Entry : 1:27:46 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMCALM - DES-MARKETING CALAMBA 2018 2018-03-A
+-------------------------------
+
+Log Entry : 1:27:49 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMCALM - DES-MARKETING CALAMBA 2018 2018-03-A
+-------------------------------
+
+Log Entry : 1:27:50 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,515.50
+-------------------------------
+
+Log Entry : 1:27:55 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-03-A
+-------------------------------
+
+Log Entry : 1:27:55 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-03-A
+-------------------------------
+
+Log Entry : 1:27:55 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (5 / 24) : DESMCALM - DES-MARKETING CALAMBA_2018  : Data Progress ( 20.83 % ) 
+-------------------------------
+
+Log Entry : 1:27:57 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMCALM - DES-MARKETING CALAMBA 2018 2018-03-B
+-------------------------------
+
+Log Entry : 1:28:00 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMCALM - DES-MARKETING CALAMBA 2018 2018-03-B
+-------------------------------
+
+Log Entry : 1:28:01 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,052.17
+-------------------------------
+
+Log Entry : 1:28:06 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-03-B
+-------------------------------
+
+Log Entry : 1:28:06 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-03-B
+-------------------------------
+
+Log Entry : 1:28:06 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (6 / 24) : DESMCALM - DES-MARKETING CALAMBA_2018  : Data Progress ( 25 % ) 
+-------------------------------
+
+Log Entry : 1:28:08 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMCALM - DES-MARKETING CALAMBA 2018 2018-04-A
+-------------------------------
+
+Log Entry : 1:28:11 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMCALM - DES-MARKETING CALAMBA 2018 2018-04-A
+-------------------------------
+
+Log Entry : 1:28:12 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,517.50
+-------------------------------
+
+Log Entry : 1:28:17 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-04-A
+-------------------------------
+
+Log Entry : 1:28:17 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-04-A
+-------------------------------
+
+Log Entry : 1:28:17 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (7 / 24) : DESMCALM - DES-MARKETING CALAMBA_2018  : Data Progress ( 29.17 % ) 
+-------------------------------
+
+Log Entry : 1:28:19 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMCALM - DES-MARKETING CALAMBA 2018 2018-04-B
+-------------------------------
+
+Log Entry : 1:28:22 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMCALM - DES-MARKETING CALAMBA 2018 2018-04-B
+-------------------------------
+
+Log Entry : 1:28:23 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 4,914.67
+-------------------------------
+
+Log Entry : 1:28:28 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-04-B
+-------------------------------
+
+Log Entry : 1:28:28 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-04-B
+-------------------------------
+
+Log Entry : 1:28:28 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (8 / 24) : DESMCALM - DES-MARKETING CALAMBA_2018  : Data Progress ( 33.33 % ) 
+-------------------------------
+
+Log Entry : 1:28:30 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMCALM - DES-MARKETING CALAMBA 2018 2018-05-A
+-------------------------------
+
+Log Entry : 1:28:33 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMCALM - DES-MARKETING CALAMBA 2018 2018-05-A
+-------------------------------
+
+Log Entry : 1:28:33 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,949.80
+-------------------------------
+
+Log Entry : 1:28:39 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-05-A
+-------------------------------
+
+Log Entry : 1:28:39 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-05-A
+-------------------------------
+
+Log Entry : 1:28:39 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (9 / 24) : DESMCALM - DES-MARKETING CALAMBA_2018  : Data Progress ( 37.5 % ) 
+-------------------------------
+
+Log Entry : 1:28:41 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMCALM - DES-MARKETING CALAMBA 2018 2018-05-B
+-------------------------------
+
+Log Entry : 1:28:44 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMCALM - DES-MARKETING CALAMBA 2018 2018-05-B
+-------------------------------
+
+Log Entry : 1:28:44 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 3,904.57
+-------------------------------
+
+Log Entry : 1:28:49 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-05-B
+-------------------------------
+
+Log Entry : 1:28:50 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-05-B
+-------------------------------
+
+Log Entry : 1:28:50 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (10 / 24) : DESMCALM - DES-MARKETING CALAMBA_2018  : Data Progress ( 41.67 % ) 
+-------------------------------
+
+Log Entry : 1:28:52 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMCALM - DES-MARKETING CALAMBA 2018 2018-06-A
+-------------------------------
+
+Log Entry : 1:28:55 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMCALM - DES-MARKETING CALAMBA 2018 2018-06-A
+-------------------------------
+
+Log Entry : 1:28:55 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,085.60
+-------------------------------
+
+Log Entry : 1:29:00 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-06-A
+-------------------------------
+
+Log Entry : 1:29:00 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-06-A
+-------------------------------
+
+Log Entry : 1:29:00 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (11 / 24) : DESMCALM - DES-MARKETING CALAMBA_2018  : Data Progress ( 45.83 % ) 
+-------------------------------
+
+Log Entry : 1:29:02 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMCALM - DES-MARKETING CALAMBA 2018 2018-06-B
+-------------------------------
+
+Log Entry : 1:29:05 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMCALM - DES-MARKETING CALAMBA 2018 2018-06-B
+-------------------------------
+
+Log Entry : 1:29:06 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 3,897.87
+-------------------------------
+
+Log Entry : 1:29:11 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-06-B
+-------------------------------
+
+Log Entry : 1:29:11 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-06-B
+-------------------------------
+
+Log Entry : 1:29:11 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (12 / 24) : DESMCALM - DES-MARKETING CALAMBA_2018  : Data Progress ( 50 % ) 
+-------------------------------
+
+Log Entry : 1:29:13 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMCALM - DES-MARKETING CALAMBA 2018 2018-07-A
+-------------------------------
+
+Log Entry : 1:29:16 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMCALM - DES-MARKETING CALAMBA 2018 2018-07-A
+-------------------------------
+
+Log Entry : 1:29:17 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,756.30
+-------------------------------
+
+Log Entry : 1:29:22 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-07-A
+-------------------------------
+
+Log Entry : 1:29:22 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-07-A
+-------------------------------
+
+Log Entry : 1:29:22 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (13 / 24) : DESMCALM - DES-MARKETING CALAMBA_2018  : Data Progress ( 54.17 % ) 
+-------------------------------
+
+Log Entry : 1:29:24 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMCALM - DES-MARKETING CALAMBA 2018 2018-07-B
+-------------------------------
+
+Log Entry : 1:29:27 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMCALM - DES-MARKETING CALAMBA 2018 2018-07-B
+-------------------------------
+
+Log Entry : 1:29:28 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 3,614.72
+-------------------------------
+
+Log Entry : 1:29:33 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-07-B
+-------------------------------
+
+Log Entry : 1:29:33 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-07-B
+-------------------------------
+
+Log Entry : 1:29:33 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (14 / 24) : DESMCALM - DES-MARKETING CALAMBA_2018  : Data Progress ( 58.33 % ) 
+-------------------------------
+
+Log Entry : 1:29:35 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMCALM - DES-MARKETING CALAMBA 2018 2018-08-A
+-------------------------------
+
+Log Entry : 1:29:38 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMCALM - DES-MARKETING CALAMBA 2018 2018-08-A
+-------------------------------
+
+Log Entry : 1:29:38 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,759.30
+-------------------------------
+
+Log Entry : 1:29:44 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-08-A
+-------------------------------
+
+Log Entry : 1:29:44 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-08-A
+-------------------------------
+
+Log Entry : 1:29:44 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (15 / 24) : DESMCALM - DES-MARKETING CALAMBA_2018  : Data Progress ( 62.5 % ) 
+-------------------------------
+
+Log Entry : 1:29:46 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMCALM - DES-MARKETING CALAMBA 2018 2018-08-B
+-------------------------------
+
+Log Entry : 1:29:49 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMCALM - DES-MARKETING CALAMBA 2018 2018-08-B
+-------------------------------
+
+Log Entry : 1:29:49 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 3,614.72
+-------------------------------
+
+Log Entry : 1:29:54 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-08-B
+-------------------------------
+
+Log Entry : 1:29:55 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-08-B
+-------------------------------
+
+Log Entry : 1:29:55 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (16 / 24) : DESMCALM - DES-MARKETING CALAMBA_2018  : Data Progress ( 66.67 % ) 
+-------------------------------
+
+Log Entry : 1:29:57 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMCALM - DES-MARKETING CALAMBA 2018 2018-09-A
+-------------------------------
+
+Log Entry : 1:30:00 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMCALM - DES-MARKETING CALAMBA 2018 2018-09-A
+-------------------------------
+
+Log Entry : 1:30:00 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,759.30
+-------------------------------
+
+Log Entry : 1:30:05 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-09-A
+-------------------------------
+
+Log Entry : 1:30:06 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-09-A
+-------------------------------
+
+Log Entry : 1:30:06 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (17 / 24) : DESMCALM - DES-MARKETING CALAMBA_2018  : Data Progress ( 70.83 % ) 
+-------------------------------
+
+Log Entry : 1:30:08 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMCALM - DES-MARKETING CALAMBA 2018 2018-09-B
+-------------------------------
+
+Log Entry : 1:30:11 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMCALM - DES-MARKETING CALAMBA 2018 2018-09-B
+-------------------------------
+
+Log Entry : 1:30:11 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 4,448.72
+-------------------------------
+
+Log Entry : 1:30:16 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-09-B
+-------------------------------
+
+Log Entry : 1:30:16 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-09-B
+-------------------------------
+
+Log Entry : 1:30:16 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (18 / 24) : DESMCALM - DES-MARKETING CALAMBA_2018  : Data Progress ( 75 % ) 
+-------------------------------
+
+Log Entry : 1:30:18 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMCALM - DES-MARKETING CALAMBA 2018 2018-10-A
+-------------------------------
+
+Log Entry : 1:30:21 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMCALM - DES-MARKETING CALAMBA 2018 2018-10-A
+-------------------------------
+
+Log Entry : 1:30:22 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,635.30
+-------------------------------
+
+Log Entry : 1:30:27 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-10-A
+-------------------------------
+
+Log Entry : 1:30:27 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-10-A
+-------------------------------
+
+Log Entry : 1:30:27 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (19 / 24) : DESMCALM - DES-MARKETING CALAMBA_2018  : Data Progress ( 79.17 % ) 
+-------------------------------
+
+Log Entry : 1:30:29 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMCALM - DES-MARKETING CALAMBA 2018 2018-10-B
+-------------------------------
+
+Log Entry : 1:30:32 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMCALM - DES-MARKETING CALAMBA 2018 2018-10-B
+-------------------------------
+
+Log Entry : 1:30:33 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,490.72
+-------------------------------
+
+Log Entry : 1:30:38 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-10-B
+-------------------------------
+
+Log Entry : 1:30:38 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-10-B
+-------------------------------
+
+Log Entry : 1:30:38 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (20 / 24) : DESMCALM - DES-MARKETING CALAMBA_2018  : Data Progress ( 83.33 % ) 
+-------------------------------
+
+Log Entry : 1:30:40 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMCALM - DES-MARKETING CALAMBA 2018 2018-11-A
+-------------------------------
+
+Log Entry : 1:30:43 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMCALM - DES-MARKETING CALAMBA 2018 2018-11-A
+-------------------------------
+
+Log Entry : 1:30:44 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,590.60
+-------------------------------
+
+Log Entry : 1:30:49 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-11-A
+-------------------------------
+
+Log Entry : 1:30:49 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-11-A
+-------------------------------
+
+Log Entry : 1:30:49 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (21 / 24) : DESMCALM - DES-MARKETING CALAMBA_2018  : Data Progress ( 87.5 % ) 
+-------------------------------
+
+Log Entry : 1:30:51 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMCALM - DES-MARKETING CALAMBA 2018 2018-11-B
+-------------------------------
+
+Log Entry : 1:30:54 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMCALM - DES-MARKETING CALAMBA 2018 2018-11-B
+-------------------------------
+
+Log Entry : 1:30:55 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,441.22
+-------------------------------
+
+Log Entry : 1:31:00 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-11-B
+-------------------------------
+
+Log Entry : 1:31:00 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-11-B
+-------------------------------
+
+Log Entry : 1:31:00 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (22 / 24) : DESMCALM - DES-MARKETING CALAMBA_2018  : Data Progress ( 91.67 % ) 
+-------------------------------
+
+Log Entry : 1:31:02 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMCALM - DES-MARKETING CALAMBA 2018 2018-12-A
+-------------------------------
+
+Log Entry : 1:31:05 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMCALM - DES-MARKETING CALAMBA 2018 2018-12-A
+-------------------------------
+
+Log Entry : 1:31:06 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 10,166.60
+-------------------------------
+
+Log Entry : 1:31:11 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-12-A
+-------------------------------
+
+Log Entry : 1:31:11 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-12-A
+-------------------------------
+
+Log Entry : 1:31:11 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (23 / 24) : DESMCALM - DES-MARKETING CALAMBA_2018  : Data Progress ( 95.83 % ) 
+-------------------------------
+
+Log Entry : 1:31:13 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMCALM - DES-MARKETING CALAMBA 2018 2018-12-B
+-------------------------------
+
+Log Entry : 1:31:16 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMCALM - DES-MARKETING CALAMBA 2018 2018-12-B
+-------------------------------
+
+Log Entry : 1:31:17 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,770.22
+-------------------------------
+
+Log Entry : 1:31:22 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-12-B
+-------------------------------
+
+Log Entry : 1:31:22 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMCALM - DES-MARKETING CALAMBA 2018 2018-12-B
+-------------------------------
+
+Log Entry : 1:31:22 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (24 / 24) : DESMCALM - DES-MARKETING CALAMBA_2018  : Data Progress ( 100 % ) 
+-------------------------------
+
+Log Entry : 1:31:22 PM Monday, 13 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 1:31:24 PM Monday, 13 May 2019
+  :
+  :DESMCALM - DES-MARKETING CALAMBA Data Preparing ..
+-------------------------------

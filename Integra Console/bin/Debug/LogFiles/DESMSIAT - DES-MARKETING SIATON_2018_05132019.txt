@@ -1,0 +1,735 @@
+
+Log Entry : 3:46:31 PM Monday, 13 May 2019
+  :
+  :Data Start Reading
+-------------------------------
+
+Log Entry : 3:46:33 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSIAT - DES-MARKETING SIATON 2018 2018-01-A
+-------------------------------
+
+Log Entry : 3:46:36 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSIAT - DES-MARKETING SIATON 2018 2018-01-A
+-------------------------------
+
+Log Entry : 3:46:36 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 11,655.60
+-------------------------------
+
+Log Entry : 3:46:42 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-01-A
+-------------------------------
+
+Log Entry : 3:46:42 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-01-A
+-------------------------------
+
+Log Entry : 3:46:42 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (1 / 24) : DESMSIAT - DES-MARKETING SIATON_2018  : Data Progress ( 4.17 % ) 
+-------------------------------
+
+Log Entry : 3:46:44 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSIAT - DES-MARKETING SIATON 2018 2018-01-B
+-------------------------------
+
+Log Entry : 3:46:47 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSIAT - DES-MARKETING SIATON 2018 2018-01-B
+-------------------------------
+
+Log Entry : 3:46:48 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,544.50
+-------------------------------
+
+Log Entry : 3:46:53 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-01-B
+-------------------------------
+
+Log Entry : 3:46:53 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-01-B
+-------------------------------
+
+Log Entry : 3:46:53 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (2 / 24) : DESMSIAT - DES-MARKETING SIATON_2018  : Data Progress ( 8.33 % ) 
+-------------------------------
+
+Log Entry : 3:46:55 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSIAT - DES-MARKETING SIATON 2018 2018-02-A
+-------------------------------
+
+Log Entry : 3:46:58 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSIAT - DES-MARKETING SIATON 2018 2018-02-A
+-------------------------------
+
+Log Entry : 3:46:59 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 12,170.60
+-------------------------------
+
+Log Entry : 3:47:04 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-02-A
+-------------------------------
+
+Log Entry : 3:47:04 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-02-A
+-------------------------------
+
+Log Entry : 3:47:04 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (3 / 24) : DESMSIAT - DES-MARKETING SIATON_2018  : Data Progress ( 12.5 % ) 
+-------------------------------
+
+Log Entry : 3:47:06 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSIAT - DES-MARKETING SIATON 2018 2018-02-B
+-------------------------------
+
+Log Entry : 3:47:09 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSIAT - DES-MARKETING SIATON 2018 2018-02-B
+-------------------------------
+
+Log Entry : 3:47:10 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,706.50
+-------------------------------
+
+Log Entry : 3:47:15 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-02-B
+-------------------------------
+
+Log Entry : 3:47:15 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-02-B
+-------------------------------
+
+Log Entry : 3:47:15 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (4 / 24) : DESMSIAT - DES-MARKETING SIATON_2018  : Data Progress ( 16.67 % ) 
+-------------------------------
+
+Log Entry : 3:47:18 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSIAT - DES-MARKETING SIATON 2018 2018-03-A
+-------------------------------
+
+Log Entry : 3:47:21 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSIAT - DES-MARKETING SIATON 2018 2018-03-A
+-------------------------------
+
+Log Entry : 3:47:21 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 12,332.60
+-------------------------------
+
+Log Entry : 3:47:26 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-03-A
+-------------------------------
+
+Log Entry : 3:47:26 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-03-A
+-------------------------------
+
+Log Entry : 3:47:26 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (5 / 24) : DESMSIAT - DES-MARKETING SIATON_2018  : Data Progress ( 20.83 % ) 
+-------------------------------
+
+Log Entry : 3:47:28 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSIAT - DES-MARKETING SIATON 2018 2018-03-B
+-------------------------------
+
+Log Entry : 3:47:31 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSIAT - DES-MARKETING SIATON 2018 2018-03-B
+-------------------------------
+
+Log Entry : 3:47:32 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,706.50
+-------------------------------
+
+Log Entry : 3:47:37 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-03-B
+-------------------------------
+
+Log Entry : 3:47:37 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-03-B
+-------------------------------
+
+Log Entry : 3:47:37 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (6 / 24) : DESMSIAT - DES-MARKETING SIATON_2018  : Data Progress ( 25 % ) 
+-------------------------------
+
+Log Entry : 3:47:39 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSIAT - DES-MARKETING SIATON 2018 2018-04-A
+-------------------------------
+
+Log Entry : 3:47:42 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSIAT - DES-MARKETING SIATON 2018 2018-04-A
+-------------------------------
+
+Log Entry : 3:47:43 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 11,342.60
+-------------------------------
+
+Log Entry : 3:47:48 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-04-A
+-------------------------------
+
+Log Entry : 3:47:48 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-04-A
+-------------------------------
+
+Log Entry : 3:47:48 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (7 / 24) : DESMSIAT - DES-MARKETING SIATON_2018  : Data Progress ( 29.17 % ) 
+-------------------------------
+
+Log Entry : 3:47:50 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSIAT - DES-MARKETING SIATON 2018 2018-04-B
+-------------------------------
+
+Log Entry : 3:47:53 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSIAT - DES-MARKETING SIATON 2018 2018-04-B
+-------------------------------
+
+Log Entry : 3:47:53 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,710.50
+-------------------------------
+
+Log Entry : 3:47:59 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-04-B
+-------------------------------
+
+Log Entry : 3:47:59 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-04-B
+-------------------------------
+
+Log Entry : 3:47:59 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (8 / 24) : DESMSIAT - DES-MARKETING SIATON_2018  : Data Progress ( 33.33 % ) 
+-------------------------------
+
+Log Entry : 3:48:01 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSIAT - DES-MARKETING SIATON 2018 2018-05-A
+-------------------------------
+
+Log Entry : 3:48:04 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSIAT - DES-MARKETING SIATON 2018 2018-05-A
+-------------------------------
+
+Log Entry : 3:48:04 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 12,266.10
+-------------------------------
+
+Log Entry : 3:48:09 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-05-A
+-------------------------------
+
+Log Entry : 3:48:10 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-05-A
+-------------------------------
+
+Log Entry : 3:48:10 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (9 / 24) : DESMSIAT - DES-MARKETING SIATON_2018  : Data Progress ( 37.5 % ) 
+-------------------------------
+
+Log Entry : 3:48:12 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSIAT - DES-MARKETING SIATON 2018 2018-05-B
+-------------------------------
+
+Log Entry : 3:48:15 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSIAT - DES-MARKETING SIATON 2018 2018-05-B
+-------------------------------
+
+Log Entry : 3:48:15 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,262.50
+-------------------------------
+
+Log Entry : 3:48:20 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-05-B
+-------------------------------
+
+Log Entry : 3:48:20 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-05-B
+-------------------------------
+
+Log Entry : 3:48:20 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (10 / 24) : DESMSIAT - DES-MARKETING SIATON_2018  : Data Progress ( 41.67 % ) 
+-------------------------------
+
+Log Entry : 3:48:22 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSIAT - DES-MARKETING SIATON 2018 2018-06-A
+-------------------------------
+
+Log Entry : 3:48:25 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSIAT - DES-MARKETING SIATON 2018 2018-06-A
+-------------------------------
+
+Log Entry : 3:48:26 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 11,379.10
+-------------------------------
+
+Log Entry : 3:48:31 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-06-A
+-------------------------------
+
+Log Entry : 3:48:31 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-06-A
+-------------------------------
+
+Log Entry : 3:48:31 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (11 / 24) : DESMSIAT - DES-MARKETING SIATON_2018  : Data Progress ( 45.83 % ) 
+-------------------------------
+
+Log Entry : 3:48:33 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSIAT - DES-MARKETING SIATON 2018 2018-06-B
+-------------------------------
+
+Log Entry : 3:48:36 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSIAT - DES-MARKETING SIATON 2018 2018-06-B
+-------------------------------
+
+Log Entry : 3:48:37 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,238.00
+-------------------------------
+
+Log Entry : 3:48:42 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-06-B
+-------------------------------
+
+Log Entry : 3:48:42 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-06-B
+-------------------------------
+
+Log Entry : 3:48:42 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (12 / 24) : DESMSIAT - DES-MARKETING SIATON_2018  : Data Progress ( 50 % ) 
+-------------------------------
+
+Log Entry : 3:48:44 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSIAT - DES-MARKETING SIATON 2018 2018-07-A
+-------------------------------
+
+Log Entry : 3:48:47 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSIAT - DES-MARKETING SIATON 2018 2018-07-A
+-------------------------------
+
+Log Entry : 3:48:48 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 11,789.80
+-------------------------------
+
+Log Entry : 3:48:53 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-07-A
+-------------------------------
+
+Log Entry : 3:48:53 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-07-A
+-------------------------------
+
+Log Entry : 3:48:53 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (13 / 24) : DESMSIAT - DES-MARKETING SIATON_2018  : Data Progress ( 54.17 % ) 
+-------------------------------
+
+Log Entry : 3:48:55 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSIAT - DES-MARKETING SIATON 2018 2018-07-B
+-------------------------------
+
+Log Entry : 3:48:58 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSIAT - DES-MARKETING SIATON 2018 2018-07-B
+-------------------------------
+
+Log Entry : 3:48:59 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,127.50
+-------------------------------
+
+Log Entry : 3:49:04 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-07-B
+-------------------------------
+
+Log Entry : 3:49:04 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-07-B
+-------------------------------
+
+Log Entry : 3:49:04 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (14 / 24) : DESMSIAT - DES-MARKETING SIATON_2018  : Data Progress ( 58.33 % ) 
+-------------------------------
+
+Log Entry : 3:49:06 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSIAT - DES-MARKETING SIATON 2018 2018-08-A
+-------------------------------
+
+Log Entry : 3:49:09 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSIAT - DES-MARKETING SIATON 2018 2018-08-A
+-------------------------------
+
+Log Entry : 3:49:09 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 11,686.70
+-------------------------------
+
+Log Entry : 3:49:15 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-08-A
+-------------------------------
+
+Log Entry : 3:49:15 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-08-A
+-------------------------------
+
+Log Entry : 3:49:15 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (15 / 24) : DESMSIAT - DES-MARKETING SIATON_2018  : Data Progress ( 62.5 % ) 
+-------------------------------
+
+Log Entry : 3:49:17 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSIAT - DES-MARKETING SIATON 2018 2018-08-B
+-------------------------------
+
+Log Entry : 3:49:20 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSIAT - DES-MARKETING SIATON 2018 2018-08-B
+-------------------------------
+
+Log Entry : 3:49:20 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,551.00
+-------------------------------
+
+Log Entry : 3:49:25 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-08-B
+-------------------------------
+
+Log Entry : 3:49:26 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-08-B
+-------------------------------
+
+Log Entry : 3:49:26 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (16 / 24) : DESMSIAT - DES-MARKETING SIATON_2018  : Data Progress ( 66.67 % ) 
+-------------------------------
+
+Log Entry : 3:49:28 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSIAT - DES-MARKETING SIATON 2018 2018-09-A
+-------------------------------
+
+Log Entry : 3:49:31 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSIAT - DES-MARKETING SIATON 2018 2018-09-A
+-------------------------------
+
+Log Entry : 3:49:31 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 11,709.70
+-------------------------------
+
+Log Entry : 3:49:36 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-09-A
+-------------------------------
+
+Log Entry : 3:49:37 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-09-A
+-------------------------------
+
+Log Entry : 3:49:37 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (17 / 24) : DESMSIAT - DES-MARKETING SIATON_2018  : Data Progress ( 70.83 % ) 
+-------------------------------
+
+Log Entry : 3:49:39 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSIAT - DES-MARKETING SIATON 2018 2018-09-B
+-------------------------------
+
+Log Entry : 3:49:42 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSIAT - DES-MARKETING SIATON 2018 2018-09-B
+-------------------------------
+
+Log Entry : 3:49:42 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,366.00
+-------------------------------
+
+Log Entry : 3:49:47 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-09-B
+-------------------------------
+
+Log Entry : 3:49:47 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-09-B
+-------------------------------
+
+Log Entry : 3:49:47 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (18 / 24) : DESMSIAT - DES-MARKETING SIATON_2018  : Data Progress ( 75 % ) 
+-------------------------------
+
+Log Entry : 3:49:50 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSIAT - DES-MARKETING SIATON 2018 2018-10-A
+-------------------------------
+
+Log Entry : 3:49:53 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSIAT - DES-MARKETING SIATON 2018 2018-10-A
+-------------------------------
+
+Log Entry : 3:49:53 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 11,512.70
+-------------------------------
+
+Log Entry : 3:49:58 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-10-A
+-------------------------------
+
+Log Entry : 3:49:58 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-10-A
+-------------------------------
+
+Log Entry : 3:49:58 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (19 / 24) : DESMSIAT - DES-MARKETING SIATON_2018  : Data Progress ( 79.17 % ) 
+-------------------------------
+
+Log Entry : 3:50:00 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSIAT - DES-MARKETING SIATON 2018 2018-10-B
+-------------------------------
+
+Log Entry : 3:50:03 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSIAT - DES-MARKETING SIATON 2018 2018-10-B
+-------------------------------
+
+Log Entry : 3:50:04 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,173.50
+-------------------------------
+
+Log Entry : 3:50:09 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-10-B
+-------------------------------
+
+Log Entry : 3:50:09 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-10-B
+-------------------------------
+
+Log Entry : 3:50:09 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (20 / 24) : DESMSIAT - DES-MARKETING SIATON_2018  : Data Progress ( 83.33 % ) 
+-------------------------------
+
+Log Entry : 3:50:11 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSIAT - DES-MARKETING SIATON 2018 2018-11-A
+-------------------------------
+
+Log Entry : 3:50:14 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSIAT - DES-MARKETING SIATON 2018 2018-11-A
+-------------------------------
+
+Log Entry : 3:50:15 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 11,512.70
+-------------------------------
+
+Log Entry : 3:50:20 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-11-A
+-------------------------------
+
+Log Entry : 3:50:20 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-11-A
+-------------------------------
+
+Log Entry : 3:50:20 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (21 / 24) : DESMSIAT - DES-MARKETING SIATON_2018  : Data Progress ( 87.5 % ) 
+-------------------------------
+
+Log Entry : 3:50:22 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSIAT - DES-MARKETING SIATON 2018 2018-11-B
+-------------------------------
+
+Log Entry : 3:50:25 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSIAT - DES-MARKETING SIATON 2018 2018-11-B
+-------------------------------
+
+Log Entry : 3:50:26 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,132.00
+-------------------------------
+
+Log Entry : 3:50:31 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-11-B
+-------------------------------
+
+Log Entry : 3:50:31 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-11-B
+-------------------------------
+
+Log Entry : 3:50:31 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (22 / 24) : DESMSIAT - DES-MARKETING SIATON_2018  : Data Progress ( 91.67 % ) 
+-------------------------------
+
+Log Entry : 3:50:33 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSIAT - DES-MARKETING SIATON 2018 2018-12-A
+-------------------------------
+
+Log Entry : 3:50:36 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSIAT - DES-MARKETING SIATON 2018 2018-12-A
+-------------------------------
+
+Log Entry : 3:50:37 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 13,437.70
+-------------------------------
+
+Log Entry : 3:50:42 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-12-A
+-------------------------------
+
+Log Entry : 3:50:42 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-12-A
+-------------------------------
+
+Log Entry : 3:50:42 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (23 / 24) : DESMSIAT - DES-MARKETING SIATON_2018  : Data Progress ( 95.83 % ) 
+-------------------------------
+
+Log Entry : 3:50:44 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMSIAT - DES-MARKETING SIATON 2018 2018-12-B
+-------------------------------
+
+Log Entry : 3:50:47 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMSIAT - DES-MARKETING SIATON 2018 2018-12-B
+-------------------------------
+
+Log Entry : 3:50:48 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,257.00
+-------------------------------
+
+Log Entry : 3:50:53 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-12-B
+-------------------------------
+
+Log Entry : 3:50:53 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMSIAT - DES-MARKETING SIATON 2018 2018-12-B
+-------------------------------
+
+Log Entry : 3:50:53 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (24 / 24) : DESMSIAT - DES-MARKETING SIATON_2018  : Data Progress ( 100 % ) 
+-------------------------------
+
+Log Entry : 3:50:53 PM Monday, 13 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 3:50:55 PM Monday, 13 May 2019
+  :
+  :DESMSIAT - DES-MARKETING SIATON Data Preparing ..
+-------------------------------

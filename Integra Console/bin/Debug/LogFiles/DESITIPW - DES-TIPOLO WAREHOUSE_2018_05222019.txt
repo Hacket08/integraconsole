@@ -1,0 +1,710 @@
+
+Log Entry : 7:20:54 AM Wednesday, 22 May 2019
+  :
+  :Data Start Reading
+-------------------------------
+
+Log Entry : 7:20:56 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (1 / 24) : DESITIPW - DES-TIPOLO WAREHOUSE_2018  : Data Progress ( 4.17 % ) 
+-------------------------------
+
+Log Entry : 7:20:58 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-01-B
+-------------------------------
+
+Log Entry : 7:21:00 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-01-B
+-------------------------------
+
+Log Entry : 7:21:00 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,205.08
+-------------------------------
+
+Log Entry : 7:21:04 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-01-B
+-------------------------------
+
+Log Entry : 7:21:09 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-01-B
+-------------------------------
+
+Log Entry : 7:21:09 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (2 / 24) : DESITIPW - DES-TIPOLO WAREHOUSE_2018  : Data Progress ( 8.33 % ) 
+-------------------------------
+
+Log Entry : 7:21:11 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-02-A
+-------------------------------
+
+Log Entry : 7:21:13 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-02-A
+-------------------------------
+
+Log Entry : 7:21:14 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 12,280.47
+-------------------------------
+
+Log Entry : 7:21:17 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-02-A
+-------------------------------
+
+Log Entry : 7:21:23 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-02-A
+-------------------------------
+
+Log Entry : 7:21:23 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (3 / 24) : DESITIPW - DES-TIPOLO WAREHOUSE_2018  : Data Progress ( 12.5 % ) 
+-------------------------------
+
+Log Entry : 7:21:25 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-02-B
+-------------------------------
+
+Log Entry : 7:21:27 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-02-B
+-------------------------------
+
+Log Entry : 7:21:27 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,928.75
+-------------------------------
+
+Log Entry : 7:21:31 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-02-B
+-------------------------------
+
+Log Entry : 7:21:36 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-02-B
+-------------------------------
+
+Log Entry : 7:21:36 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (4 / 24) : DESITIPW - DES-TIPOLO WAREHOUSE_2018  : Data Progress ( 16.67 % ) 
+-------------------------------
+
+Log Entry : 7:21:38 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-03-A
+-------------------------------
+
+Log Entry : 7:21:40 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-03-A
+-------------------------------
+
+Log Entry : 7:21:41 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 12,280.28
+-------------------------------
+
+Log Entry : 7:21:44 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-03-A
+-------------------------------
+
+Log Entry : 7:21:49 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-03-A
+-------------------------------
+
+Log Entry : 7:21:49 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (5 / 24) : DESITIPW - DES-TIPOLO WAREHOUSE_2018  : Data Progress ( 20.83 % ) 
+-------------------------------
+
+Log Entry : 7:21:52 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-03-B
+-------------------------------
+
+Log Entry : 7:21:54 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-03-B
+-------------------------------
+
+Log Entry : 7:21:54 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,470.51
+-------------------------------
+
+Log Entry : 7:21:58 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-03-B
+-------------------------------
+
+Log Entry : 7:22:03 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-03-B
+-------------------------------
+
+Log Entry : 7:22:03 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (6 / 24) : DESITIPW - DES-TIPOLO WAREHOUSE_2018  : Data Progress ( 25 % ) 
+-------------------------------
+
+Log Entry : 7:22:05 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-04-A
+-------------------------------
+
+Log Entry : 7:22:07 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-04-A
+-------------------------------
+
+Log Entry : 7:22:08 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 12,408.97
+-------------------------------
+
+Log Entry : 7:22:11 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-04-A
+-------------------------------
+
+Log Entry : 7:22:16 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-04-A
+-------------------------------
+
+Log Entry : 7:22:16 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (7 / 24) : DESITIPW - DES-TIPOLO WAREHOUSE_2018  : Data Progress ( 29.17 % ) 
+-------------------------------
+
+Log Entry : 7:22:18 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-04-B
+-------------------------------
+
+Log Entry : 7:22:20 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-04-B
+-------------------------------
+
+Log Entry : 7:22:21 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,055.44
+-------------------------------
+
+Log Entry : 7:22:24 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-04-B
+-------------------------------
+
+Log Entry : 7:22:30 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-04-B
+-------------------------------
+
+Log Entry : 7:22:30 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (8 / 24) : DESITIPW - DES-TIPOLO WAREHOUSE_2018  : Data Progress ( 33.33 % ) 
+-------------------------------
+
+Log Entry : 7:22:32 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-05-A
+-------------------------------
+
+Log Entry : 7:22:34 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-05-A
+-------------------------------
+
+Log Entry : 7:22:35 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 11,873.77
+-------------------------------
+
+Log Entry : 7:22:38 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-05-A
+-------------------------------
+
+Log Entry : 7:22:43 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-05-A
+-------------------------------
+
+Log Entry : 7:22:43 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (9 / 24) : DESITIPW - DES-TIPOLO WAREHOUSE_2018  : Data Progress ( 37.5 % ) 
+-------------------------------
+
+Log Entry : 7:22:45 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-05-B
+-------------------------------
+
+Log Entry : 7:22:47 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-05-B
+-------------------------------
+
+Log Entry : 7:22:48 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,324.79
+-------------------------------
+
+Log Entry : 7:22:51 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-05-B
+-------------------------------
+
+Log Entry : 7:22:57 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-05-B
+-------------------------------
+
+Log Entry : 7:22:57 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (10 / 24) : DESITIPW - DES-TIPOLO WAREHOUSE_2018  : Data Progress ( 41.67 % ) 
+-------------------------------
+
+Log Entry : 7:22:59 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-06-A
+-------------------------------
+
+Log Entry : 7:23:01 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-06-A
+-------------------------------
+
+Log Entry : 7:23:01 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 11,408.77
+-------------------------------
+
+Log Entry : 7:23:05 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-06-A
+-------------------------------
+
+Log Entry : 7:23:10 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-06-A
+-------------------------------
+
+Log Entry : 7:23:10 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (11 / 24) : DESITIPW - DES-TIPOLO WAREHOUSE_2018  : Data Progress ( 45.83 % ) 
+-------------------------------
+
+Log Entry : 7:23:12 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-06-B
+-------------------------------
+
+Log Entry : 7:23:15 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-06-B
+-------------------------------
+
+Log Entry : 7:23:15 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,452.94
+-------------------------------
+
+Log Entry : 7:23:18 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-06-B
+-------------------------------
+
+Log Entry : 7:23:24 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-06-B
+-------------------------------
+
+Log Entry : 7:23:24 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (12 / 24) : DESITIPW - DES-TIPOLO WAREHOUSE_2018  : Data Progress ( 50 % ) 
+-------------------------------
+
+Log Entry : 7:23:26 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-07-A
+-------------------------------
+
+Log Entry : 7:23:28 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-07-A
+-------------------------------
+
+Log Entry : 7:23:28 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 11,150.27
+-------------------------------
+
+Log Entry : 7:23:32 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-07-A
+-------------------------------
+
+Log Entry : 7:23:37 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-07-A
+-------------------------------
+
+Log Entry : 7:23:37 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (13 / 24) : DESITIPW - DES-TIPOLO WAREHOUSE_2018  : Data Progress ( 54.17 % ) 
+-------------------------------
+
+Log Entry : 7:23:39 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-07-B
+-------------------------------
+
+Log Entry : 7:23:41 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-07-B
+-------------------------------
+
+Log Entry : 7:23:42 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,194.44
+-------------------------------
+
+Log Entry : 7:23:45 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-07-B
+-------------------------------
+
+Log Entry : 7:23:51 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-07-B
+-------------------------------
+
+Log Entry : 7:23:51 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (14 / 24) : DESITIPW - DES-TIPOLO WAREHOUSE_2018  : Data Progress ( 58.33 % ) 
+-------------------------------
+
+Log Entry : 7:23:53 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-08-A
+-------------------------------
+
+Log Entry : 7:23:55 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-08-A
+-------------------------------
+
+Log Entry : 7:23:55 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 11,347.07
+-------------------------------
+
+Log Entry : 7:23:59 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-08-A
+-------------------------------
+
+Log Entry : 7:24:04 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-08-A
+-------------------------------
+
+Log Entry : 7:24:04 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (15 / 24) : DESITIPW - DES-TIPOLO WAREHOUSE_2018  : Data Progress ( 62.5 % ) 
+-------------------------------
+
+Log Entry : 7:24:06 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-08-B
+-------------------------------
+
+Log Entry : 7:24:08 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-08-B
+-------------------------------
+
+Log Entry : 7:24:09 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,832.86
+-------------------------------
+
+Log Entry : 7:24:12 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-08-B
+-------------------------------
+
+Log Entry : 7:24:17 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-08-B
+-------------------------------
+
+Log Entry : 7:24:17 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (16 / 24) : DESITIPW - DES-TIPOLO WAREHOUSE_2018  : Data Progress ( 66.67 % ) 
+-------------------------------
+
+Log Entry : 7:24:19 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-09-A
+-------------------------------
+
+Log Entry : 7:24:21 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-09-A
+-------------------------------
+
+Log Entry : 7:24:22 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 12,963.57
+-------------------------------
+
+Log Entry : 7:24:25 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-09-A
+-------------------------------
+
+Log Entry : 7:24:31 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-09-A
+-------------------------------
+
+Log Entry : 7:24:31 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (17 / 24) : DESITIPW - DES-TIPOLO WAREHOUSE_2018  : Data Progress ( 70.83 % ) 
+-------------------------------
+
+Log Entry : 7:24:33 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-09-B
+-------------------------------
+
+Log Entry : 7:24:35 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-09-B
+-------------------------------
+
+Log Entry : 7:24:35 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,832.86
+-------------------------------
+
+Log Entry : 7:24:39 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-09-B
+-------------------------------
+
+Log Entry : 7:24:44 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-09-B
+-------------------------------
+
+Log Entry : 7:24:44 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (18 / 24) : DESITIPW - DES-TIPOLO WAREHOUSE_2018  : Data Progress ( 75 % ) 
+-------------------------------
+
+Log Entry : 7:24:46 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-10-A
+-------------------------------
+
+Log Entry : 7:24:48 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-10-A
+-------------------------------
+
+Log Entry : 7:24:49 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 11,260.04
+-------------------------------
+
+Log Entry : 7:24:52 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-10-A
+-------------------------------
+
+Log Entry : 7:24:57 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-10-A
+-------------------------------
+
+Log Entry : 7:24:57 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (19 / 24) : DESITIPW - DES-TIPOLO WAREHOUSE_2018  : Data Progress ( 79.17 % ) 
+-------------------------------
+
+Log Entry : 7:24:59 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-10-B
+-------------------------------
+
+Log Entry : 7:25:01 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-10-B
+-------------------------------
+
+Log Entry : 7:25:02 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,106.95
+-------------------------------
+
+Log Entry : 7:25:05 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-10-B
+-------------------------------
+
+Log Entry : 7:25:11 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-10-B
+-------------------------------
+
+Log Entry : 7:25:11 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (20 / 24) : DESITIPW - DES-TIPOLO WAREHOUSE_2018  : Data Progress ( 83.33 % ) 
+-------------------------------
+
+Log Entry : 7:25:13 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-11-A
+-------------------------------
+
+Log Entry : 7:25:15 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-11-A
+-------------------------------
+
+Log Entry : 7:25:15 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 10,415.50
+-------------------------------
+
+Log Entry : 7:25:19 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-11-A
+-------------------------------
+
+Log Entry : 7:25:24 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-11-A
+-------------------------------
+
+Log Entry : 7:25:24 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (21 / 24) : DESITIPW - DES-TIPOLO WAREHOUSE_2018  : Data Progress ( 87.5 % ) 
+-------------------------------
+
+Log Entry : 7:25:26 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-11-B
+-------------------------------
+
+Log Entry : 7:25:28 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-11-B
+-------------------------------
+
+Log Entry : 7:25:29 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,252.52
+-------------------------------
+
+Log Entry : 7:25:32 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-11-B
+-------------------------------
+
+Log Entry : 7:25:37 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-11-B
+-------------------------------
+
+Log Entry : 7:25:37 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (22 / 24) : DESITIPW - DES-TIPOLO WAREHOUSE_2018  : Data Progress ( 91.67 % ) 
+-------------------------------
+
+Log Entry : 7:25:39 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 7:25:42 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 7:25:42 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 10,177.00
+-------------------------------
+
+Log Entry : 7:25:45 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 7:25:51 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 7:25:51 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (23 / 24) : DESITIPW - DES-TIPOLO WAREHOUSE_2018  : Data Progress ( 95.83 % ) 
+-------------------------------
+
+Log Entry : 7:25:53 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 7:25:55 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 7:25:55 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,472.52
+-------------------------------
+
+Log Entry : 7:25:59 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 7:26:04 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESITIPW - DES-TIPOLO WAREHOUSE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 7:26:04 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (24 / 24) : DESITIPW - DES-TIPOLO WAREHOUSE_2018  : Data Progress ( 100 % ) 
+-------------------------------
+
+Log Entry : 7:26:04 AM Wednesday, 22 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 7:26:06 AM Wednesday, 22 May 2019
+  :
+  :DESITIPW - DES-TIPOLO WAREHOUSE Data Preparing ..
+-------------------------------

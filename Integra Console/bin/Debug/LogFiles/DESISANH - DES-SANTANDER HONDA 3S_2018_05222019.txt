@@ -1,0 +1,10 @@
+
+Log Entry : 7:20:24 AM Wednesday, 22 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 7:20:26 AM Wednesday, 22 May 2019
+  :
+  :DESISANH - DES-SANTANDER HONDA 3S Data Preparing ..
+-------------------------------

@@ -1,0 +1,735 @@
+
+Log Entry : 3:32:54 PM Monday, 13 May 2019
+  :
+  :Data Start Reading
+-------------------------------
+
+Log Entry : 3:32:56 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-01-A
+-------------------------------
+
+Log Entry : 3:32:59 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-01-A
+-------------------------------
+
+Log Entry : 3:32:59 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,624.28
+-------------------------------
+
+Log Entry : 3:33:04 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-01-A
+-------------------------------
+
+Log Entry : 3:33:05 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-01-A
+-------------------------------
+
+Log Entry : 3:33:05 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (1 / 24) : DESMKABK - DES-MARKETING KABANKALAN KAWASAKI_2018  : Data Progress ( 4.17 % ) 
+-------------------------------
+
+Log Entry : 3:33:07 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-01-B
+-------------------------------
+
+Log Entry : 3:33:10 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-01-B
+-------------------------------
+
+Log Entry : 3:33:10 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,910.58
+-------------------------------
+
+Log Entry : 3:33:15 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-01-B
+-------------------------------
+
+Log Entry : 3:33:16 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-01-B
+-------------------------------
+
+Log Entry : 3:33:16 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (2 / 24) : DESMKABK - DES-MARKETING KABANKALAN KAWASAKI_2018  : Data Progress ( 8.33 % ) 
+-------------------------------
+
+Log Entry : 3:33:18 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-02-A
+-------------------------------
+
+Log Entry : 3:33:21 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-02-A
+-------------------------------
+
+Log Entry : 3:33:21 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,240.09
+-------------------------------
+
+Log Entry : 3:33:26 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-02-A
+-------------------------------
+
+Log Entry : 3:33:27 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-02-A
+-------------------------------
+
+Log Entry : 3:33:27 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (3 / 24) : DESMKABK - DES-MARKETING KABANKALAN KAWASAKI_2018  : Data Progress ( 12.5 % ) 
+-------------------------------
+
+Log Entry : 3:33:29 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-02-B
+-------------------------------
+
+Log Entry : 3:33:32 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-02-B
+-------------------------------
+
+Log Entry : 3:33:32 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,371.58
+-------------------------------
+
+Log Entry : 3:33:37 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-02-B
+-------------------------------
+
+Log Entry : 3:33:37 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-02-B
+-------------------------------
+
+Log Entry : 3:33:37 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (4 / 24) : DESMKABK - DES-MARKETING KABANKALAN KAWASAKI_2018  : Data Progress ( 16.67 % ) 
+-------------------------------
+
+Log Entry : 3:33:39 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-03-A
+-------------------------------
+
+Log Entry : 3:33:42 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-03-A
+-------------------------------
+
+Log Entry : 3:33:43 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,871.28
+-------------------------------
+
+Log Entry : 3:33:48 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-03-A
+-------------------------------
+
+Log Entry : 3:33:48 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-03-A
+-------------------------------
+
+Log Entry : 3:33:48 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (5 / 24) : DESMKABK - DES-MARKETING KABANKALAN KAWASAKI_2018  : Data Progress ( 20.83 % ) 
+-------------------------------
+
+Log Entry : 3:33:50 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-03-B
+-------------------------------
+
+Log Entry : 3:33:53 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-03-B
+-------------------------------
+
+Log Entry : 3:33:54 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 2,294.00
+-------------------------------
+
+Log Entry : 3:33:59 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-03-B
+-------------------------------
+
+Log Entry : 3:33:59 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-03-B
+-------------------------------
+
+Log Entry : 3:33:59 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (6 / 24) : DESMKABK - DES-MARKETING KABANKALAN KAWASAKI_2018  : Data Progress ( 25 % ) 
+-------------------------------
+
+Log Entry : 3:34:01 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-04-A
+-------------------------------
+
+Log Entry : 3:34:04 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-04-A
+-------------------------------
+
+Log Entry : 3:34:05 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,080.56
+-------------------------------
+
+Log Entry : 3:34:10 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-04-A
+-------------------------------
+
+Log Entry : 3:34:10 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-04-A
+-------------------------------
+
+Log Entry : 3:34:10 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (7 / 24) : DESMKABK - DES-MARKETING KABANKALAN KAWASAKI_2018  : Data Progress ( 29.17 % ) 
+-------------------------------
+
+Log Entry : 3:34:12 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-04-B
+-------------------------------
+
+Log Entry : 3:34:15 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-04-B
+-------------------------------
+
+Log Entry : 3:34:15 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 4,719.50
+-------------------------------
+
+Log Entry : 3:34:20 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-04-B
+-------------------------------
+
+Log Entry : 3:34:21 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-04-B
+-------------------------------
+
+Log Entry : 3:34:21 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (8 / 24) : DESMKABK - DES-MARKETING KABANKALAN KAWASAKI_2018  : Data Progress ( 33.33 % ) 
+-------------------------------
+
+Log Entry : 3:34:23 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-05-A
+-------------------------------
+
+Log Entry : 3:34:26 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-05-A
+-------------------------------
+
+Log Entry : 3:34:26 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,564.70
+-------------------------------
+
+Log Entry : 3:34:31 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-05-A
+-------------------------------
+
+Log Entry : 3:34:31 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-05-A
+-------------------------------
+
+Log Entry : 3:34:31 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (9 / 24) : DESMKABK - DES-MARKETING KABANKALAN KAWASAKI_2018  : Data Progress ( 37.5 % ) 
+-------------------------------
+
+Log Entry : 3:34:33 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-05-B
+-------------------------------
+
+Log Entry : 3:34:37 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-05-B
+-------------------------------
+
+Log Entry : 3:34:37 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,287.00
+-------------------------------
+
+Log Entry : 3:34:42 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-05-B
+-------------------------------
+
+Log Entry : 3:34:42 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-05-B
+-------------------------------
+
+Log Entry : 3:34:42 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (10 / 24) : DESMKABK - DES-MARKETING KABANKALAN KAWASAKI_2018  : Data Progress ( 41.67 % ) 
+-------------------------------
+
+Log Entry : 3:34:44 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-06-A
+-------------------------------
+
+Log Entry : 3:34:47 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-06-A
+-------------------------------
+
+Log Entry : 3:34:48 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,278.00
+-------------------------------
+
+Log Entry : 3:34:53 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-06-A
+-------------------------------
+
+Log Entry : 3:34:53 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-06-A
+-------------------------------
+
+Log Entry : 3:34:53 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (11 / 24) : DESMKABK - DES-MARKETING KABANKALAN KAWASAKI_2018  : Data Progress ( 45.83 % ) 
+-------------------------------
+
+Log Entry : 3:34:55 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-06-B
+-------------------------------
+
+Log Entry : 3:34:58 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-06-B
+-------------------------------
+
+Log Entry : 3:34:59 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 6,661.00
+-------------------------------
+
+Log Entry : 3:35:04 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-06-B
+-------------------------------
+
+Log Entry : 3:35:04 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-06-B
+-------------------------------
+
+Log Entry : 3:35:04 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (12 / 24) : DESMKABK - DES-MARKETING KABANKALAN KAWASAKI_2018  : Data Progress ( 50 % ) 
+-------------------------------
+
+Log Entry : 3:35:06 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-07-A
+-------------------------------
+
+Log Entry : 3:35:09 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-07-A
+-------------------------------
+
+Log Entry : 3:35:10 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 8,369.00
+-------------------------------
+
+Log Entry : 3:35:15 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-07-A
+-------------------------------
+
+Log Entry : 3:35:15 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-07-A
+-------------------------------
+
+Log Entry : 3:35:15 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (13 / 24) : DESMKABK - DES-MARKETING KABANKALAN KAWASAKI_2018  : Data Progress ( 54.17 % ) 
+-------------------------------
+
+Log Entry : 3:35:17 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-07-B
+-------------------------------
+
+Log Entry : 3:35:20 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-07-B
+-------------------------------
+
+Log Entry : 3:35:20 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,036.00
+-------------------------------
+
+Log Entry : 3:35:26 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-07-B
+-------------------------------
+
+Log Entry : 3:35:26 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-07-B
+-------------------------------
+
+Log Entry : 3:35:26 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (14 / 24) : DESMKABK - DES-MARKETING KABANKALAN KAWASAKI_2018  : Data Progress ( 58.33 % ) 
+-------------------------------
+
+Log Entry : 3:35:28 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-08-A
+-------------------------------
+
+Log Entry : 3:35:31 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-08-A
+-------------------------------
+
+Log Entry : 3:35:31 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 10,482.60
+-------------------------------
+
+Log Entry : 3:35:36 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-08-A
+-------------------------------
+
+Log Entry : 3:35:37 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-08-A
+-------------------------------
+
+Log Entry : 3:35:37 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (15 / 24) : DESMKABK - DES-MARKETING KABANKALAN KAWASAKI_2018  : Data Progress ( 62.5 % ) 
+-------------------------------
+
+Log Entry : 3:35:39 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-08-B
+-------------------------------
+
+Log Entry : 3:35:42 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-08-B
+-------------------------------
+
+Log Entry : 3:35:42 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,681.50
+-------------------------------
+
+Log Entry : 3:35:47 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-08-B
+-------------------------------
+
+Log Entry : 3:35:47 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-08-B
+-------------------------------
+
+Log Entry : 3:35:47 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (16 / 24) : DESMKABK - DES-MARKETING KABANKALAN KAWASAKI_2018  : Data Progress ( 66.67 % ) 
+-------------------------------
+
+Log Entry : 3:35:49 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-09-A
+-------------------------------
+
+Log Entry : 3:35:52 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-09-A
+-------------------------------
+
+Log Entry : 3:35:53 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,944.60
+-------------------------------
+
+Log Entry : 3:35:58 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-09-A
+-------------------------------
+
+Log Entry : 3:35:58 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-09-A
+-------------------------------
+
+Log Entry : 3:35:58 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (17 / 24) : DESMKABK - DES-MARKETING KABANKALAN KAWASAKI_2018  : Data Progress ( 70.83 % ) 
+-------------------------------
+
+Log Entry : 3:36:00 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-09-B
+-------------------------------
+
+Log Entry : 3:36:03 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-09-B
+-------------------------------
+
+Log Entry : 3:36:04 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 5,830.00
+-------------------------------
+
+Log Entry : 3:36:09 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-09-B
+-------------------------------
+
+Log Entry : 3:36:09 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-09-B
+-------------------------------
+
+Log Entry : 3:36:09 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (18 / 24) : DESMKABK - DES-MARKETING KABANKALAN KAWASAKI_2018  : Data Progress ( 75 % ) 
+-------------------------------
+
+Log Entry : 3:36:11 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-10-A
+-------------------------------
+
+Log Entry : 3:36:14 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-10-A
+-------------------------------
+
+Log Entry : 3:36:15 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 9,187.60
+-------------------------------
+
+Log Entry : 3:36:20 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-10-A
+-------------------------------
+
+Log Entry : 3:36:20 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-10-A
+-------------------------------
+
+Log Entry : 3:36:20 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (19 / 24) : DESMKABK - DES-MARKETING KABANKALAN KAWASAKI_2018  : Data Progress ( 79.17 % ) 
+-------------------------------
+
+Log Entry : 3:36:22 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-10-B
+-------------------------------
+
+Log Entry : 3:36:25 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-10-B
+-------------------------------
+
+Log Entry : 3:36:26 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,934.00
+-------------------------------
+
+Log Entry : 3:36:31 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-10-B
+-------------------------------
+
+Log Entry : 3:36:31 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-10-B
+-------------------------------
+
+Log Entry : 3:36:31 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (20 / 24) : DESMKABK - DES-MARKETING KABANKALAN KAWASAKI_2018  : Data Progress ( 83.33 % ) 
+-------------------------------
+
+Log Entry : 3:36:33 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-11-A
+-------------------------------
+
+Log Entry : 3:36:36 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-11-A
+-------------------------------
+
+Log Entry : 3:36:36 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 11,110.90
+-------------------------------
+
+Log Entry : 3:36:42 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-11-A
+-------------------------------
+
+Log Entry : 3:36:42 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-11-A
+-------------------------------
+
+Log Entry : 3:36:42 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (21 / 24) : DESMKABK - DES-MARKETING KABANKALAN KAWASAKI_2018  : Data Progress ( 87.5 % ) 
+-------------------------------
+
+Log Entry : 3:36:44 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-11-B
+-------------------------------
+
+Log Entry : 3:36:47 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-11-B
+-------------------------------
+
+Log Entry : 3:36:47 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 7,358.50
+-------------------------------
+
+Log Entry : 3:36:52 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-11-B
+-------------------------------
+
+Log Entry : 3:36:53 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-11-B
+-------------------------------
+
+Log Entry : 3:36:53 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (22 / 24) : DESMKABK - DES-MARKETING KABANKALAN KAWASAKI_2018  : Data Progress ( 91.67 % ) 
+-------------------------------
+
+Log Entry : 3:36:55 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-12-A
+-------------------------------
+
+Log Entry : 3:36:58 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-12-A
+-------------------------------
+
+Log Entry : 3:36:58 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 11,606.90
+-------------------------------
+
+Log Entry : 3:37:04 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-12-A
+-------------------------------
+
+Log Entry : 3:37:04 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-12-A
+-------------------------------
+
+Log Entry : 3:37:04 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (23 / 24) : DESMKABK - DES-MARKETING KABANKALAN KAWASAKI_2018  : Data Progress ( 95.83 % ) 
+-------------------------------
+
+Log Entry : 3:37:06 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-12-B
+-------------------------------
+
+Log Entry : 3:37:09 PM Monday, 13 May 2019
+  :
+  :Data Generation DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-12-B
+-------------------------------
+
+Log Entry : 3:37:09 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 4,493.00
+-------------------------------
+
+Log Entry : 3:37:14 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-12-B
+-------------------------------
+
+Log Entry : 3:37:15 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESMKABK - DES-MARKETING KABANKALAN KAWASAKI 2018 2018-12-B
+-------------------------------
+
+Log Entry : 3:37:15 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (24 / 24) : DESMKABK - DES-MARKETING KABANKALAN KAWASAKI_2018  : Data Progress ( 100 % ) 
+-------------------------------
+
+Log Entry : 3:37:15 PM Monday, 13 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 3:37:17 PM Monday, 13 May 2019
+  :
+  :DESMKABK - DES-MARKETING KABANKALAN KAWASAKI Data Preparing ..
+-------------------------------

@@ -1,0 +1,10 @@
+
+Log Entry : 6:58:42 AM Wednesday, 22 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 6:58:44 AM Wednesday, 22 May 2019
+  :
+  :DESIJACH - DES-JA CLARIN Data Preparing ..
+-------------------------------

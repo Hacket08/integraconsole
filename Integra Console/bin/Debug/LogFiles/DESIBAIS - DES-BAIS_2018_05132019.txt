@@ -1,0 +1,745 @@
+
+Log Entry : 2:01:38 PM Monday, 13 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 2:01:40 PM Monday, 13 May 2019
+  :
+  :DESIBAIS - DES-BAIS Data Preparing ..
+-------------------------------
+
+Log Entry : 2:01:48 PM Monday, 13 May 2019
+  :
+  :Data Start Reading
+-------------------------------
+
+Log Entry : 2:01:50 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAIS - DES-BAIS 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:01:53 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAIS - DES-BAIS 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:01:54 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 20,520.71
+-------------------------------
+
+Log Entry : 2:01:59 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:02:19 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-01-A
+-------------------------------
+
+Log Entry : 2:02:19 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (1 / 24) : DESIBAIS - DES-BAIS_2018  : Data Progress ( 4.17 % ) 
+-------------------------------
+
+Log Entry : 2:02:21 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAIS - DES-BAIS 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:02:24 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAIS - DES-BAIS 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:02:25 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 13,024.73
+-------------------------------
+
+Log Entry : 2:02:30 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:02:30 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-01-B
+-------------------------------
+
+Log Entry : 2:02:30 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (2 / 24) : DESIBAIS - DES-BAIS_2018  : Data Progress ( 8.33 % ) 
+-------------------------------
+
+Log Entry : 2:02:32 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAIS - DES-BAIS 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:02:35 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAIS - DES-BAIS 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:02:36 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 19,847.35
+-------------------------------
+
+Log Entry : 2:02:41 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:02:41 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-02-A
+-------------------------------
+
+Log Entry : 2:02:41 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (3 / 24) : DESIBAIS - DES-BAIS_2018  : Data Progress ( 12.5 % ) 
+-------------------------------
+
+Log Entry : 2:02:43 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAIS - DES-BAIS 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:02:46 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAIS - DES-BAIS 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:02:47 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 12,822.74
+-------------------------------
+
+Log Entry : 2:02:52 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:02:52 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-02-B
+-------------------------------
+
+Log Entry : 2:02:53 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (4 / 24) : DESIBAIS - DES-BAIS_2018  : Data Progress ( 16.67 % ) 
+-------------------------------
+
+Log Entry : 2:02:55 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAIS - DES-BAIS 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:02:58 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAIS - DES-BAIS 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:02:58 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 21,088.53
+-------------------------------
+
+Log Entry : 2:03:03 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:03:04 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-03-A
+-------------------------------
+
+Log Entry : 2:03:04 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (5 / 24) : DESIBAIS - DES-BAIS_2018  : Data Progress ( 20.83 % ) 
+-------------------------------
+
+Log Entry : 2:03:06 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAIS - DES-BAIS 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:03:09 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAIS - DES-BAIS 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:03:09 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 12,394.50
+-------------------------------
+
+Log Entry : 2:03:14 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:03:15 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-03-B
+-------------------------------
+
+Log Entry : 2:03:15 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (6 / 24) : DESIBAIS - DES-BAIS_2018  : Data Progress ( 25 % ) 
+-------------------------------
+
+Log Entry : 2:03:17 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAIS - DES-BAIS 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:03:20 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAIS - DES-BAIS 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:03:20 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 21,969.42
+-------------------------------
+
+Log Entry : 2:03:25 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:03:26 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-04-A
+-------------------------------
+
+Log Entry : 2:03:26 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (7 / 24) : DESIBAIS - DES-BAIS_2018  : Data Progress ( 29.17 % ) 
+-------------------------------
+
+Log Entry : 2:03:28 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAIS - DES-BAIS 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:03:31 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAIS - DES-BAIS 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:03:31 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 12,933.27
+-------------------------------
+
+Log Entry : 2:03:36 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:03:37 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-04-B
+-------------------------------
+
+Log Entry : 2:03:37 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (8 / 24) : DESIBAIS - DES-BAIS_2018  : Data Progress ( 33.33 % ) 
+-------------------------------
+
+Log Entry : 2:03:39 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAIS - DES-BAIS 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:03:42 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAIS - DES-BAIS 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:03:42 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 20,451.26
+-------------------------------
+
+Log Entry : 2:03:47 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:03:48 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-05-A
+-------------------------------
+
+Log Entry : 2:03:48 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (9 / 24) : DESIBAIS - DES-BAIS_2018  : Data Progress ( 37.5 % ) 
+-------------------------------
+
+Log Entry : 2:03:50 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAIS - DES-BAIS 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:03:53 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAIS - DES-BAIS 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:03:53 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 12,811.54
+-------------------------------
+
+Log Entry : 2:03:59 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:03:59 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-05-B
+-------------------------------
+
+Log Entry : 2:03:59 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (10 / 24) : DESIBAIS - DES-BAIS_2018  : Data Progress ( 41.67 % ) 
+-------------------------------
+
+Log Entry : 2:04:01 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAIS - DES-BAIS 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:04:04 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAIS - DES-BAIS 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:04:04 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 20,594.53
+-------------------------------
+
+Log Entry : 2:04:09 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:04:10 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-06-A
+-------------------------------
+
+Log Entry : 2:04:10 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (11 / 24) : DESIBAIS - DES-BAIS_2018  : Data Progress ( 45.83 % ) 
+-------------------------------
+
+Log Entry : 2:04:12 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAIS - DES-BAIS 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:04:15 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAIS - DES-BAIS 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:04:15 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 12,357.96
+-------------------------------
+
+Log Entry : 2:04:20 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:04:21 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-06-B
+-------------------------------
+
+Log Entry : 2:04:21 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (12 / 24) : DESIBAIS - DES-BAIS_2018  : Data Progress ( 50 % ) 
+-------------------------------
+
+Log Entry : 2:04:23 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAIS - DES-BAIS 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:04:26 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAIS - DES-BAIS 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:04:26 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 21,391.45
+-------------------------------
+
+Log Entry : 2:04:31 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:04:31 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-07-A
+-------------------------------
+
+Log Entry : 2:04:31 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (13 / 24) : DESIBAIS - DES-BAIS_2018  : Data Progress ( 54.17 % ) 
+-------------------------------
+
+Log Entry : 2:04:33 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAIS - DES-BAIS 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:04:36 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAIS - DES-BAIS 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:04:37 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 13,608.46
+-------------------------------
+
+Log Entry : 2:04:42 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:04:42 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-07-B
+-------------------------------
+
+Log Entry : 2:04:42 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (14 / 24) : DESIBAIS - DES-BAIS_2018  : Data Progress ( 58.33 % ) 
+-------------------------------
+
+Log Entry : 2:04:44 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAIS - DES-BAIS 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:04:47 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAIS - DES-BAIS 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:04:48 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 21,877.95
+-------------------------------
+
+Log Entry : 2:04:53 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:04:53 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-08-A
+-------------------------------
+
+Log Entry : 2:04:53 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (15 / 24) : DESIBAIS - DES-BAIS_2018  : Data Progress ( 62.5 % ) 
+-------------------------------
+
+Log Entry : 2:04:55 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAIS - DES-BAIS 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:04:58 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAIS - DES-BAIS 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:04:59 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 14,173.82
+-------------------------------
+
+Log Entry : 2:05:04 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:05:04 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-08-B
+-------------------------------
+
+Log Entry : 2:05:04 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (16 / 24) : DESIBAIS - DES-BAIS_2018  : Data Progress ( 66.67 % ) 
+-------------------------------
+
+Log Entry : 2:05:06 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAIS - DES-BAIS 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:05:09 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAIS - DES-BAIS 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:05:10 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 22,902.95
+-------------------------------
+
+Log Entry : 2:05:15 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:05:15 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-09-A
+-------------------------------
+
+Log Entry : 2:05:15 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (17 / 24) : DESIBAIS - DES-BAIS_2018  : Data Progress ( 70.83 % ) 
+-------------------------------
+
+Log Entry : 2:05:17 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAIS - DES-BAIS 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:05:20 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAIS - DES-BAIS 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:05:21 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 14,638.82
+-------------------------------
+
+Log Entry : 2:05:26 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:05:26 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-09-B
+-------------------------------
+
+Log Entry : 2:05:26 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (18 / 24) : DESIBAIS - DES-BAIS_2018  : Data Progress ( 75 % ) 
+-------------------------------
+
+Log Entry : 2:05:28 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAIS - DES-BAIS 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:05:31 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAIS - DES-BAIS 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:05:32 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 22,661.09
+-------------------------------
+
+Log Entry : 2:05:37 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:05:37 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-10-A
+-------------------------------
+
+Log Entry : 2:05:37 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (19 / 24) : DESIBAIS - DES-BAIS_2018  : Data Progress ( 79.17 % ) 
+-------------------------------
+
+Log Entry : 2:05:39 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAIS - DES-BAIS 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:05:42 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAIS - DES-BAIS 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:05:42 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 14,396.96
+-------------------------------
+
+Log Entry : 2:05:47 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:05:48 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-10-B
+-------------------------------
+
+Log Entry : 2:05:48 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (20 / 24) : DESIBAIS - DES-BAIS_2018  : Data Progress ( 83.33 % ) 
+-------------------------------
+
+Log Entry : 2:05:50 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAIS - DES-BAIS 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:05:53 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAIS - DES-BAIS 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:05:53 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 21,353.36
+-------------------------------
+
+Log Entry : 2:05:58 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:05:59 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-11-A
+-------------------------------
+
+Log Entry : 2:05:59 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (21 / 24) : DESIBAIS - DES-BAIS_2018  : Data Progress ( 87.5 % ) 
+-------------------------------
+
+Log Entry : 2:06:01 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAIS - DES-BAIS 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:06:04 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAIS - DES-BAIS 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:06:04 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 12,933.23
+-------------------------------
+
+Log Entry : 2:06:09 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:06:10 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-11-B
+-------------------------------
+
+Log Entry : 2:06:10 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (22 / 24) : DESIBAIS - DES-BAIS_2018  : Data Progress ( 91.67 % ) 
+-------------------------------
+
+Log Entry : 2:06:12 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAIS - DES-BAIS 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:06:15 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAIS - DES-BAIS 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:06:15 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 21,934.36
+-------------------------------
+
+Log Entry : 2:06:20 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:06:21 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-12-A
+-------------------------------
+
+Log Entry : 2:06:21 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (23 / 24) : DESIBAIS - DES-BAIS_2018  : Data Progress ( 95.83 % ) 
+-------------------------------
+
+Log Entry : 2:06:23 PM Monday, 13 May 2019
+  :
+  :Data Preparation DESIBAIS - DES-BAIS 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:06:26 PM Monday, 13 May 2019
+  :
+  :Data Generation DESIBAIS - DES-BAIS 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:06:26 PM Monday, 13 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 14,064.73
+-------------------------------
+
+Log Entry : 2:06:31 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:06:32 PM Monday, 13 May 2019
+  :
+  :Data Uploading DESIBAIS - DES-BAIS 2018 2018-12-B
+-------------------------------
+
+Log Entry : 2:06:32 PM Monday, 13 May 2019
+  :
+  :Payroll Data Uploading: (24 / 24) : DESIBAIS - DES-BAIS_2018  : Data Progress ( 100 % ) 
+-------------------------------
+
+Log Entry : 2:06:32 PM Monday, 13 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 2:06:34 PM Monday, 13 May 2019
+  :
+  :DESIBAIS - DES-BAIS Data Preparing ..
+-------------------------------

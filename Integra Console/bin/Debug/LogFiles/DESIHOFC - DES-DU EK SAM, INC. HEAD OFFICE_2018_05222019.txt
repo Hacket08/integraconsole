@@ -1,0 +1,720 @@
+
+Log Entry : 6:49:51 AM Wednesday, 22 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 6:49:53 AM Wednesday, 22 May 2019
+  :
+  :DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE Data Preparing ..
+-------------------------------
+
+Log Entry : 6:50:22 AM Wednesday, 22 May 2019
+  :
+  :Data Start Reading
+-------------------------------
+
+Log Entry : 6:50:24 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (1 / 24) : DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE_2018  : Data Progress ( 4.17 % ) 
+-------------------------------
+
+Log Entry : 6:50:26 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-01-B
+-------------------------------
+
+Log Entry : 6:50:28 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-01-B
+-------------------------------
+
+Log Entry : 6:50:33 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 841,782.73
+-------------------------------
+
+Log Entry : 6:50:37 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-01-B
+-------------------------------
+
+Log Entry : 6:52:42 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-01-B
+-------------------------------
+
+Log Entry : 6:52:43 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (2 / 24) : DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE_2018  : Data Progress ( 8.33 % ) 
+-------------------------------
+
+Log Entry : 6:52:45 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-02-A
+-------------------------------
+
+Log Entry : 6:52:47 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-02-A
+-------------------------------
+
+Log Entry : 6:52:49 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 1,104,635.26
+-------------------------------
+
+Log Entry : 6:52:53 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-02-A
+-------------------------------
+
+Log Entry : 6:53:01 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-02-A
+-------------------------------
+
+Log Entry : 6:53:01 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (3 / 24) : DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE_2018  : Data Progress ( 12.5 % ) 
+-------------------------------
+
+Log Entry : 6:53:03 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-02-B
+-------------------------------
+
+Log Entry : 6:53:05 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-02-B
+-------------------------------
+
+Log Entry : 6:53:08 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 839,773.14
+-------------------------------
+
+Log Entry : 6:53:11 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-02-B
+-------------------------------
+
+Log Entry : 6:53:17 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-02-B
+-------------------------------
+
+Log Entry : 6:53:17 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (4 / 24) : DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE_2018  : Data Progress ( 16.67 % ) 
+-------------------------------
+
+Log Entry : 6:53:19 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-03-A
+-------------------------------
+
+Log Entry : 6:53:21 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-03-A
+-------------------------------
+
+Log Entry : 6:53:23 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 1,095,376.67
+-------------------------------
+
+Log Entry : 6:53:27 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-03-A
+-------------------------------
+
+Log Entry : 6:53:33 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-03-A
+-------------------------------
+
+Log Entry : 6:53:33 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (5 / 24) : DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE_2018  : Data Progress ( 20.83 % ) 
+-------------------------------
+
+Log Entry : 6:53:35 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-03-B
+-------------------------------
+
+Log Entry : 6:53:37 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-03-B
+-------------------------------
+
+Log Entry : 6:53:39 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 829,478.34
+-------------------------------
+
+Log Entry : 6:53:42 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-03-B
+-------------------------------
+
+Log Entry : 6:53:48 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-03-B
+-------------------------------
+
+Log Entry : 6:53:48 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (6 / 24) : DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE_2018  : Data Progress ( 25 % ) 
+-------------------------------
+
+Log Entry : 6:53:51 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-04-A
+-------------------------------
+
+Log Entry : 6:53:53 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-04-A
+-------------------------------
+
+Log Entry : 6:53:55 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 1,070,040.77
+-------------------------------
+
+Log Entry : 6:53:58 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-04-A
+-------------------------------
+
+Log Entry : 6:54:04 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-04-A
+-------------------------------
+
+Log Entry : 6:54:04 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (7 / 24) : DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE_2018  : Data Progress ( 29.17 % ) 
+-------------------------------
+
+Log Entry : 6:54:06 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-04-B
+-------------------------------
+
+Log Entry : 6:54:08 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-04-B
+-------------------------------
+
+Log Entry : 6:54:10 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 842,433.11
+-------------------------------
+
+Log Entry : 6:54:13 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-04-B
+-------------------------------
+
+Log Entry : 6:54:20 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-04-B
+-------------------------------
+
+Log Entry : 6:54:20 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (8 / 24) : DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE_2018  : Data Progress ( 33.33 % ) 
+-------------------------------
+
+Log Entry : 6:54:22 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-05-A
+-------------------------------
+
+Log Entry : 6:54:24 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-05-A
+-------------------------------
+
+Log Entry : 6:54:26 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 1,131,325.95
+-------------------------------
+
+Log Entry : 6:54:29 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-05-A
+-------------------------------
+
+Log Entry : 6:54:36 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-05-A
+-------------------------------
+
+Log Entry : 6:54:36 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (9 / 24) : DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE_2018  : Data Progress ( 37.5 % ) 
+-------------------------------
+
+Log Entry : 6:54:38 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-05-B
+-------------------------------
+
+Log Entry : 6:54:41 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-05-B
+-------------------------------
+
+Log Entry : 6:54:42 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 901,076.55
+-------------------------------
+
+Log Entry : 6:54:46 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-05-B
+-------------------------------
+
+Log Entry : 6:54:52 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-05-B
+-------------------------------
+
+Log Entry : 6:54:52 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (10 / 24) : DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE_2018  : Data Progress ( 41.67 % ) 
+-------------------------------
+
+Log Entry : 6:54:54 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-06-A
+-------------------------------
+
+Log Entry : 6:54:56 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-06-A
+-------------------------------
+
+Log Entry : 6:54:58 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 1,143,640.41
+-------------------------------
+
+Log Entry : 6:55:01 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-06-A
+-------------------------------
+
+Log Entry : 6:55:08 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-06-A
+-------------------------------
+
+Log Entry : 6:55:08 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (11 / 24) : DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE_2018  : Data Progress ( 45.83 % ) 
+-------------------------------
+
+Log Entry : 6:55:10 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-06-B
+-------------------------------
+
+Log Entry : 6:55:12 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-06-B
+-------------------------------
+
+Log Entry : 6:55:14 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 891,060.94
+-------------------------------
+
+Log Entry : 6:55:17 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-06-B
+-------------------------------
+
+Log Entry : 6:55:23 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-06-B
+-------------------------------
+
+Log Entry : 6:55:23 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (12 / 24) : DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE_2018  : Data Progress ( 50 % ) 
+-------------------------------
+
+Log Entry : 6:55:25 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-07-A
+-------------------------------
+
+Log Entry : 6:55:27 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-07-A
+-------------------------------
+
+Log Entry : 6:55:29 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 1,157,639.25
+-------------------------------
+
+Log Entry : 6:55:33 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-07-A
+-------------------------------
+
+Log Entry : 6:55:39 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-07-A
+-------------------------------
+
+Log Entry : 6:55:39 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (13 / 24) : DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE_2018  : Data Progress ( 54.17 % ) 
+-------------------------------
+
+Log Entry : 6:55:41 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-07-B
+-------------------------------
+
+Log Entry : 6:55:43 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-07-B
+-------------------------------
+
+Log Entry : 6:55:44 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 872,134.00
+-------------------------------
+
+Log Entry : 6:55:48 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-07-B
+-------------------------------
+
+Log Entry : 6:55:54 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-07-B
+-------------------------------
+
+Log Entry : 6:55:54 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (14 / 24) : DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE_2018  : Data Progress ( 58.33 % ) 
+-------------------------------
+
+Log Entry : 6:55:56 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-08-A
+-------------------------------
+
+Log Entry : 6:55:58 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-08-A
+-------------------------------
+
+Log Entry : 6:56:00 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 1,154,991.09
+-------------------------------
+
+Log Entry : 6:56:03 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-08-A
+-------------------------------
+
+Log Entry : 6:56:09 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-08-A
+-------------------------------
+
+Log Entry : 6:56:09 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (15 / 24) : DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE_2018  : Data Progress ( 62.5 % ) 
+-------------------------------
+
+Log Entry : 6:56:11 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-08-B
+-------------------------------
+
+Log Entry : 6:56:14 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-08-B
+-------------------------------
+
+Log Entry : 6:56:16 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 860,915.67
+-------------------------------
+
+Log Entry : 6:56:19 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-08-B
+-------------------------------
+
+Log Entry : 6:56:25 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-08-B
+-------------------------------
+
+Log Entry : 6:56:25 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (16 / 24) : DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE_2018  : Data Progress ( 66.67 % ) 
+-------------------------------
+
+Log Entry : 6:56:27 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-09-A
+-------------------------------
+
+Log Entry : 6:56:29 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-09-A
+-------------------------------
+
+Log Entry : 6:56:31 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 1,163,592.71
+-------------------------------
+
+Log Entry : 6:56:35 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-09-A
+-------------------------------
+
+Log Entry : 6:56:41 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-09-A
+-------------------------------
+
+Log Entry : 6:56:41 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (17 / 24) : DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE_2018  : Data Progress ( 70.83 % ) 
+-------------------------------
+
+Log Entry : 6:56:43 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-09-B
+-------------------------------
+
+Log Entry : 6:56:45 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-09-B
+-------------------------------
+
+Log Entry : 6:56:47 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 913,106.38
+-------------------------------
+
+Log Entry : 6:56:50 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-09-B
+-------------------------------
+
+Log Entry : 6:56:56 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-09-B
+-------------------------------
+
+Log Entry : 6:56:57 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (18 / 24) : DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE_2018  : Data Progress ( 75 % ) 
+-------------------------------
+
+Log Entry : 6:56:59 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-10-A
+-------------------------------
+
+Log Entry : 6:57:01 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-10-A
+-------------------------------
+
+Log Entry : 6:57:03 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 1,177,443.02
+-------------------------------
+
+Log Entry : 6:57:06 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-10-A
+-------------------------------
+
+Log Entry : 6:57:12 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-10-A
+-------------------------------
+
+Log Entry : 6:57:12 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (19 / 24) : DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE_2018  : Data Progress ( 79.17 % ) 
+-------------------------------
+
+Log Entry : 6:57:14 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-10-B
+-------------------------------
+
+Log Entry : 6:57:16 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-10-B
+-------------------------------
+
+Log Entry : 6:57:18 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 914,556.59
+-------------------------------
+
+Log Entry : 6:57:22 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-10-B
+-------------------------------
+
+Log Entry : 6:57:28 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-10-B
+-------------------------------
+
+Log Entry : 6:57:28 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (20 / 24) : DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE_2018  : Data Progress ( 83.33 % ) 
+-------------------------------
+
+Log Entry : 6:57:30 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-11-A
+-------------------------------
+
+Log Entry : 6:57:32 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-11-A
+-------------------------------
+
+Log Entry : 6:57:34 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 1,217,051.20
+-------------------------------
+
+Log Entry : 6:57:38 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-11-A
+-------------------------------
+
+Log Entry : 6:57:44 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-11-A
+-------------------------------
+
+Log Entry : 6:57:44 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (21 / 24) : DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE_2018  : Data Progress ( 87.5 % ) 
+-------------------------------
+
+Log Entry : 6:57:46 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-11-B
+-------------------------------
+
+Log Entry : 6:57:48 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-11-B
+-------------------------------
+
+Log Entry : 6:57:50 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 948,418.10
+-------------------------------
+
+Log Entry : 6:57:53 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-11-B
+-------------------------------
+
+Log Entry : 6:58:00 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-11-B
+-------------------------------
+
+Log Entry : 6:58:00 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (22 / 24) : DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE_2018  : Data Progress ( 91.67 % ) 
+-------------------------------
+
+Log Entry : 6:58:02 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 6:58:04 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 6:58:06 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 1,244,586.94
+-------------------------------
+
+Log Entry : 6:58:10 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 6:58:16 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-12-A
+-------------------------------
+
+Log Entry : 6:58:16 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (23 / 24) : DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE_2018  : Data Progress ( 95.83 % ) 
+-------------------------------
+
+Log Entry : 6:58:18 AM Wednesday, 22 May 2019
+  :
+  :Data Preparation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 6:58:20 AM Wednesday, 22 May 2019
+  :
+  :Data Generation DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 6:58:22 AM Wednesday, 22 May 2019
+  :
+  :Payroll Loan Processing Complete : Amount Generated : 946,229.20
+-------------------------------
+
+Log Entry : 6:58:26 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 6:58:32 AM Wednesday, 22 May 2019
+  :
+  :Data Uploading DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE 2018 2018-12-B
+-------------------------------
+
+Log Entry : 6:58:32 AM Wednesday, 22 May 2019
+  :
+  :Payroll Data Uploading: (24 / 24) : DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE_2018  : Data Progress ( 100 % ) 
+-------------------------------
+
+Log Entry : 6:58:32 AM Wednesday, 22 May 2019
+  :
+  :System Initializing For Data Payroll Uploading ..
+-------------------------------
+
+Log Entry : 6:58:34 AM Wednesday, 22 May 2019
+  :
+  :DESIHOFC - DES-DU EK SAM, INC. HEAD OFFICE Data Preparing ..
+-------------------------------
